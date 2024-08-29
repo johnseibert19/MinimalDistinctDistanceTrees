@@ -1,0 +1,13 @@
+TWO COMPONENT
+Perfect Forest: 
+(; 1 ; 2 3 ; 28 29 30 ; 24 25 26 4 ; 34 35 36 6 10 ; 31 32 33 11 7 17 ; 37 38 39 9 13 15 20 ; 40 41 42 12 16 18 23 21 ; diameter=42)
+(; 5 ; 14 19 ; 22 27 8 ; diameter=27)
+TWO COMPONENT
+Perfect Forest: 
+(; 1 ; 2 3 ; 26 27 28 ; 32 33 34 6 ; 17 18 19 9 15 ; diameter=34)
+(; 4 ; 7 11 ; 14 10 21 ; 24 20 31 30 ; 29 25 36 35 5 ; 16 12 23 22 8 13 ; diameter=36)
+TWO COMPONENT
+Perfect Forest: 
+(; 1 ; 28 29 ; 30 31 2 ; 19 20 9 11 ; 13 14 15 17 6 ; 23 24 25 27 16 10 ; diameter=31)
+(; 3 ; 4 7 ; 8 5 12 ; 18 21 22 26 ; diameter=26)
+All done!

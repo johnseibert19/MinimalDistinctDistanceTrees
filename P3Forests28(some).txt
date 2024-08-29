@@ -1,0 +1,2763 @@
+All P3s
+Perfect Forest: 
+(; 1 ; 2 3 ; 31 30 33 ; diameter=33)
+(; 4 ; 13 17 ; 37 41 24 ; diameter=41)
+(; 5 ; 22 27 ; 34 39 12 ; diameter=39)
+(; 6 ; 20 26 ; 36 42 16 ; diameter=42)
+(; 7 ; 18 25 ; 28 35 10 ; diameter=35)
+(; 8 ; 11 19 ; 32 40 21 ; diameter=40)
+(; 9 ; 14 23 ; 29 38 15 ; diameter=38)
+All P3s
+Perfect Forest: 
+(; 1 ; 2 3 ; 31 32 29 ; diameter=32)
+(; 4 ; 26 30 ; 36 40 10 ; diameter=40)
+(; 5 ; 13 18 ; 33 38 20 ; diameter=38)
+(; 6 ; 21 27 ; 35 41 14 ; diameter=41)
+(; 7 ; 15 22 ; 24 17 39 ; diameter=39)
+(; 8 ; 11 19 ; 34 42 23 ; diameter=42)
+(; 9 ; 16 25 ; 28 37 12 ; diameter=37)
+All P3s
+Perfect Forest: 
+(; 1 ; 2 3 ; 35 34 37 ; diameter=37)
+(; 4 ; 14 18 ; 27 23 41 ; diameter=41)
+(; 5 ; 25 30 ; 31 36 6 ; diameter=36)
+(; 7 ; 17 24 ; 32 39 15 ; diameter=39)
+(; 8 ; 11 19 ; 29 21 40 ; diameter=40)
+(; 9 ; 13 22 ; 33 42 20 ; diameter=42)
+(; 10 ; 16 26 ; 28 38 12 ; diameter=38)
+All P3s
+Perfect Forest: 
+(; 1 ; 2 3 ; 36 35 38 ; diameter=38)
+(; 4 ; 27 31 ; 33 37 6 ; diameter=37)
+(; 5 ; 20 25 ; 29 34 9 ; diameter=34)
+(; 7 ; 15 22 ; 24 17 39 ; diameter=39)
+(; 8 ; 11 19 ; 32 40 21 ; diameter=40)
+(; 10 ; 13 23 ; 28 18 41 ; diameter=41)
+(; 12 ; 14 26 ; 30 42 16 ; diameter=42)
+All P3s
+Perfect Forest: 
+(; 1 ; 2 3 ; 31 30 33 ; diameter=33)
+(; 4 ; 18 22 ; 38 42 20 ; diameter=42)
+(; 5 ; 24 29 ; 34 39 10 ; diameter=39)
+(; 6 ; 26 32 ; 35 41 9 ; diameter=41)
+(; 7 ; 14 21 ; 23 16 37 ; diameter=37)
+(; 8 ; 11 19 ; 28 36 17 ; diameter=36)
+(; 12 ; 13 25 ; 27 15 40 ; diameter=40)
+All P3s
+Perfect Forest: 
+(; 1 ; 2 3 ; 37 36 39 ; diameter=39)
+(; 4 ; 22 26 ; 28 32 6 ; diameter=32)
+(; 5 ; 18 23 ; 33 38 15 ; diameter=38)
+(; 7 ; 20 27 ; 34 41 14 ; diameter=41)
+(; 8 ; 11 19 ; 24 16 35 ; diameter=35)
+(; 9 ; 21 30 ; 31 40 10 ; diameter=40)
+(; 12 ; 13 25 ; 29 17 42 ; diameter=42)
+All P3s
+Perfect Forest: 
+(; 1 ; 2 3 ; 33 32 35 ; diameter=35)
+(; 4 ; 23 27 ; 38 42 15 ; diameter=42)
+(; 5 ; 20 25 ; 36 41 16 ; diameter=41)
+(; 6 ; 22 28 ; 34 40 12 ; diameter=40)
+(; 7 ; 14 21 ; 24 31 10 ; diameter=31)
+(; 8 ; 11 19 ; 29 37 18 ; diameter=37)
+(; 9 ; 17 26 ; 30 39 13 ; diameter=39)
+All P3s
+Perfect Forest: 
+(; 1 ; 2 3 ; 31 30 33 ; diameter=33)
+(; 4 ; 28 32 ; 38 42 10 ; diameter=42)
+(; 5 ; 20 25 ; 36 41 16 ; diameter=41)
+(; 6 ; 21 27 ; 34 40 13 ; diameter=40)
+(; 7 ; 15 22 ; 24 17 39 ; diameter=39)
+(; 8 ; 11 19 ; 29 37 18 ; diameter=37)
+(; 9 ; 14 23 ; 26 35 12 ; diameter=35)
+All P3s
+Perfect Forest: 
+(; 1 ; 2 3 ; 35 34 37 ; diameter=37)
+(; 4 ; 14 18 ; 27 23 41 ; diameter=41)
+(; 5 ; 25 30 ; 31 36 6 ; diameter=36)
+(; 7 ; 15 22 ; 24 17 39 ; diameter=39)
+(; 8 ; 11 19 ; 32 40 21 ; diameter=40)
+(; 9 ; 20 29 ; 33 42 13 ; diameter=42)
+(; 10 ; 16 26 ; 28 38 12 ; diameter=38)
+All P3s
+Perfect Forest: 
+(; 1 ; 2 3 ; 31 30 33 ; diameter=33)
+(; 4 ; 18 22 ; 38 42 20 ; diameter=42)
+(; 5 ; 24 29 ; 34 39 10 ; diameter=39)
+(; 6 ; 26 32 ; 35 41 9 ; diameter=41)
+(; 7 ; 14 21 ; 23 16 37 ; diameter=37)
+(; 8 ; 11 19 ; 25 17 36 ; diameter=36)
+(; 12 ; 15 27 ; 28 40 13 ; diameter=40)
+All P3s
+Perfect Forest: 
+(; 1 ; 2 3 ; 31 30 33 ; diameter=33)
+(; 4 ; 20 24 ; 36 40 16 ; diameter=40)
+(; 5 ; 27 32 ; 37 42 10 ; diameter=42)
+(; 6 ; 22 28 ; 35 41 13 ; diameter=41)
+(; 7 ; 14 21 ; 25 18 39 ; diameter=39)
+(; 8 ; 11 19 ; 23 15 34 ; diameter=34)
+(; 9 ; 17 26 ; 29 38 12 ; diameter=38)
+All P3s
+Perfect Forest: 
+(; 1 ; 2 3 ; 25 24 27 ; diameter=27)
+(; 4 ; 31 35 ; 36 40 5 ; diameter=40)
+(; 6 ; 16 22 ; 33 39 17 ; diameter=39)
+(; 7 ; 21 28 ; 34 41 13 ; diameter=41)
+(; 8 ; 11 19 ; 26 18 37 ; diameter=37)
+(; 9 ; 14 23 ; 29 38 15 ; diameter=38)
+(; 10 ; 20 30 ; 32 42 12 ; diameter=42)
+All P3s
+Perfect Forest: 
+(; 1 ; 2 3 ; 37 38 35 ; diameter=38)
+(; 4 ; 20 24 ; 26 30 6 ; diameter=30)
+(; 5 ; 18 23 ; 34 39 16 ; diameter=39)
+(; 7 ; 21 28 ; 33 40 12 ; diameter=40)
+(; 8 ; 11 19 ; 25 17 36 ; diameter=36)
+(; 9 ; 22 31 ; 32 41 10 ; diameter=41)
+(; 13 ; 14 27 ; 29 42 15 ; diameter=42)
+All P3s
+Perfect Forest: 
+(; 1 ; 2 3 ; 37 38 35 ; diameter=38)
+(; 4 ; 20 24 ; 29 33 9 ; diameter=33)
+(; 5 ; 21 26 ; 36 41 15 ; diameter=41)
+(; 6 ; 16 22 ; 28 34 12 ; diameter=34)
+(; 7 ; 18 25 ; 32 39 14 ; diameter=39)
+(; 8 ; 11 19 ; 31 23 42 ; diameter=42)
+(; 10 ; 17 27 ; 30 40 13 ; diameter=40)
+All P3s
+Perfect Forest: 
+(; 1 ; 2 3 ; 29 28 31 ; diameter=31)
+(; 4 ; 12 16 ; 33 37 21 ; diameter=37)
+(; 5 ; 22 27 ; 36 41 14 ; diameter=41)
+(; 6 ; 26 32 ; 34 40 8 ; diameter=40)
+(; 7 ; 17 24 ; 35 42 18 ; diameter=42)
+(; 9 ; 11 20 ; 30 39 19 ; diameter=39)
+(; 10 ; 13 23 ; 25 15 38 ; diameter=38)
+All P3s
+Perfect Forest: 
+(; 1 ; 2 3 ; 33 34 31 ; diameter=34)
+(; 4 ; 12 16 ; 37 41 25 ; diameter=41)
+(; 5 ; 21 26 ; 35 40 14 ; diameter=40)
+(; 6 ; 22 28 ; 30 36 8 ; diameter=36)
+(; 7 ; 17 24 ; 32 39 15 ; diameter=39)
+(; 9 ; 11 20 ; 27 18 38 ; diameter=38)
+(; 10 ; 13 23 ; 29 19 42 ; diameter=42)
+All P3s
+Perfect Forest: 
+(; 1 ; 2 3 ; 30 31 28 ; diameter=31)
+(; 4 ; 19 23 ; 37 41 18 ; diameter=41)
+(; 5 ; 12 17 ; 33 38 21 ; diameter=38)
+(; 6 ; 26 32 ; 34 40 8 ; diameter=40)
+(; 7 ; 22 29 ; 35 42 13 ; diameter=42)
+(; 9 ; 11 20 ; 27 36 16 ; diameter=36)
+(; 10 ; 14 24 ; 25 15 39 ; diameter=39)
+All P3s
+Perfect Forest: 
+(; 1 ; 2 3 ; 35 34 37 ; diameter=37)
+(; 4 ; 25 29 ; 32 36 7 ; diameter=36)
+(; 5 ; 12 17 ; 26 21 38 ; diameter=38)
+(; 6 ; 16 22 ; 24 18 40 ; diameter=40)
+(; 8 ; 23 31 ; 33 41 10 ; diameter=41)
+(; 9 ; 11 20 ; 30 39 19 ; diameter=39)
+(; 13 ; 14 27 ; 28 15 42 ; diameter=42)
+All P3s
+Perfect Forest: 
+(; 1 ; 2 3 ; 31 30 33 ; diameter=33)
+(; 4 ; 21 25 ; 35 39 14 ; diameter=39)
+(; 5 ; 12 17 ; 28 23 40 ; diameter=40)
+(; 6 ; 26 32 ; 36 42 10 ; diameter=42)
+(; 7 ; 15 22 ; 34 41 19 ; diameter=41)
+(; 8 ; 16 24 ; 29 37 13 ; diameter=37)
+(; 9 ; 11 20 ; 27 18 38 ; diameter=38)
+All P3s
+Perfect Forest: 
+(; 1 ; 2 3 ; 33 34 31 ; diameter=34)
+(; 4 ; 25 29 ; 32 36 7 ; diameter=36)
+(; 5 ; 22 27 ; 37 42 15 ; diameter=42)
+(; 6 ; 12 18 ; 35 41 23 ; diameter=41)
+(; 8 ; 13 21 ; 30 38 17 ; diameter=38)
+(; 9 ; 11 20 ; 28 19 39 ; diameter=39)
+(; 10 ; 14 24 ; 26 16 40 ; diameter=40)
+All P3s
+Perfect Forest: 
+(; 1 ; 2 3 ; 34 35 32 ; diameter=35)
+(; 4 ; 21 25 ; 36 40 15 ; diameter=40)
+(; 5 ; 26 31 ; 33 38 7 ; diameter=38)
+(; 6 ; 12 18 ; 30 24 42 ; diameter=42)
+(; 8 ; 14 22 ; 27 19 41 ; diameter=41)
+(; 9 ; 11 20 ; 28 37 17 ; diameter=37)
+(; 10 ; 13 23 ; 29 39 16 ; diameter=39)
+All P3s
+Perfect Forest: 
+(; 1 ; 2 3 ; 35 36 33 ; diameter=36)
+(; 4 ; 24 28 ; 38 42 14 ; diameter=42)
+(; 5 ; 22 27 ; 29 34 7 ; diameter=34)
+(; 6 ; 12 18 ; 31 37 19 ; diameter=37)
+(; 8 ; 17 25 ; 32 40 15 ; diameter=40)
+(; 9 ; 11 20 ; 30 21 41 ; diameter=41)
+(; 10 ; 13 23 ; 26 16 39 ; diameter=39)
+All P3s
+Perfect Forest: 
+(; 1 ; 2 3 ; 33 32 35 ; diameter=35)
+(; 4 ; 25 29 ; 38 42 13 ; diameter=42)
+(; 5 ; 23 28 ; 31 36 8 ; diameter=36)
+(; 6 ; 12 18 ; 27 21 39 ; diameter=39)
+(; 7 ; 15 22 ; 34 41 19 ; diameter=41)
+(; 9 ; 11 20 ; 26 17 37 ; diameter=37)
+(; 10 ; 14 24 ; 30 40 16 ; diameter=40)
+All P3s
+Perfect Forest: 
+(; 1 ; 2 3 ; 30 29 32 ; diameter=32)
+(; 4 ; 13 17 ; 36 40 23 ; diameter=40)
+(; 5 ; 26 31 ; 33 38 7 ; diameter=38)
+(; 6 ; 21 27 ; 35 41 14 ; diameter=41)
+(; 8 ; 16 24 ; 34 42 18 ; diameter=42)
+(; 9 ; 11 20 ; 28 19 39 ; diameter=39)
+(; 10 ; 12 22 ; 25 15 37 ; diameter=37)
+All P3s
+Perfect Forest: 
+(; 1 ; 2 3 ; 36 35 38 ; diameter=38)
+(; 4 ; 24 28 ; 30 34 6 ; diameter=34)
+(; 5 ; 16 21 ; 23 18 39 ; diameter=39)
+(; 7 ; 25 32 ; 33 40 8 ; diameter=40)
+(; 9 ; 11 20 ; 26 17 37 ; diameter=37)
+(; 10 ; 12 22 ; 31 41 19 ; diameter=41)
+(; 13 ; 14 27 ; 29 42 15 ; diameter=42)
+All P3s
+Perfect Forest: 
+(; 1 ; 2 3 ; 32 33 30 ; diameter=33)
+(; 4 ; 23 27 ; 37 41 14 ; diameter=41)
+(; 5 ; 16 21 ; 24 19 40 ; diameter=40)
+(; 6 ; 28 34 ; 36 42 8 ; diameter=42)
+(; 7 ; 18 25 ; 31 38 13 ; diameter=38)
+(; 9 ; 11 20 ; 26 35 15 ; diameter=35)
+(; 10 ; 12 22 ; 29 39 17 ; diameter=39)
+All P3s
+Perfect Forest: 
+(; 1 ; 2 3 ; 29 28 31 ; diameter=31)
+(; 4 ; 30 34 ; 36 40 6 ; diameter=40)
+(; 5 ; 21 26 ; 37 42 16 ; diameter=42)
+(; 7 ; 17 24 ; 32 39 15 ; diameter=39)
+(; 8 ; 14 22 ; 33 41 19 ; diameter=41)
+(; 9 ; 11 20 ; 27 18 38 ; diameter=38)
+(; 10 ; 13 23 ; 25 35 12 ; diameter=35)
+All P3s
+Perfect Forest: 
+(; 1 ; 2 3 ; 34 35 32 ; diameter=35)
+(; 4 ; 13 17 ; 27 23 40 ; diameter=40)
+(; 5 ; 19 24 ; 37 42 18 ; diameter=42)
+(; 6 ; 25 31 ; 33 39 8 ; diameter=39)
+(; 7 ; 15 22 ; 29 36 14 ; diameter=36)
+(; 9 ; 11 20 ; 30 21 41 ; diameter=41)
+(; 10 ; 16 26 ; 28 38 12 ; diameter=38)
+All P3s
+Perfect Forest: 
+(; 1 ; 2 3 ; 31 32 29 ; diameter=32)
+(; 4 ; 19 23 ; 36 40 17 ; diameter=40)
+(; 5 ; 13 18 ; 26 21 39 ; diameter=39)
+(; 6 ; 28 34 ; 35 41 7 ; diameter=41)
+(; 8 ; 16 24 ; 30 38 14 ; diameter=38)
+(; 9 ; 11 20 ; 33 42 22 ; diameter=42)
+(; 10 ; 15 25 ; 27 37 12 ; diameter=37)
+All P3s
+Perfect Forest: 
+(; 1 ; 2 3 ; 32 33 30 ; diameter=33)
+(; 4 ; 24 28 ; 36 40 12 ; diameter=40)
+(; 5 ; 26 31 ; 34 39 8 ; diameter=39)
+(; 6 ; 13 19 ; 35 41 22 ; diameter=41)
+(; 7 ; 14 21 ; 23 16 37 ; diameter=37)
+(; 9 ; 11 20 ; 29 38 18 ; diameter=38)
+(; 10 ; 15 25 ; 27 17 42 ; diameter=42)
+All P3s
+Perfect Forest: 
+(; 1 ; 2 3 ; 31 32 29 ; diameter=32)
+(; 4 ; 18 22 ; 34 38 16 ; diameter=38)
+(; 5 ; 28 33 ; 36 41 8 ; diameter=41)
+(; 6 ; 13 19 ; 27 21 40 ; diameter=40)
+(; 7 ; 23 30 ; 35 42 12 ; diameter=42)
+(; 9 ; 11 20 ; 26 17 37 ; diameter=37)
+(; 10 ; 14 24 ; 25 15 39 ; diameter=39)
+All P3s
+Perfect Forest: 
+(; 1 ; 2 3 ; 31 32 29 ; diameter=32)
+(; 4 ; 14 18 ; 38 42 24 ; diameter=42)
+(; 5 ; 22 27 ; 34 39 12 ; diameter=39)
+(; 6 ; 19 25 ; 35 41 16 ; diameter=41)
+(; 7 ; 23 30 ; 33 40 10 ; diameter=40)
+(; 8 ; 13 21 ; 28 36 15 ; diameter=36)
+(; 9 ; 11 20 ; 26 17 37 ; diameter=37)
+All P3s
+Perfect Forest: 
+(; 1 ; 2 3 ; 30 31 28 ; diameter=31)
+(; 4 ; 25 29 ; 37 41 12 ; diameter=41)
+(; 5 ; 19 24 ; 34 39 15 ; diameter=39)
+(; 6 ; 26 32 ; 36 42 10 ; diameter=42)
+(; 7 ; 16 23 ; 33 40 17 ; diameter=40)
+(; 8 ; 13 21 ; 22 14 35 ; diameter=35)
+(; 9 ; 11 20 ; 27 18 38 ; diameter=38)
+All P3s
+Perfect Forest: 
+(; 1 ; 2 3 ; 27 28 25 ; diameter=28)
+(; 4 ; 31 35 ; 36 40 5 ; diameter=40)
+(; 6 ; 15 21 ; 33 39 18 ; diameter=39)
+(; 7 ; 22 29 ; 34 41 12 ; diameter=41)
+(; 8 ; 16 24 ; 30 38 14 ; diameter=38)
+(; 9 ; 11 20 ; 26 17 37 ; diameter=37)
+(; 10 ; 13 23 ; 32 42 19 ; diameter=42)
+All P3s
+Perfect Forest: 
+(; 1 ; 2 3 ; 35 36 33 ; diameter=36)
+(; 4 ; 27 31 ; 34 38 7 ; diameter=38)
+(; 5 ; 14 19 ; 28 23 42 ; diameter=42)
+(; 6 ; 15 21 ; 24 18 39 ; diameter=39)
+(; 8 ; 22 30 ; 32 40 10 ; diameter=40)
+(; 9 ; 11 20 ; 26 17 37 ; diameter=37)
+(; 12 ; 13 25 ; 29 41 16 ; diameter=41)
+All P3s
+Perfect Forest: 
+(; 1 ; 2 3 ; 34 33 36 ; diameter=36)
+(; 4 ; 24 28 ; 31 35 7 ; diameter=35)
+(; 5 ; 27 32 ; 37 42 10 ; diameter=42)
+(; 6 ; 15 21 ; 23 17 38 ; diameter=38)
+(; 8 ; 14 22 ; 26 18 40 ; diameter=40)
+(; 9 ; 11 20 ; 30 39 19 ; diameter=39)
+(; 12 ; 13 25 ; 29 41 16 ; diameter=41)
+All P3s
+Perfect Forest: 
+(; 1 ; 2 3 ; 31 32 29 ; diameter=32)
+(; 4 ; 30 34 ; 37 41 7 ; diameter=41)
+(; 5 ; 19 24 ; 35 40 16 ; diameter=40)
+(; 6 ; 15 21 ; 23 17 38 ; diameter=38)
+(; 8 ; 18 26 ; 28 36 10 ; diameter=36)
+(; 9 ; 11 20 ; 33 42 22 ; diameter=42)
+(; 12 ; 13 25 ; 27 39 14 ; diameter=39)
+All P3s
+Perfect Forest: 
+(; 1 ; 2 3 ; 37 38 35 ; diameter=38)
+(; 4 ; 17 21 ; 27 31 10 ; diameter=31)
+(; 5 ; 19 24 ; 34 39 15 ; diameter=39)
+(; 6 ; 23 29 ; 30 36 7 ; diameter=36)
+(; 8 ; 18 26 ; 32 40 14 ; diameter=40)
+(; 9 ; 11 20 ; 33 42 22 ; diameter=42)
+(; 12 ; 13 25 ; 28 16 41 ; diameter=41)
+All P3s
+Perfect Forest: 
+(; 1 ; 2 3 ; 31 30 33 ; diameter=33)
+(; 4 ; 17 21 ; 36 40 19 ; diameter=40)
+(; 5 ; 29 34 ; 37 42 8 ; diameter=42)
+(; 6 ; 22 28 ; 32 38 10 ; diameter=38)
+(; 7 ; 16 23 ; 25 18 41 ; diameter=41)
+(; 9 ; 11 20 ; 24 15 35 ; diameter=35)
+(; 12 ; 14 26 ; 27 39 13 ; diameter=39)
+All P3s
+Perfect Forest: 
+(; 1 ; 2 3 ; 36 37 34 ; diameter=37)
+(; 4 ; 14 18 ; 29 33 15 ; diameter=33)
+(; 5 ; 22 27 ; 35 40 13 ; diameter=40)
+(; 6 ; 17 23 ; 25 19 42 ; diameter=42)
+(; 7 ; 24 31 ; 32 39 8 ; diameter=39)
+(; 9 ; 11 20 ; 30 21 41 ; diameter=41)
+(; 10 ; 16 26 ; 28 38 12 ; diameter=38)
+All P3s
+Perfect Forest: 
+(; 1 ; 2 3 ; 33 32 35 ; diameter=35)
+(; 4 ; 14 18 ; 28 24 42 ; diameter=42)
+(; 5 ; 26 31 ; 36 41 10 ; diameter=41)
+(; 6 ; 21 27 ; 34 40 13 ; diameter=40)
+(; 7 ; 15 22 ; 23 16 38 ; diameter=38)
+(; 8 ; 17 25 ; 29 37 12 ; diameter=37)
+(; 9 ; 11 20 ; 30 39 19 ; diameter=39)
+All P3s
+Perfect Forest: 
+(; 1 ; 2 3 ; 32 31 34 ; diameter=34)
+(; 4 ; 26 30 ; 36 40 10 ; diameter=40)
+(; 5 ; 14 19 ; 37 42 23 ; diameter=42)
+(; 6 ; 21 27 ; 33 39 12 ; diameter=39)
+(; 7 ; 15 22 ; 28 35 13 ; diameter=35)
+(; 8 ; 16 24 ; 25 17 41 ; diameter=41)
+(; 9 ; 11 20 ; 29 38 18 ; diameter=38)
+All P3s
+Perfect Forest: 
+(; 1 ; 2 3 ; 37 38 35 ; diameter=38)
+(; 4 ; 23 27 ; 29 33 6 ; diameter=33)
+(; 5 ; 14 19 ; 26 21 40 ; diameter=40)
+(; 7 ; 17 24 ; 32 39 15 ; diameter=39)
+(; 8 ; 22 30 ; 34 42 12 ; diameter=42)
+(; 9 ; 11 20 ; 25 16 36 ; diameter=36)
+(; 10 ; 18 28 ; 31 41 13 ; diameter=41)
+All P3s
+Perfect Forest: 
+(; 1 ; 2 3 ; 36 35 38 ; diameter=38)
+(; 4 ; 18 22 ; 26 30 8 ; diameter=30)
+(; 5 ; 24 29 ; 34 39 10 ; diameter=39)
+(; 6 ; 19 25 ; 31 37 12 ; diameter=37)
+(; 7 ; 16 23 ; 33 40 17 ; diameter=40)
+(; 9 ; 11 20 ; 32 41 21 ; diameter=41)
+(; 13 ; 14 27 ; 28 15 42 ; diameter=42)
+All P3s
+Perfect Forest: 
+(; 1 ; 2 3 ; 38 37 40 ; diameter=40)
+(; 4 ; 22 26 ; 30 34 8 ; diameter=34)
+(; 5 ; 19 24 ; 31 36 12 ; diameter=36)
+(; 6 ; 17 23 ; 33 39 16 ; diameter=39)
+(; 7 ; 18 25 ; 28 35 10 ; diameter=35)
+(; 9 ; 11 20 ; 32 41 21 ; diameter=41)
+(; 13 ; 14 27 ; 29 42 15 ; diameter=42)
+All P3s
+Perfect Forest: 
+(; 1 ; 2 3 ; 37 38 35 ; diameter=38)
+(; 4 ; 19 23 ; 29 33 10 ; diameter=33)
+(; 5 ; 26 31 ; 34 39 8 ; diameter=39)
+(; 6 ; 16 22 ; 30 36 14 ; diameter=36)
+(; 7 ; 17 24 ; 25 18 42 ; diameter=42)
+(; 9 ; 11 20 ; 32 41 21 ; diameter=41)
+(; 12 ; 15 27 ; 28 40 13 ; diameter=40)
+All P3s
+Perfect Forest: 
+(; 1 ; 2 3 ; 35 34 37 ; diameter=37)
+(; 4 ; 24 28 ; 36 40 12 ; diameter=40)
+(; 5 ; 18 23 ; 25 30 7 ; diameter=30)
+(; 6 ; 15 21 ; 32 38 17 ; diameter=38)
+(; 8 ; 19 27 ; 33 41 14 ; diameter=41)
+(; 9 ; 11 20 ; 31 22 42 ; diameter=42)
+(; 10 ; 16 26 ; 29 39 13 ; diameter=39)
+All P3s
+Perfect Forest: 
+(; 1 ; 2 3 ; 25 26 23 ; diameter=26)
+(; 4 ; 31 35 ; 37 41 6 ; diameter=41)
+(; 5 ; 19 24 ; 33 38 14 ; diameter=38)
+(; 7 ; 15 22 ; 32 39 17 ; diameter=39)
+(; 8 ; 21 29 ; 34 42 13 ; diameter=42)
+(; 9 ; 11 20 ; 27 36 16 ; diameter=36)
+(; 10 ; 18 28 ; 30 40 12 ; diameter=40)
+All P3s
+Perfect Forest: 
+(; 1 ; 2 3 ; 36 35 38 ; diameter=38)
+(; 4 ; 23 27 ; 33 37 10 ; diameter=37)
+(; 5 ; 17 22 ; 24 29 7 ; diameter=29)
+(; 6 ; 19 25 ; 34 40 15 ; diameter=40)
+(; 8 ; 18 26 ; 31 39 13 ; diameter=39)
+(; 9 ; 11 20 ; 32 41 21 ; diameter=41)
+(; 12 ; 16 28 ; 30 42 14 ; diameter=42)
+All P3s
+Perfect Forest: 
+(; 1 ; 2 3 ; 31 30 33 ; diameter=33)
+(; 4 ; 12 16 ; 36 40 24 ; diameter=40)
+(; 5 ; 20 25 ; 37 42 17 ; diameter=42)
+(; 6 ; 23 29 ; 32 38 9 ; diameter=38)
+(; 7 ; 19 26 ; 34 41 15 ; diameter=41)
+(; 8 ; 14 22 ; 27 35 13 ; diameter=35)
+(; 10 ; 11 21 ; 28 18 39 ; diameter=39)
+All P3s
+Perfect Forest: 
+(; 1 ; 2 3 ; 30 31 28 ; diameter=31)
+(; 4 ; 19 23 ; 33 37 14 ; diameter=37)
+(; 5 ; 12 17 ; 36 41 24 ; diameter=41)
+(; 6 ; 26 32 ; 34 40 8 ; diameter=40)
+(; 7 ; 20 27 ; 35 42 15 ; diameter=42)
+(; 9 ; 13 22 ; 25 16 38 ; diameter=38)
+(; 10 ; 11 21 ; 29 39 18 ; diameter=39)
+All P3s
+Perfect Forest: 
+(; 1 ; 2 3 ; 31 30 33 ; diameter=33)
+(; 4 ; 20 24 ; 36 40 16 ; diameter=40)
+(; 5 ; 12 17 ; 37 42 25 ; diameter=42)
+(; 6 ; 23 29 ; 32 38 9 ; diameter=38)
+(; 7 ; 19 26 ; 34 41 15 ; diameter=41)
+(; 8 ; 14 22 ; 27 35 13 ; diameter=35)
+(; 10 ; 11 21 ; 28 18 39 ; diameter=39)
+All P3s
+Perfect Forest: 
+(; 1 ; 2 3 ; 36 37 34 ; diameter=37)
+(; 4 ; 25 29 ; 31 35 6 ; diameter=35)
+(; 5 ; 12 17 ; 28 23 40 ; diameter=40)
+(; 7 ; 19 26 ; 32 39 13 ; diameter=39)
+(; 8 ; 14 22 ; 24 16 38 ; diameter=38)
+(; 9 ; 18 27 ; 33 42 15 ; diameter=42)
+(; 10 ; 11 21 ; 30 20 41 ; diameter=41)
+All P3s
+Perfect Forest: 
+(; 1 ; 2 3 ; 35 34 37 ; diameter=37)
+(; 4 ; 24 28 ; 32 36 8 ; diameter=36)
+(; 5 ; 12 17 ; 30 25 42 ; diameter=42)
+(; 6 ; 20 26 ; 33 39 13 ; diameter=39)
+(; 7 ; 15 22 ; 31 38 16 ; diameter=38)
+(; 9 ; 14 23 ; 27 18 41 ; diameter=41)
+(; 10 ; 11 21 ; 29 19 40 ; diameter=40)
+All P3s
+Perfect Forest: 
+(; 1 ; 2 3 ; 31 30 33 ; diameter=33)
+(; 4 ; 23 27 ; 38 42 15 ; diameter=42)
+(; 5 ; 12 17 ; 36 41 24 ; diameter=41)
+(; 6 ; 16 22 ; 34 40 18 ; diameter=40)
+(; 7 ; 19 26 ; 32 39 13 ; diameter=39)
+(; 8 ; 20 28 ; 29 37 9 ; diameter=37)
+(; 10 ; 11 21 ; 25 35 14 ; diameter=35)
+All P3s
+Perfect Forest: 
+(; 1 ; 2 3 ; 31 30 33 ; diameter=33)
+(; 4 ; 23 27 ; 37 41 14 ; diameter=41)
+(; 5 ; 12 17 ; 24 19 36 ; diameter=36)
+(; 6 ; 26 32 ; 34 40 8 ; diameter=40)
+(; 7 ; 15 22 ; 35 42 20 ; diameter=42)
+(; 9 ; 16 25 ; 29 38 13 ; diameter=38)
+(; 10 ; 11 21 ; 28 18 39 ; diameter=39)
+All P3s
+Perfect Forest: 
+(; 1 ; 2 3 ; 31 30 33 ; diameter=33)
+(; 4 ; 28 32 ; 36 40 8 ; diameter=40)
+(; 5 ; 20 25 ; 34 39 14 ; diameter=39)
+(; 6 ; 12 18 ; 29 23 41 ; diameter=41)
+(; 7 ; 19 26 ; 35 42 16 ; diameter=42)
+(; 9 ; 13 22 ; 24 15 37 ; diameter=37)
+(; 10 ; 11 21 ; 27 17 38 ; diameter=38)
+All P3s
+Perfect Forest: 
+(; 1 ; 2 3 ; 34 35 32 ; diameter=35)
+(; 4 ; 23 27 ; 37 41 14 ; diameter=41)
+(; 5 ; 20 25 ; 28 33 8 ; diameter=33)
+(; 6 ; 12 18 ; 36 42 24 ; diameter=42)
+(; 7 ; 15 22 ; 31 38 16 ; diameter=38)
+(; 9 ; 17 26 ; 30 39 13 ; diameter=39)
+(; 10 ; 11 21 ; 29 19 40 ; diameter=40)
+All P3s
+Perfect Forest: 
+(; 1 ; 2 3 ; 32 31 34 ; diameter=34)
+(; 4 ; 29 33 ; 35 39 6 ; diameter=39)
+(; 5 ; 20 25 ; 36 41 16 ; diameter=41)
+(; 7 ; 12 19 ; 30 23 42 ; diameter=42)
+(; 8 ; 14 22 ; 26 18 40 ; diameter=40)
+(; 9 ; 15 24 ; 28 37 13 ; diameter=37)
+(; 10 ; 11 21 ; 27 17 38 ; diameter=38)
+All P3s
+Perfect Forest: 
+(; 1 ; 2 3 ; 29 30 27 ; diameter=30)
+(; 4 ; 28 32 ; 37 41 9 ; diameter=41)
+(; 5 ; 20 25 ; 33 38 13 ; diameter=38)
+(; 6 ; 18 24 ; 34 40 16 ; diameter=40)
+(; 7 ; 12 19 ; 35 42 23 ; diameter=42)
+(; 8 ; 14 22 ; 31 39 17 ; diameter=39)
+(; 10 ; 11 21 ; 26 36 15 ; diameter=36)
+All P3s
+Perfect Forest: 
+(; 1 ; 2 3 ; 30 31 28 ; diameter=31)
+(; 4 ; 18 22 ; 34 38 16 ; diameter=38)
+(; 5 ; 24 29 ; 37 42 13 ; diameter=42)
+(; 6 ; 27 33 ; 35 41 8 ; diameter=41)
+(; 7 ; 12 19 ; 32 39 20 ; diameter=39)
+(; 9 ; 14 23 ; 26 17 40 ; diameter=40)
+(; 10 ; 11 21 ; 25 15 36 ; diameter=36)
+All P3s
+Perfect Forest: 
+(; 1 ; 2 3 ; 29 30 27 ; diameter=30)
+(; 4 ; 20 24 ; 36 40 16 ; diameter=40)
+(; 5 ; 28 33 ; 37 42 9 ; diameter=42)
+(; 6 ; 17 23 ; 32 38 15 ; diameter=38)
+(; 7 ; 12 19 ; 34 41 22 ; diameter=41)
+(; 8 ; 18 26 ; 31 39 13 ; diameter=39)
+(; 10 ; 11 21 ; 25 35 14 ; diameter=35)
+All P3s
+Perfect Forest: 
+(; 1 ; 2 3 ; 33 34 31 ; diameter=34)
+(; 4 ; 24 28 ; 38 42 14 ; diameter=42)
+(; 5 ; 13 18 ; 27 22 40 ; diameter=40)
+(; 6 ; 19 25 ; 35 41 16 ; diameter=41)
+(; 7 ; 23 30 ; 32 39 9 ; diameter=39)
+(; 8 ; 12 20 ; 29 37 17 ; diameter=37)
+(; 10 ; 11 21 ; 26 36 15 ; diameter=36)
+All P3s
+Perfect Forest: 
+(; 1 ; 2 3 ; 34 33 36 ; diameter=36)
+(; 4 ; 24 28 ; 38 42 14 ; diameter=42)
+(; 5 ; 26 31 ; 32 37 6 ; diameter=37)
+(; 7 ; 16 23 ; 25 18 41 ; diameter=41)
+(; 8 ; 12 20 ; 27 35 15 ; diameter=35)
+(; 9 ; 13 22 ; 30 39 17 ; diameter=39)
+(; 10 ; 11 21 ; 29 19 40 ; diameter=40)
+All P3s
+Perfect Forest: 
+(; 1 ; 2 3 ; 35 36 33 ; diameter=36)
+(; 4 ; 13 17 ; 29 25 42 ; diameter=42)
+(; 5 ; 15 20 ; 24 19 39 ; diameter=39)
+(; 6 ; 22 28 ; 34 40 12 ; diameter=40)
+(; 7 ; 23 30 ; 31 38 8 ; diameter=38)
+(; 9 ; 18 27 ; 32 41 14 ; diameter=41)
+(; 10 ; 11 21 ; 26 16 37 ; diameter=37)
+All P3s
+Perfect Forest: 
+(; 1 ; 2 3 ; 35 34 37 ; diameter=37)
+(; 4 ; 13 17 ; 26 22 39 ; diameter=39)
+(; 5 ; 20 25 ; 28 33 8 ; diameter=33)
+(; 6 ; 24 30 ; 36 42 12 ; diameter=42)
+(; 7 ; 16 23 ; 31 38 15 ; diameter=38)
+(; 9 ; 18 27 ; 32 41 14 ; diameter=41)
+(; 10 ; 11 21 ; 29 19 40 ; diameter=40)
+All P3s
+Perfect Forest: 
+(; 1 ; 2 3 ; 30 29 32 ; diameter=32)
+(; 4 ; 23 27 ; 35 39 12 ; diameter=39)
+(; 5 ; 13 18 ; 24 19 37 ; diameter=37)
+(; 6 ; 14 20 ; 36 42 22 ; diameter=42)
+(; 7 ; 26 33 ; 34 41 8 ; diameter=41)
+(; 9 ; 16 25 ; 31 40 15 ; diameter=40)
+(; 10 ; 11 21 ; 28 38 17 ; diameter=38)
+All P3s
+Perfect Forest: 
+(; 1 ; 2 3 ; 34 33 36 ; diameter=36)
+(; 4 ; 25 29 ; 31 35 6 ; diameter=35)
+(; 5 ; 13 18 ; 37 42 24 ; diameter=42)
+(; 7 ; 15 22 ; 26 19 41 ; diameter=41)
+(; 8 ; 20 28 ; 32 40 12 ; diameter=40)
+(; 9 ; 14 23 ; 30 39 16 ; diameter=39)
+(; 10 ; 11 21 ; 27 17 38 ; diameter=38)
+All P3s
+Perfect Forest: 
+(; 1 ; 2 3 ; 33 32 35 ; diameter=35)
+(; 4 ; 15 19 ; 24 20 39 ; diameter=39)
+(; 5 ; 13 18 ; 36 41 23 ; diameter=41)
+(; 6 ; 25 31 ; 34 40 9 ; diameter=40)
+(; 7 ; 22 29 ; 30 37 8 ; diameter=37)
+(; 10 ; 11 21 ; 27 17 38 ; diameter=38)
+(; 12 ; 14 26 ; 28 16 42 ; diameter=42)
+All P3s
+Perfect Forest: 
+(; 1 ; 2 3 ; 35 36 33 ; diameter=36)
+(; 4 ; 15 19 ; 24 20 39 ; diameter=39)
+(; 5 ; 13 18 ; 27 22 40 ; diameter=40)
+(; 6 ; 23 29 ; 31 37 8 ; diameter=37)
+(; 7 ; 25 32 ; 34 41 9 ; diameter=41)
+(; 10 ; 11 21 ; 28 38 17 ; diameter=38)
+(; 12 ; 14 26 ; 30 42 16 ; diameter=42)
+All P3s
+Perfect Forest: 
+(; 1 ; 2 3 ; 33 32 35 ; diameter=35)
+(; 4 ; 26 30 ; 38 42 12 ; diameter=42)
+(; 5 ; 17 22 ; 36 41 19 ; diameter=41)
+(; 6 ; 23 29 ; 31 37 8 ; diameter=37)
+(; 7 ; 13 20 ; 27 34 14 ; diameter=34)
+(; 9 ; 15 24 ; 25 16 40 ; diameter=40)
+(; 10 ; 11 21 ; 28 18 39 ; diameter=39)
+All P3s
+Perfect Forest: 
+(; 1 ; 2 3 ; 30 31 28 ; diameter=31)
+(; 4 ; 15 19 ; 33 37 18 ; diameter=37)
+(; 5 ; 24 29 ; 36 41 12 ; diameter=41)
+(; 6 ; 26 32 ; 34 40 8 ; diameter=40)
+(; 7 ; 13 20 ; 35 42 22 ; diameter=42)
+(; 9 ; 14 23 ; 25 16 39 ; diameter=39)
+(; 10 ; 11 21 ; 27 17 38 ; diameter=38)
+All P3s
+Perfect Forest: 
+(; 1 ; 2 3 ; 32 31 34 ; diameter=34)
+(; 4 ; 29 33 ; 37 41 8 ; diameter=41)
+(; 5 ; 18 23 ; 30 35 12 ; diameter=35)
+(; 6 ; 22 28 ; 36 42 14 ; diameter=42)
+(; 7 ; 13 20 ; 26 19 39 ; diameter=39)
+(; 9 ; 15 24 ; 25 16 40 ; diameter=40)
+(; 10 ; 11 21 ; 27 17 38 ; diameter=38)
+All P3s
+Perfect Forest: 
+(; 1 ; 2 3 ; 31 32 29 ; diameter=32)
+(; 4 ; 14 18 ; 24 20 38 ; diameter=38)
+(; 5 ; 28 33 ; 36 41 8 ; diameter=41)
+(; 6 ; 19 25 ; 34 40 15 ; diameter=40)
+(; 7 ; 23 30 ; 35 42 12 ; diameter=42)
+(; 9 ; 13 22 ; 26 17 39 ; diameter=39)
+(; 10 ; 11 21 ; 27 37 16 ; diameter=37)
+All P3s
+Perfect Forest: 
+(; 1 ; 2 3 ; 29 28 31 ; diameter=31)
+(; 4 ; 26 30 ; 38 42 12 ; diameter=42)
+(; 5 ; 15 20 ; 34 39 19 ; diameter=39)
+(; 6 ; 18 24 ; 35 41 17 ; diameter=41)
+(; 7 ; 25 32 ; 33 40 8 ; diameter=40)
+(; 9 ; 13 22 ; 23 14 36 ; diameter=36)
+(; 10 ; 11 21 ; 27 37 16 ; diameter=37)
+All P3s
+Perfect Forest: 
+(; 1 ; 2 3 ; 35 36 33 ; diameter=36)
+(; 4 ; 24 28 ; 38 42 14 ; diameter=42)
+(; 5 ; 15 20 ; 27 32 12 ; diameter=32)
+(; 6 ; 23 29 ; 31 37 8 ; diameter=37)
+(; 7 ; 18 25 ; 34 41 16 ; diameter=41)
+(; 9 ; 13 22 ; 26 17 39 ; diameter=39)
+(; 10 ; 11 21 ; 30 40 19 ; diameter=40)
+All P3s
+Perfect Forest: 
+(; 1 ; 2 3 ; 37 38 35 ; diameter=38)
+(; 4 ; 23 27 ; 30 34 7 ; diameter=34)
+(; 5 ; 14 19 ; 31 36 17 ; diameter=36)
+(; 6 ; 16 22 ; 26 20 42 ; diameter=42)
+(; 8 ; 24 32 ; 33 41 9 ; diameter=41)
+(; 10 ; 11 21 ; 29 39 18 ; diameter=39)
+(; 12 ; 13 25 ; 28 40 15 ; diameter=40)
+All P3s
+Perfect Forest: 
+(; 1 ; 2 3 ; 31 32 29 ; diameter=32)
+(; 4 ; 15 19 ; 35 39 20 ; diameter=39)
+(; 5 ; 25 30 ; 37 42 12 ; diameter=42)
+(; 6 ; 16 22 ; 24 18 40 ; diameter=40)
+(; 7 ; 26 33 ; 34 41 8 ; diameter=41)
+(; 9 ; 14 23 ; 27 36 13 ; diameter=36)
+(; 10 ; 11 21 ; 28 38 17 ; diameter=38)
+All P3s
+Perfect Forest: 
+(; 1 ; 2 3 ; 33 32 35 ; diameter=35)
+(; 4 ; 14 18 ; 24 20 38 ; diameter=38)
+(; 5 ; 29 34 ; 36 41 7 ; diameter=41)
+(; 6 ; 17 23 ; 25 19 42 ; diameter=42)
+(; 8 ; 22 30 ; 31 39 9 ; diameter=39)
+(; 10 ; 11 21 ; 26 16 37 ; diameter=37)
+(; 12 ; 15 27 ; 28 40 13 ; diameter=40)
+All P3s
+Perfect Forest: 
+(; 1 ; 2 3 ; 31 30 33 ; diameter=33)
+(; 4 ; 14 18 ; 24 20 38 ; diameter=38)
+(; 5 ; 22 27 ; 34 39 12 ; diameter=39)
+(; 6 ; 29 35 ; 36 42 7 ; diameter=42)
+(; 8 ; 15 23 ; 25 17 40 ; diameter=40)
+(; 9 ; 19 28 ; 32 41 13 ; diameter=41)
+(; 10 ; 11 21 ; 26 16 37 ; diameter=37)
+All P3s
+Perfect Forest: 
+(; 1 ; 2 3 ; 32 33 30 ; diameter=33)
+(; 4 ; 16 20 ; 22 18 38 ; diameter=38)
+(; 5 ; 24 29 ; 37 42 13 ; diameter=42)
+(; 6 ; 28 34 ; 35 41 7 ; diameter=41)
+(; 8 ; 19 27 ; 31 39 12 ; diameter=39)
+(; 9 ; 14 23 ; 26 17 40 ; diameter=40)
+(; 10 ; 11 21 ; 25 15 36 ; diameter=36)
+All P3s
+Perfect Forest: 
+(; 1 ; 2 3 ; 37 36 39 ; diameter=39)
+(; 4 ; 23 27 ; 31 35 8 ; diameter=35)
+(; 5 ; 15 20 ; 28 33 13 ; diameter=33)
+(; 6 ; 18 24 ; 32 38 14 ; diameter=38)
+(; 7 ; 22 29 ; 34 41 12 ; diameter=41)
+(; 9 ; 16 25 ; 26 17 42 ; diameter=42)
+(; 10 ; 11 21 ; 30 40 19 ; diameter=40)
+All P3s
+Perfect Forest: 
+(; 1 ; 2 3 ; 34 35 32 ; diameter=35)
+(; 4 ; 26 30 ; 38 42 12 ; diameter=42)
+(; 5 ; 19 24 ; 36 41 17 ; diameter=41)
+(; 6 ; 16 22 ; 25 31 9 ; diameter=31)
+(; 7 ; 20 27 ; 33 40 13 ; diameter=40)
+(; 8 ; 15 23 ; 29 37 14 ; diameter=37)
+(; 10 ; 11 21 ; 28 18 39 ; diameter=39)
+All P3s
+Perfect Forest: 
+(; 1 ; 2 3 ; 31 30 33 ; diameter=33)
+(; 4 ; 12 16 ; 36 40 24 ; diameter=40)
+(; 5 ; 13 18 ; 25 20 38 ; diameter=38)
+(; 6 ; 21 27 ; 35 41 14 ; diameter=41)
+(; 7 ; 22 29 ; 32 39 10 ; diameter=39)
+(; 8 ; 15 23 ; 34 42 19 ; diameter=42)
+(; 9 ; 17 26 ; 28 37 11 ; diameter=37)
+All P3s
+Perfect Forest: 
+(; 1 ; 2 3 ; 35 36 33 ; diameter=36)
+(; 4 ; 12 16 ; 29 25 41 ; diameter=41)
+(; 5 ; 17 22 ; 32 37 15 ; diameter=37)
+(; 6 ; 24 30 ; 34 40 10 ; diameter=40)
+(; 7 ; 20 27 ; 31 38 11 ; diameter=38)
+(; 8 ; 13 21 ; 26 18 39 ; diameter=39)
+(; 9 ; 14 23 ; 28 19 42 ; diameter=42)
+All P3s
+Perfect Forest: 
+(; 1 ; 2 3 ; 31 32 29 ; diameter=32)
+(; 4 ; 12 16 ; 34 38 22 ; diameter=38)
+(; 5 ; 18 23 ; 35 40 17 ; diameter=40)
+(; 6 ; 27 33 ; 36 42 9 ; diameter=42)
+(; 7 ; 19 26 ; 30 37 11 ; diameter=37)
+(; 8 ; 13 21 ; 28 20 41 ; diameter=41)
+(; 10 ; 14 24 ; 25 15 39 ; diameter=39)
+All P3s
+Perfect Forest: 
+(; 1 ; 2 3 ; 35 36 33 ; diameter=36)
+(; 4 ; 12 16 ; 29 25 41 ; diameter=41)
+(; 5 ; 18 23 ; 37 42 19 ; diameter=42)
+(; 6 ; 20 26 ; 28 34 8 ; diameter=34)
+(; 7 ; 15 22 ; 32 39 17 ; diameter=39)
+(; 9 ; 21 30 ; 31 40 10 ; diameter=40)
+(; 11 ; 13 24 ; 27 38 14 ; diameter=38)
+All P3s
+Perfect Forest: 
+(; 1 ; 2 3 ; 34 33 36 ; diameter=36)
+(; 4 ; 12 16 ; 25 21 37 ; diameter=37)
+(; 5 ; 26 31 ; 35 40 9 ; diameter=40)
+(; 6 ; 14 20 ; 24 18 38 ; diameter=38)
+(; 7 ; 22 29 ; 32 39 10 ; diameter=39)
+(; 8 ; 15 23 ; 27 19 42 ; diameter=42)
+(; 11 ; 17 28 ; 30 41 13 ; diameter=41)
+All P3s
+Perfect Forest: 
+(; 1 ; 2 3 ; 37 38 35 ; diameter=38)
+(; 4 ; 12 16 ; 24 20 36 ; diameter=36)
+(; 5 ; 23 28 ; 29 34 6 ; diameter=34)
+(; 7 ; 18 25 ; 33 40 15 ; diameter=40)
+(; 8 ; 14 22 ; 27 19 41 ; diameter=41)
+(; 9 ; 17 26 ; 30 39 13 ; diameter=39)
+(; 10 ; 21 31 ; 32 42 11 ; diameter=42)
+All P3s
+Perfect Forest: 
+(; 1 ; 2 3 ; 35 36 33 ; diameter=36)
+(; 4 ; 12 16 ; 26 22 38 ; diameter=38)
+(; 5 ; 20 25 ; 37 42 17 ; diameter=42)
+(; 6 ; 15 21 ; 28 34 13 ; diameter=34)
+(; 7 ; 24 31 ; 32 39 8 ; diameter=39)
+(; 9 ; 14 23 ; 27 18 41 ; diameter=41)
+(; 10 ; 19 29 ; 30 40 11 ; diameter=40)
+All P3s
+Perfect Forest: 
+(; 1 ; 2 3 ; 25 24 27 ; diameter=27)
+(; 4 ; 12 16 ; 33 37 21 ; diameter=37)
+(; 5 ; 17 22 ; 35 40 18 ; diameter=40)
+(; 6 ; 28 34 ; 36 42 8 ; diameter=42)
+(; 7 ; 19 26 ; 32 39 13 ; diameter=39)
+(; 9 ; 14 23 ; 29 38 15 ; diameter=38)
+(; 10 ; 20 30 ; 31 41 11 ; diameter=41)
+All P3s
+Perfect Forest: 
+(; 1 ; 2 3 ; 34 33 36 ; diameter=36)
+(; 4 ; 12 16 ; 37 41 25 ; diameter=41)
+(; 5 ; 22 27 ; 30 35 8 ; diameter=35)
+(; 6 ; 15 21 ; 23 17 38 ; diameter=38)
+(; 7 ; 19 26 ; 32 39 13 ; diameter=39)
+(; 9 ; 20 29 ; 31 40 11 ; diameter=40)
+(; 10 ; 14 24 ; 28 18 42 ; diameter=42)
+All P3s
+Perfect Forest: 
+(; 1 ; 2 3 ; 33 32 35 ; diameter=35)
+(; 4 ; 12 16 ; 38 42 26 ; diameter=42)
+(; 5 ; 17 22 ; 23 18 40 ; diameter=40)
+(; 6 ; 19 25 ; 30 36 11 ; diameter=36)
+(; 7 ; 20 27 ; 34 41 14 ; diameter=41)
+(; 8 ; 21 29 ; 31 39 10 ; diameter=39)
+(; 9 ; 15 24 ; 28 37 13 ; diameter=37)
+All P3s
+Perfect Forest: 
+(; 1 ; 2 3 ; 37 38 35 ; diameter=38)
+(; 4 ; 12 16 ; 24 20 36 ; diameter=36)
+(; 5 ; 23 28 ; 29 34 6 ; diameter=34)
+(; 7 ; 15 22 ; 25 18 40 ; diameter=40)
+(; 8 ; 19 27 ; 33 41 14 ; diameter=41)
+(; 9 ; 17 26 ; 30 39 13 ; diameter=39)
+(; 10 ; 21 31 ; 32 42 11 ; diameter=42)
+All P3s
+Perfect Forest: 
+(; 1 ; 2 3 ; 35 36 33 ; diameter=36)
+(; 4 ; 24 28 ; 34 38 10 ; diameter=38)
+(; 5 ; 12 17 ; 30 25 42 ; diameter=42)
+(; 6 ; 16 22 ; 31 37 15 ; diameter=37)
+(; 7 ; 13 20 ; 26 19 39 ; diameter=39)
+(; 8 ; 21 29 ; 32 40 11 ; diameter=40)
+(; 9 ; 14 23 ; 27 18 41 ; diameter=41)
+All P3s
+Perfect Forest: 
+(; 1 ; 2 3 ; 30 31 28 ; diameter=31)
+(; 4 ; 19 23 ; 37 41 18 ; diameter=41)
+(; 5 ; 12 17 ; 33 38 21 ; diameter=38)
+(; 6 ; 26 32 ; 34 40 8 ; diameter=40)
+(; 7 ; 13 20 ; 35 42 22 ; diameter=42)
+(; 9 ; 16 25 ; 27 36 11 ; diameter=36)
+(; 10 ; 14 24 ; 29 39 15 ; diameter=39)
+All P3s
+Perfect Forest: 
+(; 1 ; 2 3 ; 31 32 29 ; diameter=32)
+(; 4 ; 18 22 ; 34 38 16 ; diameter=38)
+(; 5 ; 12 17 ; 35 40 23 ; diameter=40)
+(; 6 ; 27 33 ; 36 42 9 ; diameter=42)
+(; 7 ; 19 26 ; 30 37 11 ; diameter=37)
+(; 8 ; 13 21 ; 28 20 41 ; diameter=41)
+(; 10 ; 14 24 ; 25 15 39 ; diameter=39)
+All P3s
+Perfect Forest: 
+(; 1 ; 2 3 ; 36 35 38 ; diameter=38)
+(; 4 ; 23 27 ; 29 33 6 ; diameter=33)
+(; 5 ; 12 17 ; 34 39 22 ; diameter=39)
+(; 7 ; 19 26 ; 30 37 11 ; diameter=37)
+(; 8 ; 13 21 ; 28 20 41 ; diameter=41)
+(; 9 ; 16 25 ; 31 40 15 ; diameter=40)
+(; 10 ; 14 24 ; 32 42 18 ; diameter=42)
+All P3s
+Perfect Forest: 
+(; 1 ; 2 3 ; 34 33 36 ; diameter=36)
+(; 4 ; 20 24 ; 38 42 18 ; diameter=42)
+(; 5 ; 12 17 ; 35 40 23 ; diameter=40)
+(; 6 ; 19 25 ; 26 32 7 ; diameter=32)
+(; 8 ; 21 29 ; 31 39 10 ; diameter=39)
+(; 9 ; 13 22 ; 28 37 15 ; diameter=37)
+(; 11 ; 16 27 ; 30 41 14 ; diameter=41)
+All P3s
+Perfect Forest: 
+(; 1 ; 2 3 ; 30 29 32 ; diameter=32)
+(; 4 ; 18 22 ; 34 38 16 ; diameter=38)
+(; 5 ; 12 17 ; 36 41 24 ; diameter=41)
+(; 6 ; 15 21 ; 25 19 40 ; diameter=40)
+(; 7 ; 26 33 ; 35 42 9 ; diameter=42)
+(; 8 ; 20 28 ; 31 39 11 ; diameter=39)
+(; 10 ; 13 23 ; 27 37 14 ; diameter=37)
+All P3s
+Perfect Forest: 
+(; 1 ; 2 3 ; 32 31 34 ; diameter=34)
+(; 4 ; 18 22 ; 38 42 20 ; diameter=42)
+(; 5 ; 12 17 ; 24 19 36 ; diameter=36)
+(; 6 ; 27 33 ; 35 41 8 ; diameter=41)
+(; 7 ; 21 28 ; 30 37 9 ; diameter=37)
+(; 10 ; 13 23 ; 29 39 16 ; diameter=39)
+(; 11 ; 14 25 ; 26 15 40 ; diameter=40)
+All P3s
+Perfect Forest: 
+(; 1 ; 2 3 ; 32 31 34 ; diameter=34)
+(; 4 ; 18 22 ; 38 42 20 ; diameter=42)
+(; 5 ; 12 17 ; 24 19 36 ; diameter=36)
+(; 6 ; 27 33 ; 35 41 8 ; diameter=41)
+(; 7 ; 21 28 ; 30 37 9 ; diameter=37)
+(; 10 ; 13 23 ; 26 16 39 ; diameter=39)
+(; 11 ; 14 25 ; 29 40 15 ; diameter=40)
+All P3s
+Perfect Forest: 
+(; 1 ; 2 3 ; 37 38 35 ; diameter=38)
+(; 4 ; 21 25 ; 28 32 7 ; diameter=32)
+(; 5 ; 12 17 ; 31 36 19 ; diameter=36)
+(; 6 ; 20 26 ; 34 40 14 ; diameter=40)
+(; 8 ; 22 30 ; 33 41 11 ; diameter=41)
+(; 9 ; 15 24 ; 27 18 42 ; diameter=42)
+(; 10 ; 13 23 ; 29 39 16 ; diameter=39)
+All P3s
+Perfect Forest: 
+(; 1 ; 2 3 ; 31 32 29 ; diameter=32)
+(; 4 ; 18 22 ; 34 38 16 ; diameter=38)
+(; 5 ; 12 17 ; 37 42 25 ; diameter=42)
+(; 6 ; 14 20 ; 35 41 21 ; diameter=41)
+(; 7 ; 23 30 ; 33 40 10 ; diameter=40)
+(; 8 ; 19 27 ; 28 36 9 ; diameter=36)
+(; 11 ; 13 24 ; 26 15 39 ; diameter=39)
+All P3s
+Perfect Forest: 
+(; 1 ; 2 3 ; 25 26 23 ; diameter=26)
+(; 4 ; 18 22 ; 34 38 16 ; diameter=38)
+(; 5 ; 12 17 ; 32 37 20 ; diameter=37)
+(; 6 ; 29 35 ; 36 42 7 ; diameter=42)
+(; 8 ; 19 27 ; 33 41 14 ; diameter=41)
+(; 9 ; 21 30 ; 31 40 10 ; diameter=40)
+(; 11 ; 13 24 ; 28 39 15 ; diameter=39)
+All P3s
+Perfect Forest: 
+(; 1 ; 2 3 ; 32 31 34 ; diameter=34)
+(; 4 ; 21 25 ; 37 41 16 ; diameter=41)
+(; 5 ; 12 17 ; 27 22 39 ; diameter=39)
+(; 6 ; 14 20 ; 24 18 38 ; diameter=38)
+(; 7 ; 26 33 ; 35 42 9 ; diameter=42)
+(; 8 ; 15 23 ; 28 36 13 ; diameter=36)
+(; 10 ; 19 29 ; 30 40 11 ; diameter=40)
+All P3s
+Perfect Forest: 
+(; 1 ; 2 3 ; 33 32 35 ; diameter=35)
+(; 4 ; 24 28 ; 37 41 13 ; diameter=41)
+(; 5 ; 12 17 ; 26 21 38 ; diameter=38)
+(; 6 ; 14 20 ; 36 42 22 ; diameter=42)
+(; 7 ; 18 25 ; 27 34 9 ; diameter=34)
+(; 8 ; 15 23 ; 31 39 16 ; diameter=39)
+(; 10 ; 19 29 ; 30 40 11 ; diameter=40)
+All P3s
+Perfect Forest: 
+(; 1 ; 2 3 ; 35 34 37 ; diameter=37)
+(; 4 ; 20 24 ; 27 31 7 ; diameter=31)
+(; 5 ; 12 17 ; 33 38 21 ; diameter=38)
+(; 6 ; 23 29 ; 36 42 13 ; diameter=42)
+(; 8 ; 14 22 ; 32 40 18 ; diameter=40)
+(; 9 ; 19 28 ; 30 39 11 ; diameter=39)
+(; 10 ; 15 25 ; 26 16 41 ; diameter=41)
+All P3s
+Perfect Forest: 
+(; 1 ; 2 3 ; 36 37 34 ; diameter=37)
+(; 4 ; 19 23 ; 29 33 10 ; diameter=33)
+(; 5 ; 12 17 ; 30 25 42 ; diameter=42)
+(; 6 ; 20 26 ; 35 41 15 ; diameter=41)
+(; 7 ; 21 28 ; 32 39 11 ; diameter=39)
+(; 8 ; 14 22 ; 24 16 38 ; diameter=38)
+(; 9 ; 18 27 ; 31 40 13 ; diameter=40)
+All P3s
+Perfect Forest: 
+(; 1 ; 2 3 ; 35 36 33 ; diameter=36)
+(; 4 ; 22 26 ; 38 42 16 ; diameter=42)
+(; 5 ; 12 17 ; 25 20 37 ; diameter=37)
+(; 6 ; 15 21 ; 28 34 13 ; diameter=34)
+(; 7 ; 24 31 ; 32 39 8 ; diameter=39)
+(; 9 ; 14 23 ; 27 18 41 ; diameter=41)
+(; 10 ; 19 29 ; 30 40 11 ; diameter=40)
+All P3s
+Perfect Forest: 
+(; 1 ; 2 3 ; 33 32 35 ; diameter=35)
+(; 4 ; 15 19 ; 37 41 22 ; diameter=41)
+(; 5 ; 12 17 ; 26 21 38 ; diameter=38)
+(; 6 ; 23 29 ; 36 42 13 ; diameter=42)
+(; 7 ; 18 25 ; 27 34 9 ; diameter=34)
+(; 8 ; 20 28 ; 31 39 11 ; diameter=39)
+(; 10 ; 14 24 ; 30 40 16 ; diameter=40)
+All P3s
+Perfect Forest: 
+(; 1 ; 2 3 ; 35 36 33 ; diameter=36)
+(; 4 ; 18 22 ; 37 41 19 ; diameter=41)
+(; 5 ; 12 17 ; 26 21 38 ; diameter=38)
+(; 6 ; 24 30 ; 34 40 10 ; diameter=40)
+(; 7 ; 16 23 ; 25 32 9 ; diameter=32)
+(; 8 ; 20 28 ; 31 39 11 ; diameter=39)
+(; 13 ; 14 27 ; 29 42 15 ; diameter=42)
+All P3s
+Perfect Forest: 
+(; 1 ; 2 3 ; 34 33 36 ; diameter=36)
+(; 4 ; 18 22 ; 38 42 20 ; diameter=42)
+(; 5 ; 12 17 ; 35 40 23 ; diameter=40)
+(; 6 ; 19 25 ; 26 32 7 ; diameter=32)
+(; 8 ; 21 29 ; 31 39 10 ; diameter=39)
+(; 9 ; 15 24 ; 28 37 13 ; diameter=37)
+(; 11 ; 16 27 ; 30 41 14 ; diameter=41)
+All P3s
+Perfect Forest: 
+(; 1 ; 2 3 ; 35 36 33 ; diameter=36)
+(; 4 ; 16 20 ; 38 42 22 ; diameter=42)
+(; 5 ; 12 17 ; 28 23 40 ; diameter=40)
+(; 6 ; 18 24 ; 31 37 13 ; diameter=37)
+(; 7 ; 19 26 ; 27 34 8 ; diameter=34)
+(; 9 ; 21 30 ; 32 41 11 ; diameter=41)
+(; 10 ; 15 25 ; 29 39 14 ; diameter=39)
+All P3s
+Perfect Forest: 
+(; 1 ; 2 3 ; 34 35 32 ; diameter=35)
+(; 4 ; 13 17 ; 36 40 23 ; diameter=40)
+(; 5 ; 24 29 ; 33 38 9 ; diameter=38)
+(; 6 ; 12 18 ; 27 21 39 ; diameter=39)
+(; 7 ; 19 26 ; 30 37 11 ; diameter=37)
+(; 8 ; 14 22 ; 28 20 42 ; diameter=42)
+(; 10 ; 15 25 ; 31 41 16 ; diameter=41)
+All P3s
+Perfect Forest: 
+(; 1 ; 2 3 ; 29 28 31 ; diameter=31)
+(; 4 ; 13 17 ; 34 38 21 ; diameter=38)
+(; 5 ; 20 25 ; 35 40 15 ; diameter=40)
+(; 6 ; 12 18 ; 36 42 24 ; diameter=42)
+(; 7 ; 23 30 ; 32 39 9 ; diameter=39)
+(; 8 ; 14 22 ; 33 41 19 ; diameter=41)
+(; 10 ; 16 26 ; 27 37 11 ; diameter=37)
+All P3s
+Perfect Forest: 
+(; 1 ; 2 3 ; 34 35 32 ; diameter=35)
+(; 4 ; 13 17 ; 37 41 24 ; diameter=41)
+(; 5 ; 22 27 ; 31 36 9 ; diameter=36)
+(; 6 ; 12 18 ; 33 39 21 ; diameter=39)
+(; 7 ; 16 23 ; 26 19 42 ; diameter=42)
+(; 8 ; 20 28 ; 30 38 10 ; diameter=38)
+(; 11 ; 14 25 ; 29 40 15 ; diameter=40)
+All P3s
+Perfect Forest: 
+(; 1 ; 2 3 ; 35 34 37 ; diameter=37)
+(; 4 ; 13 17 ; 28 24 41 ; diameter=41)
+(; 5 ; 21 26 ; 31 36 10 ; diameter=36)
+(; 6 ; 12 18 ; 32 38 20 ; diameter=38)
+(; 7 ; 22 29 ; 33 40 11 ; diameter=40)
+(; 8 ; 15 23 ; 27 19 42 ; diameter=42)
+(; 9 ; 16 25 ; 30 39 14 ; diameter=39)
+All P3s
+Perfect Forest: 
+(; 1 ; 2 3 ; 32 33 30 ; diameter=33)
+(; 4 ; 24 28 ; 35 39 11 ; diameter=39)
+(; 5 ; 14 19 ; 37 42 23 ; diameter=42)
+(; 6 ; 12 18 ; 34 40 22 ; diameter=40)
+(; 7 ; 20 27 ; 29 36 9 ; diameter=36)
+(; 8 ; 13 21 ; 25 17 38 ; diameter=38)
+(; 10 ; 16 26 ; 31 41 15 ; diameter=41)
+All P3s
+Perfect Forest: 
+(; 1 ; 2 3 ; 34 33 36 ; diameter=36)
+(; 4 ; 21 25 ; 38 42 17 ; diameter=42)
+(; 5 ; 24 29 ; 35 40 11 ; diameter=40)
+(; 6 ; 12 18 ; 26 32 14 ; diameter=32)
+(; 7 ; 20 27 ; 30 37 10 ; diameter=37)
+(; 8 ; 15 23 ; 31 39 16 ; diameter=39)
+(; 9 ; 13 22 ; 28 19 41 ; diameter=41)
+All P3s
+Perfect Forest: 
+(; 1 ; 2 3 ; 34 35 32 ; diameter=35)
+(; 4 ; 16 20 ; 25 21 41 ; diameter=41)
+(; 5 ; 26 31 ; 33 38 7 ; diameter=38)
+(; 6 ; 12 18 ; 36 42 24 ; diameter=42)
+(; 8 ; 14 22 ; 29 37 15 ; diameter=37)
+(; 9 ; 19 28 ; 30 39 11 ; diameter=39)
+(; 10 ; 13 23 ; 27 17 40 ; diameter=40)
+All P3s
+Perfect Forest: 
+(; 1 ; 2 3 ; 36 37 34 ; diameter=37)
+(; 4 ; 17 21 ; 28 32 11 ; diameter=32)
+(; 5 ; 20 25 ; 35 40 15 ; diameter=40)
+(; 6 ; 12 18 ; 30 24 42 ; diameter=42)
+(; 7 ; 22 29 ; 31 38 9 ; diameter=38)
+(; 8 ; 19 27 ; 33 41 14 ; diameter=41)
+(; 10 ; 13 23 ; 26 16 39 ; diameter=39)
+All P3s
+Perfect Forest: 
+(; 1 ; 2 3 ; 37 38 35 ; diameter=38)
+(; 4 ; 23 27 ; 28 32 5 ; diameter=32)
+(; 6 ; 12 18 ; 33 39 21 ; diameter=39)
+(; 7 ; 19 26 ; 29 36 10 ; diameter=36)
+(; 8 ; 14 22 ; 34 42 20 ; diameter=42)
+(; 9 ; 16 25 ; 31 40 15 ; diameter=40)
+(; 11 ; 13 24 ; 30 41 17 ; diameter=41)
+All P3s
+Perfect Forest: 
+(; 1 ; 2 3 ; 31 32 29 ; diameter=32)
+(; 4 ; 16 20 ; 21 17 37 ; diameter=37)
+(; 5 ; 23 28 ; 36 41 13 ; diameter=41)
+(; 6 ; 12 18 ; 34 40 22 ; diameter=40)
+(; 7 ; 26 33 ; 35 42 9 ; diameter=42)
+(; 8 ; 19 27 ; 30 38 11 ; diameter=38)
+(; 10 ; 14 24 ; 25 15 39 ; diameter=39)
+All P3s
+Perfect Forest: 
+(; 1 ; 2 3 ; 36 35 38 ; diameter=38)
+(; 4 ; 16 20 ; 25 21 41 ; diameter=41)
+(; 5 ; 23 28 ; 34 39 11 ; diameter=39)
+(; 6 ; 12 18 ; 31 37 19 ; diameter=37)
+(; 7 ; 17 24 ; 26 33 9 ; diameter=33)
+(; 8 ; 22 30 ; 32 40 10 ; diameter=40)
+(; 13 ; 14 27 ; 29 42 15 ; diameter=42)
+All P3s
+Perfect Forest: 
+(; 1 ; 2 3 ; 35 34 37 ; diameter=37)
+(; 4 ; 13 17 ; 29 25 42 ; diameter=42)
+(; 5 ; 22 27 ; 33 38 11 ; diameter=38)
+(; 6 ; 20 26 ; 30 36 10 ; diameter=36)
+(; 7 ; 12 19 ; 28 21 40 ; diameter=40)
+(; 8 ; 16 24 ; 31 39 15 ; diameter=39)
+(; 9 ; 14 23 ; 32 41 18 ; diameter=41)
+All P3s
+Perfect Forest: 
+(; 1 ; 2 3 ; 33 34 31 ; diameter=34)
+(; 4 ; 13 17 ; 26 22 39 ; diameter=39)
+(; 5 ; 16 21 ; 36 41 20 ; diameter=41)
+(; 6 ; 24 30 ; 32 38 8 ; diameter=38)
+(; 7 ; 12 19 ; 35 42 23 ; diameter=42)
+(; 9 ; 18 27 ; 28 37 10 ; diameter=37)
+(; 11 ; 14 25 ; 29 40 15 ; diameter=40)
+All P3s
+Perfect Forest: 
+(; 1 ; 2 3 ; 33 32 35 ; diameter=35)
+(; 4 ; 22 26 ; 36 40 14 ; diameter=40)
+(; 5 ; 13 18 ; 37 42 24 ; diameter=42)
+(; 6 ; 17 23 ; 28 34 11 ; diameter=34)
+(; 7 ; 12 19 ; 27 20 39 ; diameter=39)
+(; 8 ; 21 29 ; 30 38 9 ; diameter=38)
+(; 10 ; 15 25 ; 31 41 16 ; diameter=41)
+All P3s
+Perfect Forest: 
+(; 1 ; 2 3 ; 36 37 34 ; diameter=37)
+(; 4 ; 20 24 ; 38 42 18 ; diameter=42)
+(; 5 ; 21 26 ; 27 32 6 ; diameter=32)
+(; 7 ; 12 19 ; 28 35 16 ; diameter=35)
+(; 8 ; 23 31 ; 33 41 10 ; diameter=41)
+(; 9 ; 13 22 ; 30 39 17 ; diameter=39)
+(; 11 ; 14 25 ; 29 40 15 ; diameter=40)
+All P3s
+Perfect Forest: 
+(; 1 ; 2 3 ; 31 32 29 ; diameter=32)
+(; 4 ; 17 21 ; 37 41 20 ; diameter=41)
+(; 5 ; 28 33 ; 34 39 6 ; diameter=39)
+(; 7 ; 12 19 ; 35 42 23 ; diameter=42)
+(; 8 ; 16 24 ; 30 38 14 ; diameter=38)
+(; 9 ; 13 22 ; 27 18 40 ; diameter=40)
+(; 10 ; 15 25 ; 26 36 11 ; diameter=36)
+All P3s
+Perfect Forest: 
+(; 1 ; 2 3 ; 36 35 38 ; diameter=38)
+(; 4 ; 25 29 ; 30 34 5 ; diameter=34)
+(; 6 ; 15 21 ; 31 37 16 ; diameter=37)
+(; 7 ; 12 19 ; 27 20 39 ; diameter=39)
+(; 8 ; 14 22 ; 26 18 40 ; diameter=40)
+(; 9 ; 23 32 ; 33 42 10 ; diameter=42)
+(; 11 ; 13 24 ; 28 17 41 ; diameter=41)
+All P3s
+Perfect Forest: 
+(; 1 ; 2 3 ; 37 36 39 ; diameter=39)
+(; 4 ; 17 21 ; 31 35 14 ; diameter=35)
+(; 5 ; 20 25 ; 29 34 9 ; diameter=34)
+(; 6 ; 22 28 ; 32 38 10 ; diameter=38)
+(; 7 ; 12 19 ; 30 23 42 ; diameter=42)
+(; 8 ; 18 26 ; 33 41 15 ; diameter=41)
+(; 11 ; 13 24 ; 27 16 40 ; diameter=40)
+All P3s
+Perfect Forest: 
+(; 1 ; 2 3 ; 36 37 34 ; diameter=37)
+(; 4 ; 14 18 ; 24 20 38 ; diameter=38)
+(; 5 ; 22 27 ; 28 33 6 ; diameter=33)
+(; 7 ; 12 19 ; 35 42 23 ; diameter=42)
+(; 8 ; 21 29 ; 32 40 11 ; diameter=40)
+(; 9 ; 17 26 ; 30 39 13 ; diameter=39)
+(; 10 ; 15 25 ; 31 41 16 ; diameter=41)
+All P3s
+Perfect Forest: 
+(; 1 ; 2 3 ; 32 31 34 ; diameter=34)
+(; 4 ; 26 30 ; 36 40 10 ; diameter=40)
+(; 5 ; 20 25 ; 37 42 17 ; diameter=42)
+(; 6 ; 22 28 ; 35 41 13 ; diameter=41)
+(; 7 ; 12 19 ; 21 14 33 ; diameter=33)
+(; 8 ; 15 23 ; 24 16 39 ; diameter=39)
+(; 9 ; 18 27 ; 29 38 11 ; diameter=38)
+All P3s
+Perfect Forest: 
+(; 1 ; 2 3 ; 34 35 32 ; diameter=35)
+(; 4 ; 26 30 ; 36 40 10 ; diameter=40)
+(; 5 ; 22 27 ; 37 42 15 ; diameter=42)
+(; 6 ; 17 23 ; 24 18 41 ; diameter=41)
+(; 7 ; 12 19 ; 21 14 33 ; diameter=33)
+(; 8 ; 20 28 ; 31 39 11 ; diameter=39)
+(; 9 ; 16 25 ; 29 38 13 ; diameter=38)
+All P3s
+Perfect Forest: 
+(; 1 ; 2 3 ; 30 29 32 ; diameter=32)
+(; 4 ; 17 21 ; 37 41 20 ; diameter=41)
+(; 5 ; 28 33 ; 34 39 6 ; diameter=39)
+(; 7 ; 12 19 ; 35 42 23 ; diameter=42)
+(; 8 ; 14 22 ; 24 16 38 ; diameter=38)
+(; 9 ; 18 27 ; 31 40 13 ; diameter=40)
+(; 10 ; 15 25 ; 26 36 11 ; diameter=36)
+All P3s
+Perfect Forest: 
+(; 1 ; 2 3 ; 36 35 38 ; diameter=38)
+(; 4 ; 24 28 ; 30 34 6 ; diameter=34)
+(; 5 ; 15 20 ; 26 21 41 ; diameter=41)
+(; 7 ; 12 19 ; 25 18 37 ; diameter=37)
+(; 8 ; 14 22 ; 31 39 17 ; diameter=39)
+(; 9 ; 23 32 ; 33 42 10 ; diameter=42)
+(; 11 ; 16 27 ; 29 40 13 ; diameter=40)
+All P3s
+Perfect Forest: 
+(; 1 ; 2 3 ; 37 38 35 ; diameter=38)
+(; 4 ; 20 24 ; 26 30 6 ; diameter=30)
+(; 5 ; 18 23 ; 34 39 16 ; diameter=39)
+(; 7 ; 12 19 ; 33 40 21 ; diameter=40)
+(; 8 ; 17 25 ; 28 36 11 ; diameter=36)
+(; 9 ; 22 31 ; 32 41 10 ; diameter=41)
+(; 13 ; 14 27 ; 29 42 15 ; diameter=42)
+All P3s
+Perfect Forest: 
+(; 1 ; 2 3 ; 36 35 38 ; diameter=38)
+(; 4 ; 23 27 ; 33 37 10 ; diameter=37)
+(; 5 ; 20 25 ; 34 39 14 ; diameter=39)
+(; 6 ; 16 22 ; 24 30 8 ; diameter=30)
+(; 7 ; 12 19 ; 28 21 40 ; diameter=40)
+(; 9 ; 17 26 ; 32 41 15 ; diameter=41)
+(; 11 ; 18 29 ; 31 42 13 ; diameter=42)
+All P3s
+Perfect Forest: 
+(; 1 ; 2 3 ; 31 30 33 ; diameter=33)
+(; 4 ; 25 29 ; 35 39 10 ; diameter=39)
+(; 5 ; 13 18 ; 37 42 24 ; diameter=42)
+(; 6 ; 21 27 ; 32 38 11 ; diameter=38)
+(; 7 ; 15 22 ; 34 41 19 ; diameter=41)
+(; 8 ; 12 20 ; 28 36 16 ; diameter=36)
+(; 9 ; 14 23 ; 26 17 40 ; diameter=40)
+All P3s
+Perfect Forest: 
+(; 1 ; 2 3 ; 27 28 25 ; diameter=28)
+(; 4 ; 17 21 ; 33 37 16 ; diameter=37)
+(; 5 ; 13 18 ; 35 40 22 ; diameter=40)
+(; 6 ; 26 32 ; 36 42 10 ; diameter=42)
+(; 7 ; 23 30 ; 34 41 11 ; diameter=41)
+(; 8 ; 12 20 ; 31 39 19 ; diameter=39)
+(; 9 ; 15 24 ; 29 38 14 ; diameter=38)
+All P3s
+Perfect Forest: 
+(; 1 ; 2 3 ; 35 34 37 ; diameter=37)
+(; 4 ; 24 28 ; 29 33 5 ; diameter=33)
+(; 6 ; 13 19 ; 36 42 23 ; diameter=42)
+(; 7 ; 15 22 ; 32 39 17 ; diameter=39)
+(; 8 ; 12 20 ; 26 18 38 ; diameter=38)
+(; 9 ; 21 30 ; 31 40 10 ; diameter=40)
+(; 11 ; 14 25 ; 27 16 41 ; diameter=41)
+All P3s
+Perfect Forest: 
+(; 1 ; 2 3 ; 35 36 33 ; diameter=36)
+(; 4 ; 22 26 ; 37 41 15 ; diameter=41)
+(; 5 ; 24 29 ; 34 39 10 ; diameter=39)
+(; 6 ; 13 19 ; 27 21 40 ; diameter=40)
+(; 7 ; 16 23 ; 25 32 9 ; diameter=32)
+(; 8 ; 12 20 ; 30 38 18 ; diameter=38)
+(; 11 ; 17 28 ; 31 42 14 ; diameter=42)
+All P3s
+Perfect Forest: 
+(; 1 ; 2 3 ; 32 31 34 ; diameter=34)
+(; 4 ; 26 30 ; 36 40 10 ; diameter=40)
+(; 5 ; 23 28 ; 37 42 14 ; diameter=42)
+(; 6 ; 19 25 ; 35 41 16 ; diameter=41)
+(; 7 ; 15 22 ; 24 17 39 ; diameter=39)
+(; 8 ; 12 20 ; 21 13 33 ; diameter=33)
+(; 9 ; 18 27 ; 29 38 11 ; diameter=38)
+All P3s
+Perfect Forest: 
+(; 1 ; 2 3 ; 37 38 35 ; diameter=38)
+(; 4 ; 27 31 ; 32 36 5 ; diameter=36)
+(; 6 ; 18 24 ; 28 34 10 ; diameter=34)
+(; 7 ; 16 23 ; 26 19 42 ; diameter=42)
+(; 8 ; 12 20 ; 33 41 21 ; diameter=41)
+(; 9 ; 13 22 ; 30 39 17 ; diameter=39)
+(; 11 ; 14 25 ; 29 40 15 ; diameter=40)
+All P3s
+Perfect Forest: 
+(; 1 ; 2 3 ; 37 38 35 ; diameter=38)
+(; 4 ; 17 21 ; 36 40 19 ; diameter=40)
+(; 5 ; 22 27 ; 28 33 6 ; diameter=33)
+(; 7 ; 23 30 ; 32 39 9 ; diameter=39)
+(; 8 ; 12 20 ; 26 34 14 ; diameter=34)
+(; 10 ; 15 25 ; 31 41 16 ; diameter=41)
+(; 11 ; 13 24 ; 29 18 42 ; diameter=42)
+All P3s
+Perfect Forest: 
+(; 1 ; 2 3 ; 33 34 31 ; diameter=34)
+(; 4 ; 15 19 ; 36 40 21 ; diameter=40)
+(; 5 ; 27 32 ; 37 42 10 ; diameter=42)
+(; 6 ; 22 28 ; 29 35 7 ; diameter=35)
+(; 8 ; 12 20 ; 26 18 38 ; diameter=38)
+(; 9 ; 14 23 ; 25 16 39 ; diameter=39)
+(; 11 ; 13 24 ; 30 41 17 ; diameter=41)
+All P3s
+Perfect Forest: 
+(; 1 ; 2 3 ; 33 34 31 ; diameter=34)
+(; 4 ; 15 19 ; 25 21 40 ; diameter=40)
+(; 5 ; 22 27 ; 32 37 10 ; diameter=37)
+(; 6 ; 29 35 ; 36 42 7 ; diameter=42)
+(; 8 ; 12 20 ; 26 18 38 ; diameter=38)
+(; 9 ; 14 23 ; 30 39 16 ; diameter=39)
+(; 11 ; 13 24 ; 28 17 41 ; diameter=41)
+All P3s
+Perfect Forest: 
+(; 1 ; 2 3 ; 29 28 31 ; diameter=31)
+(; 4 ; 30 34 ; 36 40 6 ; diameter=40)
+(; 5 ; 18 23 ; 37 42 19 ; diameter=42)
+(; 7 ; 15 22 ; 32 39 17 ; diameter=39)
+(; 8 ; 12 20 ; 33 41 21 ; diameter=41)
+(; 9 ; 16 25 ; 26 35 10 ; diameter=35)
+(; 11 ; 13 24 ; 27 38 14 ; diameter=38)
+All P3s
+Perfect Forest: 
+(; 1 ; 2 3 ; 36 35 38 ; diameter=38)
+(; 4 ; 14 18 ; 30 34 16 ; diameter=34)
+(; 5 ; 22 27 ; 32 37 10 ; diameter=37)
+(; 6 ; 17 23 ; 25 19 42 ; diameter=42)
+(; 7 ; 24 31 ; 33 40 9 ; diameter=40)
+(; 8 ; 12 20 ; 29 21 41 ; diameter=41)
+(; 11 ; 15 26 ; 28 39 13 ; diameter=39)
+All P3s
+Perfect Forest: 
+(; 1 ; 2 3 ; 29 28 31 ; diameter=31)
+(; 4 ; 14 18 ; 37 41 23 ; diameter=41)
+(; 5 ; 22 27 ; 33 38 11 ; diameter=38)
+(; 6 ; 15 21 ; 34 40 19 ; diameter=40)
+(; 7 ; 25 32 ; 35 42 10 ; diameter=42)
+(; 8 ; 12 20 ; 24 16 36 ; diameter=36)
+(; 9 ; 17 26 ; 30 39 13 ; diameter=39)
+All P3s
+Perfect Forest: 
+(; 1 ; 2 3 ; 30 29 32 ; diameter=32)
+(; 4 ; 31 35 ; 37 41 6 ; diameter=41)
+(; 5 ; 21 26 ; 34 39 13 ; diameter=39)
+(; 7 ; 15 22 ; 25 18 40 ; diameter=40)
+(; 8 ; 12 20 ; 24 16 36 ; diameter=36)
+(; 9 ; 14 23 ; 33 42 19 ; diameter=42)
+(; 10 ; 17 27 ; 28 38 11 ; diameter=38)
+All P3s
+Perfect Forest: 
+(; 1 ; 2 3 ; 37 36 39 ; diameter=39)
+(; 4 ; 22 26 ; 27 31 5 ; diameter=31)
+(; 6 ; 18 24 ; 32 38 14 ; diameter=38)
+(; 7 ; 21 28 ; 34 41 13 ; diameter=41)
+(; 8 ; 12 20 ; 23 15 35 ; diameter=35)
+(; 9 ; 16 25 ; 33 42 17 ; diameter=42)
+(; 10 ; 19 29 ; 30 40 11 ; diameter=40)
+All P3s
+Perfect Forest: 
+(; 1 ; 2 3 ; 37 36 39 ; diameter=39)
+(; 4 ; 17 21 ; 31 35 14 ; diameter=35)
+(; 5 ; 22 27 ; 28 33 6 ; diameter=33)
+(; 7 ; 23 30 ; 34 41 11 ; diameter=41)
+(; 8 ; 12 20 ; 26 18 38 ; diameter=38)
+(; 9 ; 15 24 ; 25 16 40 ; diameter=40)
+(; 10 ; 19 29 ; 32 42 13 ; diameter=42)
+All P3s
+Perfect Forest: 
+(; 1 ; 2 3 ; 29 30 27 ; diameter=30)
+(; 4 ; 13 17 ; 36 40 23 ; diameter=40)
+(; 5 ; 14 19 ; 34 39 20 ; diameter=39)
+(; 6 ; 22 28 ; 32 38 10 ; diameter=38)
+(; 7 ; 24 31 ; 35 42 11 ; diameter=42)
+(; 8 ; 18 26 ; 33 41 15 ; diameter=41)
+(; 9 ; 12 21 ; 25 16 37 ; diameter=37)
+All P3s
+Perfect Forest: 
+(; 1 ; 2 3 ; 29 28 31 ; diameter=31)
+(; 4 ; 13 17 ; 35 39 22 ; diameter=39)
+(; 5 ; 18 23 ; 37 42 19 ; diameter=42)
+(; 6 ; 27 33 ; 34 40 7 ; diameter=40)
+(; 8 ; 16 24 ; 30 38 14 ; diameter=38)
+(; 9 ; 12 21 ; 32 41 20 ; diameter=41)
+(; 10 ; 15 25 ; 26 36 11 ; diameter=36)
+All P3s
+Perfect Forest: 
+(; 1 ; 2 3 ; 36 35 38 ; diameter=38)
+(; 4 ; 23 27 ; 33 37 10 ; diameter=37)
+(; 5 ; 13 18 ; 29 24 42 ; diameter=42)
+(; 6 ; 20 26 ; 28 34 8 ; diameter=34)
+(; 7 ; 15 22 ; 32 39 17 ; diameter=39)
+(; 9 ; 12 21 ; 31 40 19 ; diameter=40)
+(; 11 ; 14 25 ; 30 41 16 ; diameter=41)
+All P3s
+Perfect Forest: 
+(; 1 ; 2 3 ; 31 30 33 ; diameter=33)
+(; 4 ; 28 32 ; 36 40 8 ; diameter=40)
+(; 5 ; 22 27 ; 37 42 15 ; diameter=42)
+(; 6 ; 13 19 ; 26 20 39 ; diameter=39)
+(; 7 ; 16 23 ; 34 41 18 ; diameter=41)
+(; 9 ; 12 21 ; 29 38 17 ; diameter=38)
+(; 10 ; 14 24 ; 25 35 11 ; diameter=35)
+All P3s
+Perfect Forest: 
+(; 1 ; 2 3 ; 32 31 34 ; diameter=34)
+(; 4 ; 20 24 ; 37 41 17 ; diameter=41)
+(; 5 ; 28 33 ; 35 40 7 ; diameter=40)
+(; 6 ; 13 19 ; 29 23 42 ; diameter=42)
+(; 8 ; 14 22 ; 30 38 16 ; diameter=38)
+(; 9 ; 12 21 ; 27 18 39 ; diameter=39)
+(; 10 ; 15 25 ; 26 36 11 ; diameter=36)
+All P3s
+Perfect Forest: 
+(; 1 ; 2 3 ; 33 34 31 ; diameter=34)
+(; 4 ; 28 32 ; 38 42 10 ; diameter=42)
+(; 5 ; 18 23 ; 35 40 17 ; diameter=40)
+(; 6 ; 13 19 ; 26 20 39 ; diameter=39)
+(; 7 ; 22 29 ; 30 37 8 ; diameter=37)
+(; 9 ; 12 21 ; 24 15 36 ; diameter=36)
+(; 11 ; 14 25 ; 27 16 41 ; diameter=41)
+All P3s
+Perfect Forest: 
+(; 1 ; 2 3 ; 37 38 35 ; diameter=38)
+(; 4 ; 24 28 ; 29 33 5 ; diameter=33)
+(; 6 ; 13 19 ; 26 20 39 ; diameter=39)
+(; 7 ; 16 23 ; 34 41 18 ; diameter=41)
+(; 8 ; 22 30 ; 32 40 10 ; diameter=40)
+(; 9 ; 12 21 ; 27 36 15 ; diameter=36)
+(; 11 ; 14 25 ; 31 42 17 ; diameter=42)
+All P3s
+Perfect Forest: 
+(; 1 ; 2 3 ; 31 30 33 ; diameter=33)
+(; 4 ; 28 32 ; 38 42 10 ; diameter=42)
+(; 5 ; 20 25 ; 34 39 14 ; diameter=39)
+(; 6 ; 13 19 ; 35 41 22 ; diameter=41)
+(; 7 ; 16 23 ; 24 17 40 ; diameter=40)
+(; 8 ; 18 26 ; 29 37 11 ; diameter=37)
+(; 9 ; 12 21 ; 27 36 15 ; diameter=36)
+All P3s
+Perfect Forest: 
+(; 1 ; 2 3 ; 27 28 25 ; diameter=28)
+(; 4 ; 18 22 ; 33 37 15 ; diameter=37)
+(; 5 ; 30 35 ; 36 41 6 ; diameter=41)
+(; 7 ; 13 20 ; 32 39 19 ; diameter=39)
+(; 8 ; 23 31 ; 34 42 11 ; diameter=42)
+(; 9 ; 12 21 ; 29 38 17 ; diameter=38)
+(; 10 ; 14 24 ; 26 16 40 ; diameter=40)
+All P3s
+Perfect Forest: 
+(; 1 ; 2 3 ; 31 32 29 ; diameter=32)
+(; 4 ; 20 24 ; 36 40 16 ; diameter=40)
+(; 5 ; 30 35 ; 37 42 7 ; diameter=42)
+(; 6 ; 19 25 ; 33 39 14 ; diameter=39)
+(; 8 ; 15 23 ; 26 18 41 ; diameter=41)
+(; 9 ; 12 21 ; 22 13 34 ; diameter=34)
+(; 10 ; 17 27 ; 28 38 11 ; diameter=38)
+All P3s
+Perfect Forest: 
+(; 1 ; 2 3 ; 29 30 27 ; diameter=30)
+(; 4 ; 18 22 ; 34 38 16 ; diameter=38)
+(; 5 ; 28 33 ; 36 41 8 ; diameter=41)
+(; 6 ; 14 20 ; 23 17 37 ; diameter=37)
+(; 7 ; 25 32 ; 35 42 10 ; diameter=42)
+(; 9 ; 12 21 ; 31 40 19 ; diameter=40)
+(; 11 ; 13 24 ; 26 15 39 ; diameter=39)
+All P3s
+Perfect Forest: 
+(; 1 ; 2 3 ; 34 35 32 ; diameter=35)
+(; 4 ; 14 18 ; 38 42 24 ; diameter=42)
+(; 5 ; 20 25 ; 36 41 16 ; diameter=41)
+(; 6 ; 17 23 ; 27 33 10 ; diameter=33)
+(; 7 ; 22 29 ; 30 37 8 ; diameter=37)
+(; 9 ; 12 21 ; 31 40 19 ; diameter=40)
+(; 11 ; 15 26 ; 28 39 13 ; diameter=39)
+All P3s
+Perfect Forest: 
+(; 1 ; 2 3 ; 33 34 31 ; diameter=34)
+(; 4 ; 14 18 ; 37 41 23 ; diameter=41)
+(; 5 ; 15 20 ; 24 19 39 ; diameter=39)
+(; 6 ; 22 28 ; 30 36 8 ; diameter=36)
+(; 7 ; 25 32 ; 35 42 10 ; diameter=42)
+(; 9 ; 12 21 ; 26 17 38 ; diameter=38)
+(; 11 ; 16 27 ; 29 40 13 ; diameter=40)
+All P3s
+Perfect Forest: 
+(; 1 ; 2 3 ; 36 35 38 ; diameter=38)
+(; 4 ; 20 24 ; 30 34 10 ; diameter=34)
+(; 5 ; 14 19 ; 27 22 41 ; diameter=41)
+(; 6 ; 26 32 ; 33 39 7 ; diameter=39)
+(; 8 ; 15 23 ; 25 17 40 ; diameter=40)
+(; 9 ; 12 21 ; 28 37 16 ; diameter=37)
+(; 11 ; 18 29 ; 31 42 13 ; diameter=42)
+All P3s
+Perfect Forest: 
+(; 1 ; 2 3 ; 37 38 35 ; diameter=38)
+(; 4 ; 22 26 ; 28 32 6 ; diameter=32)
+(; 5 ; 14 19 ; 34 39 20 ; diameter=39)
+(; 7 ; 23 30 ; 33 40 10 ; diameter=40)
+(; 8 ; 16 24 ; 25 17 41 ; diameter=41)
+(; 9 ; 12 21 ; 27 36 15 ; diameter=36)
+(; 11 ; 18 29 ; 31 42 13 ; diameter=42)
+All P3s
+Perfect Forest: 
+(; 1 ; 2 3 ; 37 36 39 ; diameter=39)
+(; 4 ; 19 23 ; 30 34 11 ; diameter=34)
+(; 5 ; 26 31 ; 33 38 7 ; diameter=38)
+(; 6 ; 16 22 ; 24 18 40 ; diameter=40)
+(; 8 ; 17 25 ; 27 35 10 ; diameter=35)
+(; 9 ; 12 21 ; 32 41 20 ; diameter=41)
+(; 13 ; 15 28 ; 29 42 14 ; diameter=42)
+All P3s
+Perfect Forest: 
+(; 1 ; 2 3 ; 36 35 38 ; diameter=38)
+(; 4 ; 23 27 ; 29 33 6 ; diameter=33)
+(; 5 ; 15 20 ; 37 42 22 ; diameter=42)
+(; 7 ; 18 25 ; 32 39 14 ; diameter=39)
+(; 8 ; 16 24 ; 26 34 10 ; diameter=34)
+(; 9 ; 12 21 ; 31 40 19 ; diameter=40)
+(; 11 ; 17 28 ; 30 41 13 ; diameter=41)
+All P3s
+Perfect Forest: 
+(; 1 ; 2 3 ; 35 36 33 ; diameter=36)
+(; 4 ; 13 17 ; 28 24 41 ; diameter=41)
+(; 5 ; 26 31 ; 34 39 8 ; diameter=39)
+(; 6 ; 15 21 ; 25 19 40 ; diameter=40)
+(; 7 ; 16 23 ; 30 37 14 ; diameter=37)
+(; 9 ; 18 27 ; 29 38 11 ; diameter=38)
+(; 10 ; 12 22 ; 32 42 20 ; diameter=42)
+All P3s
+Perfect Forest: 
+(; 1 ; 2 3 ; 35 34 37 ; diameter=37)
+(; 4 ; 13 17 ; 36 40 23 ; diameter=40)
+(; 5 ; 20 25 ; 26 31 6 ; diameter=31)
+(; 7 ; 21 28 ; 32 39 11 ; diameter=39)
+(; 8 ; 16 24 ; 30 38 14 ; diameter=38)
+(; 9 ; 18 27 ; 33 42 15 ; diameter=42)
+(; 10 ; 12 22 ; 29 19 41 ; diameter=41)
+All P3s
+Perfect Forest: 
+(; 1 ; 2 3 ; 34 33 36 ; diameter=36)
+(; 4 ; 25 29 ; 31 35 6 ; diameter=35)
+(; 5 ; 13 18 ; 37 42 24 ; diameter=42)
+(; 7 ; 14 21 ; 27 20 41 ; diameter=41)
+(; 8 ; 15 23 ; 32 40 17 ; diameter=40)
+(; 9 ; 19 28 ; 30 39 11 ; diameter=39)
+(; 10 ; 12 22 ; 26 16 38 ; diameter=38)
+All P3s
+Perfect Forest: 
+(; 1 ; 2 3 ; 37 38 35 ; diameter=38)
+(; 4 ; 25 29 ; 32 36 7 ; diameter=36)
+(; 5 ; 13 18 ; 26 21 39 ; diameter=39)
+(; 6 ; 17 23 ; 28 34 11 ; diameter=34)
+(; 8 ; 19 27 ; 33 41 14 ; diameter=41)
+(; 9 ; 15 24 ; 31 40 16 ; diameter=40)
+(; 10 ; 12 22 ; 30 20 42 ; diameter=42)
+All P3s
+Perfect Forest: 
+(; 1 ; 2 3 ; 29 30 27 ; diameter=30)
+(; 4 ; 14 18 ; 34 38 20 ; diameter=38)
+(; 5 ; 26 31 ; 35 40 9 ; diameter=40)
+(; 6 ; 13 19 ; 36 42 23 ; diameter=42)
+(; 7 ; 21 28 ; 32 39 11 ; diameter=39)
+(; 8 ; 16 24 ; 33 41 17 ; diameter=41)
+(; 10 ; 12 22 ; 25 15 37 ; diameter=37)
+All P3s
+Perfect Forest: 
+(; 1 ; 2 3 ; 33 32 35 ; diameter=35)
+(; 4 ; 25 29 ; 34 38 9 ; diameter=38)
+(; 5 ; 26 31 ; 37 42 11 ; diameter=42)
+(; 6 ; 13 19 ; 30 36 17 ; diameter=36)
+(; 7 ; 14 21 ; 27 20 41 ; diameter=41)
+(; 8 ; 15 23 ; 24 16 39 ; diameter=39)
+(; 10 ; 12 22 ; 28 18 40 ; diameter=40)
+All P3s
+Perfect Forest: 
+(; 1 ; 2 3 ; 31 32 29 ; diameter=32)
+(; 4 ; 17 21 ; 33 37 16 ; diameter=37)
+(; 5 ; 25 30 ; 36 41 11 ; diameter=41)
+(; 6 ; 13 19 ; 26 20 39 ; diameter=39)
+(; 7 ; 27 34 ; 35 42 8 ; diameter=42)
+(; 9 ; 14 23 ; 24 15 38 ; diameter=38)
+(; 10 ; 12 22 ; 28 18 40 ; diameter=40)
+All P3s
+Perfect Forest: 
+(; 1 ; 2 3 ; 31 30 33 ; diameter=33)
+(; 4 ; 14 18 ; 37 41 23 ; diameter=41)
+(; 5 ; 24 29 ; 35 40 11 ; diameter=40)
+(; 6 ; 21 27 ; 36 42 15 ; diameter=42)
+(; 7 ; 13 20 ; 32 39 19 ; diameter=39)
+(; 8 ; 17 25 ; 26 34 9 ; diameter=34)
+(; 10 ; 12 22 ; 28 38 16 ; diameter=38)
+All P3s
+Perfect Forest: 
+(; 1 ; 2 3 ; 34 33 36 ; diameter=36)
+(; 4 ; 27 31 ; 38 42 11 ; diameter=42)
+(; 5 ; 23 28 ; 32 37 9 ; diameter=37)
+(; 6 ; 15 21 ; 29 35 14 ; diameter=35)
+(; 7 ; 13 20 ; 26 19 39 ; diameter=39)
+(; 8 ; 16 24 ; 25 17 41 ; diameter=41)
+(; 10 ; 12 22 ; 30 40 18 ; diameter=40)
+All P3s
+Perfect Forest: 
+(; 1 ; 2 3 ; 31 30 33 ; diameter=33)
+(; 4 ; 23 27 ; 34 38 11 ; diameter=38)
+(; 5 ; 14 19 ; 25 20 39 ; diameter=39)
+(; 6 ; 29 35 ; 36 42 7 ; diameter=42)
+(; 8 ; 13 21 ; 24 16 37 ; diameter=37)
+(; 9 ; 17 26 ; 32 41 15 ; diameter=41)
+(; 10 ; 12 22 ; 28 18 40 ; diameter=40)
+All P3s
+Perfect Forest: 
+(; 1 ; 2 3 ; 37 38 35 ; diameter=38)
+(; 4 ; 15 19 ; 32 36 17 ; diameter=36)
+(; 5 ; 23 28 ; 29 34 6 ; diameter=34)
+(; 7 ; 24 31 ; 33 40 9 ; diameter=40)
+(; 8 ; 13 21 ; 26 18 39 ; diameter=39)
+(; 10 ; 12 22 ; 30 20 42 ; diameter=42)
+(; 11 ; 14 25 ; 27 16 41 ; diameter=41)
+All P3s
+Perfect Forest: 
+(; 1 ; 2 3 ; 27 26 29 ; diameter=29)
+(; 4 ; 17 21 ; 36 40 19 ; diameter=40)
+(; 5 ; 28 33 ; 37 42 9 ; diameter=42)
+(; 6 ; 14 20 ; 32 38 18 ; diameter=38)
+(; 7 ; 23 30 ; 34 41 11 ; diameter=41)
+(; 8 ; 16 24 ; 31 39 15 ; diameter=39)
+(; 10 ; 12 22 ; 25 35 13 ; diameter=35)
+All P3s
+Perfect Forest: 
+(; 1 ; 2 3 ; 25 24 27 ; diameter=27)
+(; 4 ; 29 33 ; 36 40 7 ; diameter=40)
+(; 5 ; 14 19 ; 32 37 18 ; diameter=37)
+(; 6 ; 15 21 ; 35 41 20 ; diameter=41)
+(; 8 ; 23 31 ; 34 42 11 ; diameter=42)
+(; 9 ; 17 26 ; 30 39 13 ; diameter=39)
+(; 10 ; 12 22 ; 28 38 16 ; diameter=38)
+All P3s
+Perfect Forest: 
+(; 1 ; 2 3 ; 35 34 37 ; diameter=37)
+(; 4 ; 25 29 ; 38 42 13 ; diameter=42)
+(; 5 ; 14 19 ; 31 36 17 ; diameter=36)
+(; 6 ; 20 26 ; 27 33 7 ; diameter=33)
+(; 8 ; 15 23 ; 24 16 39 ; diameter=39)
+(; 9 ; 21 30 ; 32 41 11 ; diameter=41)
+(; 10 ; 12 22 ; 28 18 40 ; diameter=40)
+All P3s
+Perfect Forest: 
+(; 1 ; 2 3 ; 37 36 39 ; diameter=39)
+(; 4 ; 23 27 ; 30 34 7 ; diameter=34)
+(; 5 ; 19 24 ; 28 33 9 ; diameter=33)
+(; 6 ; 14 20 ; 35 41 21 ; diameter=41)
+(; 8 ; 17 25 ; 32 40 15 ; diameter=40)
+(; 10 ; 12 22 ; 26 16 38 ; diameter=38)
+(; 11 ; 18 29 ; 31 42 13 ; diameter=42)
+All P3s
+Perfect Forest: 
+(; 1 ; 2 3 ; 37 36 39 ; diameter=39)
+(; 4 ; 26 30 ; 31 35 5 ; diameter=35)
+(; 6 ; 19 25 ; 28 34 9 ; diameter=34)
+(; 7 ; 14 21 ; 24 17 38 ; diameter=38)
+(; 8 ; 15 23 ; 33 41 18 ; diameter=41)
+(; 10 ; 12 22 ; 32 42 20 ; diameter=42)
+(; 11 ; 16 27 ; 29 40 13 ; diameter=40)
+All P3s
+Perfect Forest: 
+(; 1 ; 2 3 ; 29 30 27 ; diameter=30)
+(; 4 ; 13 17 ; 33 37 20 ; diameter=37)
+(; 5 ; 19 24 ; 35 40 16 ; diameter=40)
+(; 6 ; 28 34 ; 36 42 8 ; diameter=42)
+(; 7 ; 14 21 ; 25 18 39 ; diameter=39)
+(; 9 ; 22 31 ; 32 41 10 ; diameter=41)
+(; 11 ; 12 23 ; 26 15 38 ; diameter=38)
+All P3s
+Perfect Forest: 
+(; 1 ; 2 3 ; 32 31 34 ; diameter=34)
+(; 4 ; 13 17 ; 37 41 24 ; diameter=41)
+(; 5 ; 16 21 ; 35 40 19 ; diameter=40)
+(; 6 ; 22 28 ; 36 42 14 ; diameter=42)
+(; 7 ; 18 25 ; 26 33 8 ; diameter=33)
+(; 9 ; 20 29 ; 30 39 10 ; diameter=39)
+(; 11 ; 12 23 ; 27 38 15 ; diameter=38)
+All P3s
+Perfect Forest: 
+(; 1 ; 2 3 ; 34 33 36 ; diameter=36)
+(; 4 ; 28 32 ; 37 41 9 ; diameter=41)
+(; 5 ; 13 18 ; 25 20 38 ; diameter=38)
+(; 6 ; 21 27 ; 29 35 8 ; diameter=35)
+(; 7 ; 15 22 ; 24 17 39 ; diameter=39)
+(; 10 ; 16 26 ; 30 40 14 ; diameter=40)
+(; 11 ; 12 23 ; 31 42 19 ; diameter=42)
+All P3s
+Perfect Forest: 
+(; 1 ; 2 3 ; 35 34 37 ; diameter=37)
+(; 4 ; 21 25 ; 28 32 7 ; diameter=32)
+(; 5 ; 26 31 ; 36 41 10 ; diameter=41)
+(; 6 ; 13 19 ; 33 39 20 ; diameter=39)
+(; 8 ; 14 22 ; 30 38 16 ; diameter=38)
+(; 9 ; 15 24 ; 27 18 42 ; diameter=42)
+(; 11 ; 12 23 ; 29 40 17 ; diameter=40)
+All P3s
+Perfect Forest: 
+(; 1 ; 2 3 ; 35 34 37 ; diameter=37)
+(; 4 ; 27 31 ; 36 40 9 ; diameter=40)
+(; 5 ; 17 22 ; 33 38 16 ; diameter=38)
+(; 6 ; 18 24 ; 26 32 8 ; diameter=32)
+(; 7 ; 13 20 ; 28 21 41 ; diameter=41)
+(; 10 ; 15 25 ; 29 39 14 ; diameter=39)
+(; 11 ; 12 23 ; 30 19 42 ; diameter=42)
+All P3s
+Perfect Forest: 
+(; 1 ; 2 3 ; 36 35 38 ; diameter=38)
+(; 4 ; 22 26 ; 28 32 6 ; diameter=32)
+(; 5 ; 14 19 ; 34 39 20 ; diameter=39)
+(; 7 ; 24 31 ; 33 40 9 ; diameter=40)
+(; 8 ; 13 21 ; 29 37 16 ; diameter=37)
+(; 10 ; 15 25 ; 27 17 42 ; diameter=42)
+(; 11 ; 12 23 ; 30 41 18 ; diameter=41)
+All P3s
+Perfect Forest: 
+(; 1 ; 2 3 ; 31 30 33 ; diameter=33)
+(; 4 ; 28 32 ; 37 41 9 ; diameter=41)
+(; 5 ; 24 29 ; 34 39 10 ; diameter=39)
+(; 6 ; 14 20 ; 22 16 36 ; diameter=36)
+(; 7 ; 18 25 ; 35 42 17 ; diameter=42)
+(; 8 ; 13 21 ; 27 19 40 ; diameter=40)
+(; 11 ; 12 23 ; 26 15 38 ; diameter=38)
+All P3s
+Perfect Forest: 
+(; 1 ; 2 3 ; 37 38 35 ; diameter=38)
+(; 4 ; 27 31 ; 32 36 5 ; diameter=36)
+(; 6 ; 16 22 ; 34 40 18 ; diameter=40)
+(; 7 ; 17 24 ; 26 33 9 ; diameter=33)
+(; 8 ; 13 21 ; 28 20 41 ; diameter=41)
+(; 10 ; 15 25 ; 29 39 14 ; diameter=39)
+(; 11 ; 12 23 ; 30 19 42 ; diameter=42)
+All P3s
+Perfect Forest: 
+(; 1 ; 2 3 ; 26 27 24 ; diameter=27)
+(; 4 ; 16 20 ; 34 38 18 ; diameter=38)
+(; 5 ; 30 35 ; 37 42 7 ; diameter=42)
+(; 6 ; 19 25 ; 33 39 14 ; diameter=39)
+(; 8 ; 13 21 ; 28 36 15 ; diameter=36)
+(; 9 ; 22 31 ; 32 41 10 ; diameter=41)
+(; 11 ; 12 23 ; 29 40 17 ; diameter=40)
+All P3s
+Perfect Forest: 
+(; 1 ; 2 3 ; 37 38 35 ; diameter=38)
+(; 4 ; 21 25 ; 28 32 7 ; diameter=32)
+(; 5 ; 14 19 ; 31 36 17 ; diameter=36)
+(; 6 ; 24 30 ; 34 40 10 ; diameter=40)
+(; 8 ; 18 26 ; 33 41 15 ; diameter=41)
+(; 9 ; 13 22 ; 29 20 42 ; diameter=42)
+(; 11 ; 12 23 ; 27 16 39 ; diameter=39)
+All P3s
+Perfect Forest: 
+(; 1 ; 2 3 ; 29 30 27 ; diameter=30)
+(; 4 ; 16 20 ; 35 39 19 ; diameter=39)
+(; 5 ; 28 33 ; 37 42 9 ; diameter=42)
+(; 6 ; 15 21 ; 32 38 17 ; diameter=38)
+(; 7 ; 24 31 ; 34 41 10 ; diameter=41)
+(; 8 ; 14 22 ; 26 18 40 ; diameter=40)
+(; 11 ; 12 23 ; 25 36 13 ; diameter=36)
+All P3s
+Perfect Forest: 
+(; 1 ; 2 3 ; 32 31 34 ; diameter=34)
+(; 4 ; 29 33 ; 37 41 8 ; diameter=41)
+(; 5 ; 16 21 ; 24 19 40 ; diameter=40)
+(; 6 ; 14 20 ; 36 42 22 ; diameter=42)
+(; 7 ; 18 25 ; 28 35 10 ; diameter=35)
+(; 9 ; 17 26 ; 30 39 13 ; diameter=39)
+(; 11 ; 12 23 ; 27 38 15 ; diameter=38)
+All P3s
+Perfect Forest: 
+(; 1 ; 2 3 ; 36 35 38 ; diameter=38)
+(; 4 ; 27 31 ; 33 37 6 ; diameter=37)
+(; 5 ; 16 21 ; 24 19 40 ; diameter=40)
+(; 7 ; 15 22 ; 25 32 10 ; diameter=32)
+(; 8 ; 20 28 ; 34 42 14 ; diameter=42)
+(; 9 ; 17 26 ; 30 39 13 ; diameter=39)
+(; 11 ; 12 23 ; 29 18 41 ; diameter=41)
+All P3s
+Perfect Forest: 
+(; 1 ; 2 3 ; 34 35 32 ; diameter=35)
+(; 4 ; 24 28 ; 38 42 14 ; diameter=42)
+(; 5 ; 17 22 ; 36 41 19 ; diameter=41)
+(; 6 ; 21 27 ; 33 39 12 ; diameter=39)
+(; 7 ; 13 20 ; 23 30 10 ; diameter=30)
+(; 8 ; 18 26 ; 29 37 11 ; diameter=37)
+(; 9 ; 16 25 ; 31 40 15 ; diameter=40)
+All P3s
+Perfect Forest: 
+(; 1 ; 2 3 ; 37 38 35 ; diameter=38)
+(; 4 ; 20 24 ; 27 31 7 ; diameter=31)
+(; 5 ; 18 23 ; 34 39 16 ; diameter=39)
+(; 6 ; 22 28 ; 36 42 14 ; diameter=42)
+(; 8 ; 13 21 ; 25 33 12 ; diameter=33)
+(; 9 ; 17 26 ; 32 41 15 ; diameter=41)
+(; 10 ; 19 29 ; 30 40 11 ; diameter=40)
+All P3s
+Perfect Forest: 
+(; 1 ; 2 3 ; 28 29 26 ; diameter=29)
+(; 4 ; 16 20 ; 34 38 18 ; diameter=38)
+(; 5 ; 14 19 ; 37 42 23 ; diameter=42)
+(; 6 ; 27 33 ; 35 41 8 ; diameter=41)
+(; 7 ; 15 22 ; 32 39 17 ; diameter=39)
+(; 9 ; 21 30 ; 31 40 10 ; diameter=40)
+(; 11 ; 13 24 ; 25 36 12 ; diameter=36)
+All P3s
+Perfect Forest: 
+(; 1 ; 2 3 ; 37 38 35 ; diameter=38)
+(; 4 ; 13 17 ; 23 19 36 ; diameter=36)
+(; 5 ; 20 25 ; 27 32 7 ; diameter=32)
+(; 6 ; 22 28 ; 33 39 11 ; diameter=39)
+(; 8 ; 16 24 ; 34 42 18 ; diameter=42)
+(; 9 ; 21 30 ; 31 40 10 ; diameter=40)
+(; 12 ; 14 26 ; 29 41 15 ; diameter=41)
+All P3s
+Perfect Forest: 
+(; 1 ; 2 3 ; 37 38 35 ; diameter=38)
+(; 4 ; 21 25 ; 32 36 11 ; diameter=36)
+(; 5 ; 13 18 ; 29 34 16 ; diameter=34)
+(; 6 ; 14 20 ; 28 22 42 ; diameter=42)
+(; 7 ; 23 30 ; 33 40 10 ; diameter=40)
+(; 8 ; 19 27 ; 31 39 12 ; diameter=39)
+(; 9 ; 15 24 ; 26 17 41 ; diameter=41)
+All P3s
+Perfect Forest: 
+(; 1 ; 2 3 ; 34 33 36 ; diameter=36)
+(; 4 ; 26 30 ; 38 42 12 ; diameter=42)
+(; 5 ; 13 18 ; 27 22 40 ; diameter=40)
+(; 6 ; 19 25 ; 29 35 10 ; diameter=35)
+(; 7 ; 14 21 ; 23 16 37 ; diameter=37)
+(; 8 ; 20 28 ; 31 39 11 ; diameter=39)
+(; 9 ; 15 24 ; 32 41 17 ; diameter=41)
+All P3s
+Perfect Forest: 
+(; 1 ; 2 3 ; 31 32 29 ; diameter=32)
+(; 4 ; 16 20 ; 21 17 37 ; diameter=37)
+(; 5 ; 13 18 ; 36 41 23 ; diameter=41)
+(; 6 ; 22 28 ; 34 40 12 ; diameter=40)
+(; 7 ; 26 33 ; 35 42 9 ; diameter=42)
+(; 8 ; 19 27 ; 30 38 11 ; diameter=38)
+(; 10 ; 14 24 ; 25 15 39 ; diameter=39)
+All P3s
+Perfect Forest: 
+(; 1 ; 2 3 ; 31 30 33 ; diameter=33)
+(; 4 ; 14 18 ; 38 42 24 ; diameter=42)
+(; 5 ; 20 25 ; 36 41 16 ; diameter=41)
+(; 6 ; 13 19 ; 34 40 21 ; diameter=40)
+(; 7 ; 22 29 ; 32 39 10 ; diameter=39)
+(; 8 ; 15 23 ; 27 35 12 ; diameter=35)
+(; 9 ; 17 26 ; 28 37 11 ; diameter=37)
+All P3s
+Perfect Forest: 
+(; 1 ; 2 3 ; 32 31 34 ; diameter=34)
+(; 4 ; 17 21 ; 37 41 20 ; diameter=41)
+(; 5 ; 28 33 ; 35 40 7 ; diameter=40)
+(; 6 ; 13 19 ; 29 23 42 ; diameter=42)
+(; 8 ; 14 22 ; 24 16 38 ; diameter=38)
+(; 9 ; 18 27 ; 30 39 12 ; diameter=39)
+(; 10 ; 15 25 ; 26 36 11 ; diameter=36)
+All P3s
+Perfect Forest: 
+(; 1 ; 2 3 ; 36 35 38 ; diameter=38)
+(; 4 ; 21 25 ; 28 32 7 ; diameter=32)
+(; 5 ; 22 27 ; 37 42 15 ; diameter=42)
+(; 6 ; 13 19 ; 33 39 20 ; diameter=39)
+(; 8 ; 16 24 ; 26 34 10 ; diameter=34)
+(; 9 ; 14 23 ; 31 40 17 ; diameter=40)
+(; 11 ; 18 29 ; 30 41 12 ; diameter=41)
+All P3s
+Perfect Forest: 
+(; 1 ; 2 3 ; 38 39 36 ; diameter=39)
+(; 4 ; 18 22 ; 33 37 15 ; diameter=37)
+(; 5 ; 23 28 ; 30 35 7 ; diameter=35)
+(; 6 ; 13 19 ; 27 21 40 ; diameter=40)
+(; 8 ; 16 24 ; 26 34 10 ; diameter=34)
+(; 9 ; 20 29 ; 32 41 12 ; diameter=41)
+(; 11 ; 14 25 ; 31 42 17 ; diameter=42)
+All P3s
+Perfect Forest: 
+(; 1 ; 2 3 ; 36 35 38 ; diameter=38)
+(; 4 ; 25 29 ; 33 37 8 ; diameter=37)
+(; 5 ; 18 23 ; 27 32 9 ; diameter=32)
+(; 6 ; 13 19 ; 34 40 21 ; diameter=40)
+(; 7 ; 15 22 ; 24 17 39 ; diameter=39)
+(; 10 ; 20 30 ; 31 41 11 ; diameter=41)
+(; 12 ; 14 26 ; 28 16 42 ; diameter=42)
+All P3s
+Perfect Forest: 
+(; 1 ; 2 3 ; 37 36 39 ; diameter=39)
+(; 4 ; 20 24 ; 34 38 14 ; diameter=38)
+(; 5 ; 21 26 ; 28 33 7 ; diameter=33)
+(; 6 ; 13 19 ; 22 16 35 ; diameter=35)
+(; 8 ; 23 31 ; 32 40 9 ; diameter=40)
+(; 10 ; 15 25 ; 27 17 42 ; diameter=42)
+(; 11 ; 18 29 ; 30 41 12 ; diameter=41)
+All P3s
+Perfect Forest: 
+(; 1 ; 2 3 ; 33 32 35 ; diameter=35)
+(; 4 ; 23 27 ; 38 42 15 ; diameter=42)
+(; 5 ; 26 31 ; 36 41 10 ; diameter=41)
+(; 6 ; 16 22 ; 24 18 40 ; diameter=40)
+(; 7 ; 13 20 ; 21 14 34 ; diameter=34)
+(; 8 ; 17 25 ; 29 37 12 ; diameter=37)
+(; 9 ; 19 28 ; 30 39 11 ; diameter=39)
+All P3s
+Perfect Forest: 
+(; 1 ; 2 3 ; 25 26 23 ; diameter=26)
+(; 4 ; 31 35 ; 37 41 6 ; diameter=41)
+(; 5 ; 19 24 ; 34 39 15 ; diameter=39)
+(; 7 ; 13 20 ; 29 36 16 ; diameter=36)
+(; 8 ; 14 22 ; 32 40 18 ; diameter=40)
+(; 9 ; 21 30 ; 33 42 12 ; diameter=42)
+(; 10 ; 17 27 ; 28 38 11 ; diameter=38)
+All P3s
+Perfect Forest: 
+(; 1 ; 2 3 ; 37 38 35 ; diameter=38)
+(; 4 ; 18 22 ; 29 33 11 ; diameter=33)
+(; 5 ; 19 24 ; 31 36 12 ; diameter=36)
+(; 6 ; 26 32 ; 34 40 8 ; diameter=40)
+(; 7 ; 13 20 ; 28 21 41 ; diameter=41)
+(; 9 ; 14 23 ; 30 39 16 ; diameter=39)
+(; 10 ; 15 25 ; 27 17 42 ; diameter=42)
+All P3s
+Perfect Forest: 
+(; 1 ; 2 3 ; 35 36 33 ; diameter=36)
+(; 4 ; 23 27 ; 38 42 15 ; diameter=42)
+(; 5 ; 16 21 ; 25 30 9 ; diameter=30)
+(; 6 ; 22 28 ; 34 40 12 ; diameter=40)
+(; 7 ; 13 20 ; 32 39 19 ; diameter=39)
+(; 8 ; 18 26 ; 29 37 11 ; diameter=37)
+(; 10 ; 14 24 ; 31 41 17 ; diameter=41)
+All P3s
+Perfect Forest: 
+(; 1 ; 2 3 ; 36 35 38 ; diameter=38)
+(; 4 ; 19 23 ; 24 28 5 ; diameter=28)
+(; 6 ; 21 27 ; 33 39 12 ; diameter=39)
+(; 7 ; 13 20 ; 30 37 17 ; diameter=37)
+(; 8 ; 18 26 ; 34 42 16 ; diameter=42)
+(; 9 ; 22 31 ; 32 41 10 ; diameter=41)
+(; 11 ; 14 25 ; 29 40 15 ; diameter=40)
+All P3s
+Perfect Forest: 
+(; 1 ; 2 3 ; 36 35 38 ; diameter=38)
+(; 4 ; 17 21 ; 29 33 12 ; diameter=33)
+(; 5 ; 22 27 ; 37 42 15 ; diameter=42)
+(; 6 ; 18 24 ; 28 34 10 ; diameter=34)
+(; 7 ; 13 20 ; 26 19 39 ; diameter=39)
+(; 8 ; 23 31 ; 32 40 9 ; diameter=40)
+(; 11 ; 14 25 ; 30 41 16 ; diameter=41)
+All P3s
+Perfect Forest: 
+(; 1 ; 2 3 ; 35 36 33 ; diameter=36)
+(; 4 ; 27 31 ; 38 42 11 ; diameter=42)
+(; 5 ; 16 21 ; 23 18 39 ; diameter=39)
+(; 6 ; 19 25 ; 28 34 9 ; diameter=34)
+(; 7 ; 13 20 ; 24 17 37 ; diameter=37)
+(; 8 ; 22 30 ; 32 40 10 ; diameter=40)
+(; 12 ; 14 26 ; 29 41 15 ; diameter=41)
+All P3s
+Perfect Forest: 
+(; 1 ; 2 3 ; 33 34 31 ; diameter=34)
+(; 4 ; 26 30 ; 37 41 11 ; diameter=41)
+(; 5 ; 16 21 ; 35 40 19 ; diameter=40)
+(; 6 ; 22 28 ; 36 42 14 ; diameter=42)
+(; 7 ; 13 20 ; 25 18 38 ; diameter=38)
+(; 8 ; 15 23 ; 24 32 9 ; diameter=32)
+(; 10 ; 17 27 ; 29 39 12 ; diameter=39)
+All P3s
+Perfect Forest: 
+(; 1 ; 2 3 ; 23 22 25 ; diameter=25)
+(; 4 ; 31 35 ; 37 41 6 ; diameter=41)
+(; 5 ; 19 24 ; 34 39 15 ; diameter=39)
+(; 7 ; 13 20 ; 29 36 16 ; diameter=36)
+(; 8 ; 18 26 ; 32 40 14 ; diameter=40)
+(; 9 ; 21 30 ; 33 42 12 ; diameter=42)
+(; 10 ; 17 27 ; 28 38 11 ; diameter=38)
+All P3s
+Perfect Forest: 
+(; 1 ; 2 3 ; 27 28 25 ; diameter=28)
+(; 4 ; 18 22 ; 34 38 16 ; diameter=38)
+(; 5 ; 31 36 ; 37 42 6 ; diameter=42)
+(; 7 ; 17 24 ; 32 39 15 ; diameter=39)
+(; 8 ; 13 21 ; 33 41 20 ; diameter=41)
+(; 9 ; 14 23 ; 26 35 12 ; diameter=35)
+(; 10 ; 19 29 ; 30 40 11 ; diameter=40)
+All P3s
+Perfect Forest: 
+(; 1 ; 2 3 ; 29 28 31 ; diameter=31)
+(; 4 ; 16 20 ; 34 38 18 ; diameter=38)
+(; 5 ; 30 35 ; 36 41 6 ; diameter=41)
+(; 7 ; 15 22 ; 24 17 39 ; diameter=39)
+(; 8 ; 13 21 ; 27 19 40 ; diameter=40)
+(; 9 ; 23 32 ; 33 42 10 ; diameter=42)
+(; 11 ; 14 25 ; 26 37 12 ; diameter=37)
+All P3s
+Perfect Forest: 
+(; 1 ; 2 3 ; 31 30 33 ; diameter=33)
+(; 4 ; 20 24 ; 36 40 16 ; diameter=40)
+(; 5 ; 14 19 ; 37 42 23 ; diameter=42)
+(; 6 ; 26 32 ; 35 41 9 ; diameter=41)
+(; 7 ; 15 22 ; 27 34 12 ; diameter=34)
+(; 8 ; 13 21 ; 25 17 38 ; diameter=38)
+(; 10 ; 18 28 ; 29 39 11 ; diameter=39)
+All P3s
+Perfect Forest: 
+(; 1 ; 2 3 ; 36 37 34 ; diameter=37)
+(; 4 ; 18 22 ; 28 32 10 ; diameter=32)
+(; 5 ; 14 19 ; 25 20 39 ; diameter=39)
+(; 6 ; 23 29 ; 35 41 12 ; diameter=41)
+(; 7 ; 24 31 ; 33 40 9 ; diameter=40)
+(; 8 ; 13 21 ; 30 38 17 ; diameter=38)
+(; 11 ; 15 26 ; 27 16 42 ; diameter=42)
+All P3s
+Perfect Forest: 
+(; 1 ; 2 3 ; 26 25 28 ; diameter=28)
+(; 4 ; 30 34 ; 37 41 7 ; diameter=41)
+(; 5 ; 19 24 ; 35 40 16 ; diameter=40)
+(; 6 ; 14 20 ; 32 38 18 ; diameter=38)
+(; 8 ; 13 21 ; 23 15 36 ; diameter=36)
+(; 9 ; 22 31 ; 33 42 11 ; diameter=42)
+(; 10 ; 17 27 ; 29 39 12 ; diameter=39)
+All P3s
+Perfect Forest: 
+(; 1 ; 2 3 ; 25 26 23 ; diameter=26)
+(; 4 ; 30 34 ; 37 41 7 ; diameter=41)
+(; 5 ; 19 24 ; 35 40 16 ; diameter=40)
+(; 6 ; 14 20 ; 32 38 18 ; diameter=38)
+(; 8 ; 13 21 ; 28 36 15 ; diameter=36)
+(; 9 ; 22 31 ; 33 42 11 ; diameter=42)
+(; 10 ; 17 27 ; 29 39 12 ; diameter=39)
+All P3s
+Perfect Forest: 
+(; 1 ; 2 3 ; 36 37 34 ; diameter=37)
+(; 4 ; 26 30 ; 38 42 12 ; diameter=42)
+(; 5 ; 18 23 ; 28 33 10 ; diameter=33)
+(; 6 ; 16 22 ; 25 19 41 ; diameter=41)
+(; 7 ; 17 24 ; 32 39 15 ; diameter=39)
+(; 8 ; 13 21 ; 27 35 14 ; diameter=35)
+(; 9 ; 20 29 ; 31 40 11 ; diameter=40)
+All P3s
+Perfect Forest: 
+(; 1 ; 2 3 ; 34 33 36 ; diameter=36)
+(; 4 ; 25 29 ; 37 41 12 ; diameter=41)
+(; 5 ; 15 20 ; 26 31 11 ; diameter=31)
+(; 6 ; 22 28 ; 32 38 10 ; diameter=38)
+(; 7 ; 17 24 ; 35 42 18 ; diameter=42)
+(; 8 ; 13 21 ; 27 19 40 ; diameter=40)
+(; 9 ; 14 23 ; 30 39 16 ; diameter=39)
+All P3s
+Perfect Forest: 
+(; 1 ; 2 3 ; 35 36 33 ; diameter=36)
+(; 4 ; 15 19 ; 38 42 23 ; diameter=42)
+(; 5 ; 25 30 ; 32 37 7 ; diameter=37)
+(; 6 ; 16 22 ; 28 34 12 ; diameter=34)
+(; 8 ; 13 21 ; 26 18 39 ; diameter=39)
+(; 9 ; 20 29 ; 31 40 11 ; diameter=40)
+(; 10 ; 14 24 ; 27 17 41 ; diameter=41)
+All P3s
+Perfect Forest: 
+(; 1 ; 2 3 ; 36 35 38 ; diameter=38)
+(; 4 ; 16 20 ; 26 30 10 ; diameter=30)
+(; 5 ; 23 28 ; 32 37 9 ; diameter=37)
+(; 6 ; 18 24 ; 33 39 15 ; diameter=39)
+(; 7 ; 22 29 ; 34 41 12 ; diameter=41)
+(; 8 ; 13 21 ; 27 19 40 ; diameter=40)
+(; 11 ; 14 25 ; 31 42 17 ; diameter=42)
+All P3s
+Perfect Forest: 
+(; 1 ; 2 3 ; 36 37 34 ; diameter=37)
+(; 4 ; 15 19 ; 24 20 39 ; diameter=39)
+(; 5 ; 18 23 ; 27 32 9 ; diameter=32)
+(; 6 ; 25 31 ; 35 41 10 ; diameter=41)
+(; 7 ; 22 29 ; 33 40 11 ; diameter=40)
+(; 8 ; 13 21 ; 30 38 17 ; diameter=38)
+(; 12 ; 14 26 ; 28 16 42 ; diameter=42)
+All P3s
+Perfect Forest: 
+(; 1 ; 2 3 ; 26 27 24 ; diameter=27)
+(; 4 ; 16 20 ; 34 38 18 ; diameter=38)
+(; 5 ; 30 35 ; 37 42 7 ; diameter=42)
+(; 6 ; 19 25 ; 33 39 14 ; diameter=39)
+(; 8 ; 13 21 ; 23 15 36 ; diameter=36)
+(; 9 ; 22 31 ; 32 41 10 ; diameter=41)
+(; 11 ; 17 28 ; 29 40 12 ; diameter=40)
+All P3s
+Perfect Forest: 
+(; 1 ; 2 3 ; 25 24 27 ; diameter=27)
+(; 4 ; 29 33 ; 36 40 7 ; diameter=40)
+(; 5 ; 14 19 ; 32 37 18 ; diameter=37)
+(; 6 ; 15 21 ; 35 41 20 ; diameter=41)
+(; 8 ; 23 31 ; 34 42 11 ; diameter=42)
+(; 9 ; 13 22 ; 30 39 17 ; diameter=39)
+(; 10 ; 16 26 ; 28 38 12 ; diameter=38)
+All P3s
+Perfect Forest: 
+(; 1 ; 2 3 ; 37 36 39 ; diameter=39)
+(; 4 ; 24 28 ; 29 33 5 ; diameter=33)
+(; 6 ; 19 25 ; 35 41 16 ; diameter=41)
+(; 7 ; 14 21 ; 31 38 17 ; diameter=38)
+(; 8 ; 15 23 ; 26 34 11 ; diameter=34)
+(; 9 ; 13 22 ; 27 18 40 ; diameter=40)
+(; 10 ; 20 30 ; 32 42 12 ; diameter=42)
+All P3s
+Perfect Forest: 
+(; 1 ; 2 3 ; 33 32 35 ; diameter=35)
+(; 4 ; 30 34 ; 38 42 8 ; diameter=42)
+(; 5 ; 15 20 ; 26 21 41 ; diameter=41)
+(; 6 ; 19 25 ; 31 37 12 ; diameter=37)
+(; 7 ; 16 23 ; 24 17 40 ; diameter=40)
+(; 9 ; 13 22 ; 27 36 14 ; diameter=36)
+(; 10 ; 18 28 ; 29 39 11 ; diameter=39)
+All P3s
+Perfect Forest: 
+(; 1 ; 2 3 ; 36 37 34 ; diameter=37)
+(; 4 ; 15 19 ; 27 31 12 ; diameter=31)
+(; 5 ; 25 30 ; 33 38 8 ; diameter=38)
+(; 6 ; 17 23 ; 35 41 18 ; diameter=41)
+(; 7 ; 21 28 ; 32 39 11 ; diameter=39)
+(; 9 ; 13 22 ; 29 20 42 ; diameter=42)
+(; 10 ; 14 24 ; 26 16 40 ; diameter=40)
+All P3s
+Perfect Forest: 
+(; 1 ; 2 3 ; 36 35 38 ; diameter=38)
+(; 4 ; 16 20 ; 28 32 12 ; diameter=32)
+(; 5 ; 18 23 ; 24 19 42 ; diameter=42)
+(; 6 ; 21 27 ; 31 37 10 ; diameter=37)
+(; 7 ; 26 33 ; 34 41 8 ; diameter=41)
+(; 9 ; 13 22 ; 30 39 17 ; diameter=39)
+(; 11 ; 14 25 ; 29 40 15 ; diameter=40)
+All P3s
+Perfect Forest: 
+(; 1 ; 2 3 ; 38 37 40 ; diameter=40)
+(; 4 ; 21 25 ; 29 33 8 ; diameter=33)
+(; 5 ; 19 24 ; 31 36 12 ; diameter=36)
+(; 6 ; 20 26 ; 35 41 15 ; diameter=41)
+(; 7 ; 16 23 ; 27 34 11 ; diameter=34)
+(; 9 ; 13 22 ; 30 39 17 ; diameter=39)
+(; 10 ; 18 28 ; 32 42 14 ; diameter=42)
+All P3s
+Perfect Forest: 
+(; 1 ; 2 3 ; 38 37 40 ; diameter=40)
+(; 4 ; 20 24 ; 32 36 12 ; diameter=36)
+(; 5 ; 18 23 ; 29 34 11 ; diameter=34)
+(; 6 ; 19 25 ; 27 33 8 ; diameter=33)
+(; 7 ; 21 28 ; 35 42 14 ; diameter=42)
+(; 9 ; 13 22 ; 30 39 17 ; diameter=39)
+(; 10 ; 16 26 ; 31 41 15 ; diameter=41)
+All P3s
+Perfect Forest: 
+(; 1 ; 2 3 ; 37 36 39 ; diameter=39)
+(; 4 ; 14 18 ; 29 33 15 ; diameter=33)
+(; 5 ; 21 26 ; 30 35 9 ; diameter=35)
+(; 6 ; 22 28 ; 34 40 12 ; diameter=40)
+(; 7 ; 20 27 ; 31 38 11 ; diameter=38)
+(; 8 ; 16 24 ; 25 17 41 ; diameter=41)
+(; 10 ; 13 23 ; 32 42 19 ; diameter=42)
+All P3s
+Perfect Forest: 
+(; 1 ; 2 3 ; 32 31 34 ; diameter=34)
+(; 4 ; 29 33 ; 37 41 8 ; diameter=41)
+(; 5 ; 14 19 ; 26 21 40 ; diameter=40)
+(; 6 ; 16 22 ; 36 42 20 ; diameter=42)
+(; 7 ; 17 24 ; 28 35 11 ; diameter=35)
+(; 9 ; 18 27 ; 30 39 12 ; diameter=39)
+(; 10 ; 13 23 ; 25 15 38 ; diameter=38)
+All P3s
+Perfect Forest: 
+(; 1 ; 2 3 ; 33 32 35 ; diameter=35)
+(; 4 ; 30 34 ; 38 42 8 ; diameter=42)
+(; 5 ; 19 24 ; 31 36 12 ; diameter=36)
+(; 6 ; 14 20 ; 27 21 41 ; diameter=41)
+(; 7 ; 15 22 ; 25 18 40 ; diameter=40)
+(; 9 ; 17 26 ; 28 37 11 ; diameter=37)
+(; 10 ; 13 23 ; 29 39 16 ; diameter=39)
+All P3s
+Perfect Forest: 
+(; 1 ; 2 3 ; 36 37 34 ; diameter=37)
+(; 4 ; 18 22 ; 35 39 17 ; diameter=39)
+(; 5 ; 26 31 ; 33 38 7 ; diameter=38)
+(; 6 ; 15 21 ; 24 30 9 ; diameter=30)
+(; 8 ; 20 28 ; 32 40 12 ; diameter=40)
+(; 10 ; 13 23 ; 29 19 42 ; diameter=42)
+(; 11 ; 14 25 ; 27 16 41 ; diameter=41)
+All P3s
+Perfect Forest: 
+(; 1 ; 2 3 ; 37 38 35 ; diameter=38)
+(; 4 ; 18 22 ; 29 33 11 ; diameter=33)
+(; 5 ; 15 20 ; 36 41 21 ; diameter=41)
+(; 6 ; 19 25 ; 28 34 9 ; diameter=34)
+(; 7 ; 24 31 ; 32 39 8 ; diameter=39)
+(; 10 ; 13 23 ; 27 17 40 ; diameter=40)
+(; 12 ; 14 26 ; 30 42 16 ; diameter=42)
+All P3s
+Perfect Forest: 
+(; 1 ; 2 3 ; 39 40 37 ; diameter=40)
+(; 4 ; 20 24 ; 31 35 11 ; diameter=35)
+(; 5 ; 16 21 ; 33 38 17 ; diameter=38)
+(; 6 ; 22 28 ; 30 36 8 ; diameter=36)
+(; 7 ; 18 25 ; 27 34 9 ; diameter=34)
+(; 10 ; 13 23 ; 32 42 19 ; diameter=42)
+(; 12 ; 14 26 ; 29 41 15 ; diameter=41)
+All P3s
+Perfect Forest: 
+(; 1 ; 2 3 ; 37 36 39 ; diameter=39)
+(; 4 ; 14 18 ; 30 34 16 ; diameter=34)
+(; 5 ; 21 26 ; 33 38 12 ; diameter=38)
+(; 6 ; 19 25 ; 29 35 10 ; diameter=35)
+(; 7 ; 15 22 ; 27 20 42 ; diameter=42)
+(; 8 ; 23 31 ; 32 40 9 ; diameter=40)
+(; 11 ; 13 24 ; 28 17 41 ; diameter=41)
+All P3s
+Perfect Forest: 
+(; 1 ; 2 3 ; 37 38 35 ; diameter=38)
+(; 4 ; 21 25 ; 27 31 6 ; diameter=31)
+(; 5 ; 14 19 ; 22 17 36 ; diameter=36)
+(; 7 ; 23 30 ; 33 40 10 ; diameter=40)
+(; 8 ; 18 26 ; 34 42 16 ; diameter=42)
+(; 9 ; 20 29 ; 32 41 12 ; diameter=41)
+(; 11 ; 13 24 ; 28 39 15 ; diameter=39)
+All P3s
+Perfect Forest: 
+(; 1 ; 2 3 ; 38 37 40 ; diameter=40)
+(; 4 ; 22 26 ; 31 35 9 ; diameter=35)
+(; 5 ; 18 23 ; 34 39 16 ; diameter=39)
+(; 6 ; 19 25 ; 27 33 8 ; diameter=33)
+(; 7 ; 14 21 ; 29 36 15 ; diameter=36)
+(; 10 ; 20 30 ; 32 42 12 ; diameter=42)
+(; 11 ; 13 24 ; 28 17 41 ; diameter=41)
+All P3s
+Perfect Forest: 
+(; 1 ; 2 3 ; 33 34 31 ; diameter=34)
+(; 4 ; 15 19 ; 25 21 40 ; diameter=40)
+(; 5 ; 30 35 ; 37 42 7 ; diameter=42)
+(; 6 ; 16 22 ; 23 17 39 ; diameter=39)
+(; 8 ; 18 26 ; 28 36 10 ; diameter=36)
+(; 9 ; 20 29 ; 32 41 12 ; diameter=41)
+(; 11 ; 13 24 ; 27 38 14 ; diameter=38)
+All P3s
+Perfect Forest: 
+(; 1 ; 2 3 ; 37 36 39 ; diameter=39)
+(; 4 ; 25 29 ; 34 38 9 ; diameter=38)
+(; 5 ; 16 21 ; 30 35 14 ; diameter=35)
+(; 6 ; 17 23 ; 27 33 10 ; diameter=33)
+(; 7 ; 15 22 ; 26 19 41 ; diameter=41)
+(; 8 ; 20 28 ; 32 40 12 ; diameter=40)
+(; 11 ; 13 24 ; 31 42 18 ; diameter=42)
+All P3s
+Perfect Forest: 
+(; 1 ; 2 3 ; 38 37 40 ; diameter=40)
+(; 4 ; 19 23 ; 31 35 12 ; diameter=35)
+(; 5 ; 20 25 ; 34 39 14 ; diameter=39)
+(; 6 ; 16 22 ; 26 32 10 ; diameter=32)
+(; 7 ; 21 28 ; 29 36 8 ; diameter=36)
+(; 9 ; 18 27 ; 33 42 15 ; diameter=42)
+(; 11 ; 13 24 ; 30 41 17 ; diameter=41)
+All P3s
+Perfect Forest: 
+(; 1 ; 2 3 ; 39 40 37 ; diameter=40)
+(; 4 ; 19 23 ; 34 38 15 ; diameter=38)
+(; 5 ; 21 26 ; 28 33 7 ; diameter=33)
+(; 6 ; 16 22 ; 30 36 14 ; diameter=36)
+(; 8 ; 17 25 ; 27 35 10 ; diameter=35)
+(; 9 ; 20 29 ; 32 41 12 ; diameter=41)
+(; 11 ; 13 24 ; 31 42 18 ; diameter=42)
+All P3s
+Perfect Forest: 
+(; 1 ; 2 3 ; 37 38 35 ; diameter=38)
+(; 4 ; 20 24 ; 27 31 7 ; diameter=31)
+(; 5 ; 14 19 ; 22 17 36 ; diameter=36)
+(; 6 ; 23 29 ; 33 39 10 ; diameter=39)
+(; 8 ; 18 26 ; 34 42 16 ; diameter=42)
+(; 9 ; 21 30 ; 32 41 11 ; diameter=41)
+(; 12 ; 13 25 ; 28 40 15 ; diameter=40)
+All P3s
+Perfect Forest: 
+(; 1 ; 2 3 ; 38 39 36 ; diameter=39)
+(; 4 ; 18 22 ; 28 32 10 ; diameter=32)
+(; 5 ; 19 24 ; 30 35 11 ; diameter=35)
+(; 6 ; 23 29 ; 31 37 8 ; diameter=37)
+(; 7 ; 14 21 ; 34 41 20 ; diameter=41)
+(; 9 ; 17 26 ; 33 42 16 ; diameter=42)
+(; 12 ; 13 25 ; 27 15 40 ; diameter=40)
+All P3s
+Perfect Forest: 
+(; 1 ; 2 3 ; 37 36 39 ; diameter=39)
+(; 4 ; 19 23 ; 26 30 7 ; diameter=30)
+(; 5 ; 16 21 ; 33 38 17 ; diameter=38)
+(; 6 ; 18 24 ; 29 35 11 ; diameter=35)
+(; 8 ; 20 28 ; 34 42 14 ; diameter=42)
+(; 9 ; 22 31 ; 32 41 10 ; diameter=41)
+(; 12 ; 13 25 ; 27 15 40 ; diameter=40)
+All P3s
+Perfect Forest: 
+(; 1 ; 2 3 ; 38 37 40 ; diameter=40)
+(; 4 ; 18 22 ; 32 36 14 ; diameter=36)
+(; 5 ; 19 24 ; 28 33 9 ; diameter=33)
+(; 6 ; 20 26 ; 35 41 15 ; diameter=41)
+(; 7 ; 16 23 ; 27 34 11 ; diameter=34)
+(; 8 ; 21 29 ; 31 39 10 ; diameter=39)
+(; 12 ; 13 25 ; 30 42 17 ; diameter=42)
+All P3s
+Perfect Forest: 
+(; 1 ; 2 3 ; 34 33 36 ; diameter=36)
+(; 4 ; 23 27 ; 35 39 12 ; diameter=39)
+(; 5 ; 21 26 ; 37 42 16 ; diameter=42)
+(; 6 ; 14 20 ; 22 28 8 ; diameter=28)
+(; 7 ; 18 25 ; 31 38 13 ; diameter=38)
+(; 9 ; 15 24 ; 32 41 17 ; diameter=41)
+(; 10 ; 19 29 ; 30 40 11 ; diameter=40)
+All P3s
+Perfect Forest: 
+(; 1 ; 2 3 ; 35 36 33 ; diameter=36)
+(; 4 ; 15 19 ; 25 21 40 ; diameter=40)
+(; 5 ; 24 29 ; 37 42 13 ; diameter=42)
+(; 6 ; 14 20 ; 26 32 12 ; diameter=32)
+(; 7 ; 16 23 ; 34 41 18 ; diameter=41)
+(; 8 ; 22 30 ; 31 39 9 ; diameter=39)
+(; 10 ; 17 27 ; 28 38 11 ; diameter=38)
+All P3s
+Perfect Forest: 
+(; 1 ; 2 3 ; 35 34 37 ; diameter=37)
+(; 4 ; 25 29 ; 36 40 11 ; diameter=40)
+(; 5 ; 15 20 ; 27 22 42 ; diameter=42)
+(; 6 ; 17 23 ; 33 39 16 ; diameter=39)
+(; 7 ; 14 21 ; 24 31 10 ; diameter=31)
+(; 8 ; 18 26 ; 30 38 12 ; diameter=38)
+(; 9 ; 19 28 ; 32 41 13 ; diameter=41)
+All P3s
+Perfect Forest: 
+(; 1 ; 2 3 ; 36 35 38 ; diameter=38)
+(; 4 ; 19 23 ; 29 33 10 ; diameter=33)
+(; 5 ; 25 30 ; 37 42 12 ; diameter=42)
+(; 6 ; 16 22 ; 24 18 40 ; diameter=40)
+(; 7 ; 14 21 ; 27 34 13 ; diameter=34)
+(; 8 ; 20 28 ; 31 39 11 ; diameter=39)
+(; 9 ; 17 26 ; 32 41 15 ; diameter=41)
+All P3s
+Perfect Forest: 
+(; 1 ; 2 3 ; 37 36 39 ; diameter=39)
+(; 4 ; 20 24 ; 27 31 7 ; diameter=31)
+(; 5 ; 16 21 ; 35 40 19 ; diameter=40)
+(; 6 ; 22 28 ; 32 38 10 ; diameter=38)
+(; 8 ; 18 26 ; 33 41 15 ; diameter=41)
+(; 9 ; 14 23 ; 25 34 11 ; diameter=34)
+(; 12 ; 17 29 ; 30 42 13 ; diameter=42)
+All P3s
+Perfect Forest: 
+(; 1 ; 2 3 ; 32 31 34 ; diameter=34)
+(; 4 ; 15 19 ; 25 21 40 ; diameter=40)
+(; 5 ; 30 35 ; 37 42 7 ; diameter=42)
+(; 6 ; 16 22 ; 23 17 39 ; diameter=39)
+(; 8 ; 20 28 ; 33 41 13 ; diameter=41)
+(; 9 ; 18 27 ; 29 38 11 ; diameter=38)
+(; 10 ; 14 24 ; 26 36 12 ; diameter=36)
+All P3s
+Perfect Forest: 
+(; 1 ; 2 3 ; 33 32 35 ; diameter=35)
+(; 4 ; 30 34 ; 38 42 8 ; diameter=42)
+(; 5 ; 15 20 ; 26 21 41 ; diameter=41)
+(; 6 ; 16 22 ; 23 17 39 ; diameter=39)
+(; 7 ; 18 25 ; 29 36 11 ; diameter=36)
+(; 9 ; 19 28 ; 31 40 12 ; diameter=40)
+(; 10 ; 14 24 ; 27 37 13 ; diameter=37)
+All P3s
+Perfect Forest: 
+(; 1 ; 2 3 ; 36 35 38 ; diameter=38)
+(; 4 ; 20 24 ; 33 37 13 ; diameter=37)
+(; 5 ; 14 19 ; 27 22 41 ; diameter=41)
+(; 6 ; 15 21 ; 25 31 10 ; diameter=31)
+(; 7 ; 23 30 ; 32 39 9 ; diameter=39)
+(; 8 ; 18 26 ; 34 42 16 ; diameter=42)
+(; 11 ; 17 28 ; 29 40 12 ; diameter=40)
+All P3s
+Perfect Forest: 
+(; 1 ; 2 3 ; 37 38 35 ; diameter=38)
+(; 4 ; 21 25 ; 27 31 6 ; diameter=31)
+(; 5 ; 14 19 ; 22 17 36 ; diameter=36)
+(; 7 ; 23 30 ; 33 40 10 ; diameter=40)
+(; 8 ; 16 24 ; 34 42 18 ; diameter=42)
+(; 9 ; 20 29 ; 32 41 12 ; diameter=41)
+(; 11 ; 15 26 ; 28 39 13 ; diameter=39)
+All P3s
+Perfect Forest: 
+(; 1 ; 2 3 ; 37 38 35 ; diameter=38)
+(; 4 ; 21 25 ; 27 31 6 ; diameter=31)
+(; 5 ; 14 19 ; 22 17 36 ; diameter=36)
+(; 7 ; 23 30 ; 34 41 11 ; diameter=41)
+(; 8 ; 20 28 ; 32 40 12 ; diameter=40)
+(; 9 ; 15 24 ; 33 42 18 ; diameter=42)
+(; 10 ; 16 26 ; 29 39 13 ; diameter=39)
+All P3s
+Perfect Forest: 
+(; 1 ; 2 3 ; 34 33 36 ; diameter=36)
+(; 4 ; 26 30 ; 37 41 11 ; diameter=41)
+(; 5 ; 16 21 ; 35 40 19 ; diameter=40)
+(; 6 ; 14 20 ; 28 22 42 ; diameter=42)
+(; 7 ; 18 25 ; 31 38 13 ; diameter=38)
+(; 8 ; 15 23 ; 24 32 9 ; diameter=32)
+(; 10 ; 17 27 ; 29 39 12 ; diameter=39)
+All P3s
+Perfect Forest: 
+(; 1 ; 2 3 ; 37 38 35 ; diameter=38)
+(; 4 ; 19 23 ; 29 33 10 ; diameter=33)
+(; 5 ; 26 31 ; 34 39 8 ; diameter=39)
+(; 6 ; 14 20 ; 22 16 36 ; diameter=36)
+(; 7 ; 17 24 ; 25 18 42 ; diameter=42)
+(; 9 ; 21 30 ; 32 41 11 ; diameter=41)
+(; 12 ; 15 27 ; 28 40 13 ; diameter=40)
+All P3s
+Perfect Forest: 
+(; 1 ; 2 3 ; 37 38 35 ; diameter=38)
+(; 4 ; 18 22 ; 30 34 12 ; diameter=34)
+(; 5 ; 19 24 ; 28 33 9 ; diameter=33)
+(; 6 ; 25 31 ; 36 42 11 ; diameter=42)
+(; 7 ; 14 21 ; 27 20 41 ; diameter=41)
+(; 8 ; 15 23 ; 32 40 17 ; diameter=40)
+(; 10 ; 16 26 ; 29 39 13 ; diameter=39)
+All P3s
+Perfect Forest: 
+(; 1 ; 2 3 ; 38 39 36 ; diameter=39)
+(; 4 ; 20 24 ; 30 34 10 ; diameter=34)
+(; 5 ; 18 23 ; 27 32 9 ; diameter=32)
+(; 6 ; 22 28 ; 35 41 13 ; diameter=41)
+(; 7 ; 14 21 ; 33 40 19 ; diameter=40)
+(; 8 ; 17 25 ; 29 37 12 ; diameter=37)
+(; 11 ; 15 26 ; 31 42 16 ; diameter=42)
+All P3s
+Perfect Forest: 
+(; 1 ; 2 3 ; 37 36 39 ; diameter=39)
+(; 4 ; 19 23 ; 31 35 12 ; diameter=35)
+(; 5 ; 24 29 ; 33 38 9 ; diameter=38)
+(; 6 ; 15 21 ; 26 32 11 ; diameter=32)
+(; 7 ; 18 25 ; 34 41 16 ; diameter=41)
+(; 8 ; 14 22 ; 28 20 42 ; diameter=42)
+(; 10 ; 17 27 ; 30 40 13 ; diameter=40)
+All P3s
+Perfect Forest: 
+(; 1 ; 2 3 ; 36 37 34 ; diameter=37)
+(; 4 ; 23 27 ; 38 42 15 ; diameter=42)
+(; 5 ; 16 21 ; 25 30 9 ; diameter=30)
+(; 6 ; 20 26 ; 33 39 13 ; diameter=39)
+(; 7 ; 17 24 ; 28 35 11 ; diameter=35)
+(; 8 ; 14 22 ; 32 40 18 ; diameter=40)
+(; 10 ; 19 29 ; 31 41 12 ; diameter=41)
+All P3s
+Perfect Forest: 
+(; 1 ; 2 3 ; 39 40 37 ; diameter=40)
+(; 4 ; 17 21 ; 32 36 15 ; diameter=36)
+(; 5 ; 20 25 ; 33 38 13 ; diameter=38)
+(; 6 ; 22 28 ; 29 35 7 ; diameter=35)
+(; 8 ; 16 24 ; 26 34 10 ; diameter=34)
+(; 9 ; 14 23 ; 27 18 41 ; diameter=41)
+(; 11 ; 19 30 ; 31 42 12 ; diameter=42)
+All P3s
+Perfect Forest: 
+(; 1 ; 2 3 ; 34 33 36 ; diameter=36)
+(; 4 ; 18 22 ; 35 39 17 ; diameter=39)
+(; 5 ; 25 30 ; 37 42 12 ; diameter=42)
+(; 6 ; 15 21 ; 23 29 8 ; diameter=29)
+(; 7 ; 20 27 ; 31 38 11 ; diameter=38)
+(; 9 ; 19 28 ; 32 41 13 ; diameter=41)
+(; 10 ; 14 24 ; 26 16 40 ; diameter=40)
+All P3s
+Perfect Forest: 
+(; 1 ; 2 3 ; 38 39 36 ; diameter=39)
+(; 4 ; 25 29 ; 33 37 8 ; diameter=37)
+(; 5 ; 17 22 ; 30 35 13 ; diameter=35)
+(; 6 ; 15 21 ; 26 20 41 ; diameter=41)
+(; 7 ; 16 23 ; 27 34 11 ; diameter=34)
+(; 9 ; 19 28 ; 31 40 12 ; diameter=40)
+(; 10 ; 14 24 ; 32 42 18 ; diameter=42)
+All P3s
+Perfect Forest: 
+(; 1 ; 2 3 ; 38 37 40 ; diameter=40)
+(; 4 ; 21 25 ; 30 34 9 ; diameter=34)
+(; 5 ; 17 22 ; 28 33 11 ; diameter=33)
+(; 6 ; 20 26 ; 35 41 15 ; diameter=41)
+(; 7 ; 16 23 ; 29 36 13 ; diameter=36)
+(; 8 ; 19 27 ; 31 39 12 ; diameter=39)
+(; 10 ; 14 24 ; 32 42 18 ; diameter=42)
+All P3s
+Perfect Forest: 
+(; 1 ; 2 3 ; 35 34 37 ; diameter=37)
+(; 4 ; 19 23 ; 36 40 17 ; diameter=40)
+(; 5 ; 24 29 ; 33 38 9 ; diameter=38)
+(; 6 ; 15 21 ; 22 28 7 ; diameter=28)
+(; 8 ; 18 26 ; 31 39 13 ; diameter=39)
+(; 10 ; 20 30 ; 32 42 12 ; diameter=42)
+(; 11 ; 14 25 ; 27 16 41 ; diameter=41)
+All P3s
+Perfect Forest: 
+(; 1 ; 2 3 ; 37 38 35 ; diameter=38)
+(; 4 ; 23 27 ; 32 36 9 ; diameter=36)
+(; 5 ; 16 21 ; 24 29 8 ; diameter=29)
+(; 6 ; 20 26 ; 33 39 13 ; diameter=39)
+(; 7 ; 15 22 ; 34 41 19 ; diameter=41)
+(; 10 ; 18 28 ; 30 40 12 ; diameter=40)
+(; 11 ; 14 25 ; 31 42 17 ; diameter=42)
+All P3s
+Perfect Forest: 
+(; 1 ; 2 3 ; 37 38 35 ; diameter=38)
+(; 4 ; 23 27 ; 36 40 13 ; diameter=40)
+(; 5 ; 16 21 ; 28 33 12 ; diameter=33)
+(; 6 ; 18 24 ; 26 32 8 ; diameter=32)
+(; 7 ; 15 22 ; 34 41 19 ; diameter=41)
+(; 9 ; 20 29 ; 30 39 10 ; diameter=39)
+(; 11 ; 14 25 ; 31 42 17 ; diameter=42)
+All P3s
+Perfect Forest: 
+(; 1 ; 2 3 ; 35 34 37 ; diameter=37)
+(; 4 ; 16 20 ; 23 27 7 ; diameter=27)
+(; 5 ; 19 24 ; 36 41 17 ; diameter=41)
+(; 6 ; 22 28 ; 32 38 10 ; diameter=38)
+(; 8 ; 18 26 ; 31 39 13 ; diameter=39)
+(; 9 ; 21 30 ; 33 42 12 ; diameter=42)
+(; 11 ; 14 25 ; 29 40 15 ; diameter=40)
+All P3s
+Perfect Forest: 
+(; 1 ; 2 3 ; 36 35 38 ; diameter=38)
+(; 4 ; 15 19 ; 22 18 37 ; diameter=37)
+(; 5 ; 24 29 ; 34 39 10 ; diameter=39)
+(; 6 ; 17 23 ; 25 31 8 ; diameter=31)
+(; 7 ; 20 27 ; 33 40 13 ; diameter=40)
+(; 9 ; 21 30 ; 32 41 11 ; diameter=41)
+(; 12 ; 14 26 ; 28 16 42 ; diameter=42)
+All P3s
+Perfect Forest: 
+(; 1 ; 2 3 ; 38 39 36 ; diameter=39)
+(; 4 ; 21 25 ; 33 37 12 ; diameter=37)
+(; 5 ; 18 23 ; 35 40 17 ; diameter=40)
+(; 6 ; 20 26 ; 28 34 8 ; diameter=34)
+(; 7 ; 15 22 ; 24 31 9 ; diameter=31)
+(; 10 ; 19 29 ; 32 42 13 ; diameter=42)
+(; 11 ; 16 27 ; 30 41 14 ; diameter=41)
+All P3s
+Perfect Forest: 
+(; 1 ; 2 3 ; 37 38 35 ; diameter=38)
+(; 4 ; 16 20 ; 27 31 11 ; diameter=31)
+(; 5 ; 21 26 ; 34 39 13 ; diameter=39)
+(; 6 ; 17 23 ; 25 19 42 ; diameter=42)
+(; 7 ; 15 22 ; 29 36 14 ; diameter=36)
+(; 8 ; 24 32 ; 33 41 9 ; diameter=41)
+(; 10 ; 18 28 ; 30 40 12 ; diameter=40)
+All P3s
+Perfect Forest: 
+(; 1 ; 2 3 ; 37 36 39 ; diameter=39)
+(; 4 ; 19 23 ; 26 30 7 ; diameter=30)
+(; 5 ; 17 22 ; 33 38 16 ; diameter=38)
+(; 6 ; 21 27 ; 35 41 14 ; diameter=41)
+(; 8 ; 20 28 ; 32 40 12 ; diameter=40)
+(; 9 ; 15 24 ; 25 34 10 ; diameter=34)
+(; 11 ; 18 29 ; 31 42 13 ; diameter=42)
+All P3s
+Perfect Forest: 
+(; 1 ; 2 3 ; 38 39 36 ; diameter=39)
+(; 4 ; 21 25 ; 29 33 8 ; diameter=33)
+(; 5 ; 18 23 ; 35 40 17 ; diameter=40)
+(; 6 ; 16 22 ; 26 32 10 ; diameter=32)
+(; 7 ; 20 27 ; 34 41 14 ; diameter=41)
+(; 9 ; 15 24 ; 28 37 13 ; diameter=37)
+(; 11 ; 19 30 ; 31 42 12 ; diameter=42)
+All P3s
+Perfect Forest: 
+(; 1 ; 2 3 ; 37 38 35 ; diameter=38)
+(; 4 ; 18 22 ; 24 20 42 ; diameter=42)
+(; 5 ; 16 21 ; 27 32 11 ; diameter=32)
+(; 6 ; 17 23 ; 30 36 13 ; diameter=36)
+(; 7 ; 26 33 ; 34 41 8 ; diameter=41)
+(; 9 ; 19 28 ; 31 40 12 ; diameter=40)
+(; 10 ; 15 25 ; 29 39 14 ; diameter=39)
+All P3s
+Perfect Forest: 
+(; 1 ; 2 3 ; 24 25 22 ; diameter=25)
+(; 4 ; 31 35 ; 37 41 6 ; diameter=41)
+(; 5 ; 15 20 ; 34 39 19 ; diameter=39)
+(; 7 ; 16 23 ; 29 36 13 ; diameter=36)
+(; 8 ; 18 26 ; 32 40 14 ; diameter=40)
+(; 9 ; 21 30 ; 33 42 12 ; diameter=42)
+(; 10 ; 17 27 ; 28 38 11 ; diameter=38)
+All P3s
+Perfect Forest: 
+(; 1 ; 2 3 ; 37 38 35 ; diameter=38)
+(; 4 ; 18 22 ; 32 36 14 ; diameter=36)
+(; 5 ; 16 21 ; 25 30 9 ; diameter=30)
+(; 6 ; 20 26 ; 33 39 13 ; diameter=39)
+(; 7 ; 24 31 ; 34 41 10 ; diameter=41)
+(; 8 ; 15 23 ; 27 19 42 ; diameter=42)
+(; 11 ; 17 28 ; 29 40 12 ; diameter=40)
+All P3s
+Perfect Forest: 
+(; 1 ; 2 3 ; 37 38 35 ; diameter=38)
+(; 4 ; 18 22 ; 32 36 14 ; diameter=36)
+(; 5 ; 16 21 ; 24 29 8 ; diameter=29)
+(; 6 ; 20 26 ; 33 39 13 ; diameter=39)
+(; 7 ; 23 30 ; 34 41 11 ; diameter=41)
+(; 9 ; 19 28 ; 31 40 12 ; diameter=40)
+(; 10 ; 15 25 ; 27 17 42 ; diameter=42)
+All P3s
+Perfect Forest: 
+(; 1 ; 3 4 ; 34 35 31 ; diameter=35)
+(; 2 ; 22 24 ; 37 39 15 ; diameter=39)
+(; 5 ; 7 12 ; 26 21 33 ; diameter=33)
+(; 6 ; 19 25 ; 36 42 17 ; diameter=42)
+(; 8 ; 20 28 ; 30 38 10 ; diameter=38)
+(; 9 ; 14 23 ; 32 41 18 ; diameter=41)
+(; 11 ; 16 27 ; 29 40 13 ; diameter=40)
+All P3s
+Perfect Forest: 
+(; 1 ; 3 4 ; 33 34 30 ; diameter=34)
+(; 2 ; 24 26 ; 36 38 12 ; diameter=38)
+(; 5 ; 20 25 ; 37 42 17 ; diameter=42)
+(; 6 ; 7 13 ; 28 22 35 ; diameter=35)
+(; 8 ; 15 23 ; 31 39 16 ; diameter=39)
+(; 9 ; 18 27 ; 32 41 14 ; diameter=41)
+(; 10 ; 11 21 ; 29 19 40 ; diameter=40)
+All P3s
+Perfect Forest: 
+(; 1 ; 3 4 ; 30 29 33 ; diameter=33)
+(; 2 ; 22 24 ; 36 38 14 ; diameter=38)
+(; 5 ; 18 23 ; 35 40 17 ; diameter=40)
+(; 6 ; 7 13 ; 32 26 39 ; diameter=39)
+(; 8 ; 19 27 ; 34 42 15 ; diameter=42)
+(; 9 ; 16 25 ; 28 37 12 ; diameter=37)
+(; 10 ; 11 21 ; 31 41 20 ; diameter=41)
+All P3s
+Perfect Forest: 
+(; 1 ; 3 4 ; 29 28 32 ; diameter=32)
+(; 2 ; 22 24 ; 36 38 14 ; diameter=38)
+(; 5 ; 18 23 ; 35 40 17 ; diameter=40)
+(; 6 ; 7 13 ; 33 39 26 ; diameter=39)
+(; 8 ; 19 27 ; 34 42 15 ; diameter=42)
+(; 9 ; 12 21 ; 25 16 37 ; diameter=37)
+(; 10 ; 20 30 ; 31 41 11 ; diameter=41)
+All P3s
+Perfect Forest: 
+(; 1 ; 3 4 ; 30 29 33 ; diameter=33)
+(; 2 ; 19 21 ; 37 39 18 ; diameter=39)
+(; 5 ; 20 25 ; 36 41 16 ; diameter=41)
+(; 6 ; 7 13 ; 28 22 35 ; diameter=35)
+(; 8 ; 24 32 ; 34 42 10 ; diameter=42)
+(; 9 ; 17 26 ; 31 40 14 ; diameter=40)
+(; 11 ; 12 23 ; 27 38 15 ; diameter=38)
+All P3s
+Perfect Forest: 
+(; 1 ; 3 4 ; 32 33 29 ; diameter=33)
+(; 2 ; 22 24 ; 37 39 15 ; diameter=39)
+(; 5 ; 16 21 ; 35 40 19 ; diameter=40)
+(; 6 ; 7 13 ; 31 25 38 ; diameter=38)
+(; 8 ; 20 28 ; 34 42 14 ; diameter=42)
+(; 9 ; 17 26 ; 27 36 10 ; diameter=36)
+(; 11 ; 12 23 ; 30 41 18 ; diameter=41)
+All P3s
+Perfect Forest: 
+(; 1 ; 3 4 ; 30 29 33 ; diameter=33)
+(; 2 ; 19 21 ; 37 39 18 ; diameter=39)
+(; 5 ; 20 25 ; 36 41 16 ; diameter=41)
+(; 6 ; 7 13 ; 28 22 35 ; diameter=35)
+(; 8 ; 24 32 ; 34 42 10 ; diameter=42)
+(; 9 ; 14 23 ; 31 40 17 ; diameter=40)
+(; 11 ; 15 26 ; 27 38 12 ; diameter=38)
+All P3s
+Perfect Forest: 
+(; 1 ; 3 4 ; 33 32 36 ; diameter=36)
+(; 2 ; 20 22 ; 37 39 17 ; diameter=39)
+(; 5 ; 24 29 ; 35 40 11 ; diameter=40)
+(; 6 ; 7 13 ; 27 21 34 ; diameter=34)
+(; 8 ; 18 26 ; 30 38 12 ; diameter=38)
+(; 9 ; 14 23 ; 28 19 42 ; diameter=42)
+(; 10 ; 15 25 ; 31 41 16 ; diameter=41)
+All P3s
+Perfect Forest: 
+(; 1 ; 3 4 ; 33 34 30 ; diameter=34)
+(; 2 ; 23 25 ; 38 40 15 ; diameter=40)
+(; 5 ; 16 21 ; 36 41 20 ; diameter=41)
+(; 6 ; 7 13 ; 29 35 22 ; diameter=35)
+(; 8 ; 19 27 ; 31 39 12 ; diameter=39)
+(; 9 ; 17 26 ; 28 37 11 ; diameter=37)
+(; 10 ; 14 24 ; 32 42 18 ; diameter=42)
+All P3s
+Perfect Forest: 
+(; 1 ; 3 4 ; 30 29 33 ; diameter=33)
+(; 2 ; 21 23 ; 36 38 15 ; diameter=38)
+(; 5 ; 8 13 ; 32 37 24 ; diameter=37)
+(; 6 ; 20 26 ; 34 40 14 ; diameter=40)
+(; 7 ; 18 25 ; 35 42 17 ; diameter=42)
+(; 9 ; 10 19 ; 31 22 41 ; diameter=41)
+(; 11 ; 16 27 ; 28 39 12 ; diameter=39)
+All P3s
+Perfect Forest: 
+(; 1 ; 3 4 ; 35 36 32 ; diameter=36)
+(; 2 ; 18 20 ; 24 22 42 ; diameter=42)
+(; 5 ; 8 13 ; 33 38 25 ; diameter=38)
+(; 6 ; 21 27 ; 31 37 10 ; diameter=37)
+(; 7 ; 19 26 ; 34 41 15 ; diameter=41)
+(; 9 ; 14 23 ; 30 39 16 ; diameter=39)
+(; 11 ; 17 28 ; 29 40 12 ; diameter=40)
+All P3s
+Perfect Forest: 
+(; 1 ; 3 4 ; 33 34 30 ; diameter=34)
+(; 2 ; 24 26 ; 39 41 15 ; diameter=41)
+(; 5 ; 18 23 ; 35 40 17 ; diameter=40)
+(; 6 ; 8 14 ; 28 22 36 ; diameter=36)
+(; 7 ; 20 27 ; 31 38 11 ; diameter=38)
+(; 9 ; 12 21 ; 25 16 37 ; diameter=37)
+(; 10 ; 19 29 ; 32 42 13 ; diameter=42)
+All P3s
+Perfect Forest: 
+(; 1 ; 3 4 ; 32 31 35 ; diameter=35)
+(; 2 ; 25 27 ; 36 38 11 ; diameter=38)
+(; 5 ; 19 24 ; 34 39 15 ; diameter=39)
+(; 6 ; 8 14 ; 29 23 37 ; diameter=37)
+(; 7 ; 13 20 ; 28 21 41 ; diameter=41)
+(; 9 ; 17 26 ; 33 42 16 ; diameter=42)
+(; 10 ; 12 22 ; 30 40 18 ; diameter=40)
+All P3s
+Perfect Forest: 
+(; 1 ; 3 4 ; 32 31 35 ; diameter=35)
+(; 2 ; 25 27 ; 36 38 11 ; diameter=38)
+(; 5 ; 15 20 ; 24 19 39 ; diameter=39)
+(; 6 ; 8 14 ; 29 23 37 ; diameter=37)
+(; 7 ; 21 28 ; 34 41 13 ; diameter=41)
+(; 9 ; 17 26 ; 33 42 16 ; diameter=42)
+(; 10 ; 12 22 ; 30 40 18 ; diameter=40)
+All P3s
+Perfect Forest: 
+(; 1 ; 3 4 ; 33 32 36 ; diameter=36)
+(; 2 ; 24 26 ; 37 39 13 ; diameter=39)
+(; 5 ; 16 21 ; 35 40 19 ; diameter=40)
+(; 6 ; 8 14 ; 28 34 20 ; diameter=34)
+(; 7 ; 22 29 ; 31 38 9 ; diameter=38)
+(; 10 ; 15 25 ; 27 17 42 ; diameter=42)
+(; 11 ; 12 23 ; 30 41 18 ; diameter=41)
+All P3s
+Perfect Forest: 
+(; 1 ; 3 4 ; 30 29 33 ; diameter=33)
+(; 2 ; 21 23 ; 37 39 16 ; diameter=39)
+(; 5 ; 19 24 ; 36 41 17 ; diameter=41)
+(; 6 ; 8 14 ; 28 34 20 ; diameter=34)
+(; 7 ; 25 32 ; 35 42 10 ; diameter=42)
+(; 9 ; 13 22 ; 31 40 18 ; diameter=40)
+(; 11 ; 15 26 ; 27 38 12 ; diameter=38)

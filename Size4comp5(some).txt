@@ -1,0 +1,2494 @@
+ 
+All Components Size 4
+Perfect Forest: 
+(; 1 ; 8 9 ; 21 22 29 ; diameter=29)
+(; 2 ; 11 13 ; 17 15 28 ; diameter=28)
+(; 3 ; 7 10 ; 20 23 27 ; diameter=27)
+(; 4 ; 12 16 ; 14 18 26 ; diameter=26)
+(; 5 ; 19 24 ; 25 30 6 ; diameter=30)
+All Components Size 4
+Perfect Forest: 
+(; 1 ; 8 9 ; 22 23 14 ; diameter=23)
+(; 2 ; 11 13 ; 28 30 17 ; diameter=30)
+(; 3 ; 7 10 ; 19 16 26 ; diameter=26)
+(; 4 ; 20 24 ; 25 29 5 ; diameter=29)
+(; 6 ; 12 18 ; 15 21 27 ; diameter=27)
+All Components Size 4
+Perfect Forest: 
+(; 1 ; 8 9 ; 21 22 29 ; diameter=29)
+(; 2 ; 24 26 ; 28 30 4 ; diameter=30)
+(; 3 ; 7 10 ; 18 15 25 ; diameter=25)
+(; 5 ; 11 16 ; 12 17 23 ; diameter=23)
+(; 6 ; 13 19 ; 14 20 27 ; diameter=27)
+All Components Size 4
+Perfect Forest: 
+(; 1 ; 8 9 ; 29 30 21 ; diameter=30)
+(; 2 ; 22 24 ; 26 28 4 ; diameter=28)
+(; 3 ; 7 10 ; 18 15 25 ; diameter=25)
+(; 5 ; 11 16 ; 12 17 23 ; diameter=23)
+(; 6 ; 13 19 ; 14 20 27 ; diameter=27)
+All Components Size 4
+Perfect Forest: 
+(; 1 ; 8 9 ; 19 18 27 ; diameter=27)
+(; 2 ; 22 24 ; 28 30 6 ; diameter=30)
+(; 3 ; 7 10 ; 20 23 13 ; diameter=23)
+(; 4 ; 12 16 ; 17 21 5 ; diameter=21)
+(; 11 ; 14 25 ; 15 26 29 ; diameter=29)
+All Components Size 4
+Perfect Forest: 
+(; 1 ; 8 9 ; 14 13 22 ; diameter=22)
+(; 2 ; 17 19 ; 28 30 11 ; diameter=30)
+(; 3 ; 7 10 ; 23 26 16 ; diameter=26)
+(; 4 ; 20 24 ; 25 29 5 ; diameter=29)
+(; 6 ; 12 18 ; 15 21 27 ; diameter=27)
+All Components Size 4
+Perfect Forest: 
+(; 1 ; 8 9 ; 22 23 30 ; diameter=30)
+(; 2 ; 14 16 ; 26 28 12 ; diameter=28)
+(; 3 ; 7 10 ; 20 17 27 ; diameter=27)
+(; 4 ; 15 19 ; 21 25 6 ; diameter=25)
+(; 5 ; 13 18 ; 24 29 11 ; diameter=29)
+All Components Size 4
+Perfect Forest: 
+(; 1 ; 17 18 ; 22 23 5 ; diameter=23)
+(; 2 ; 19 21 ; 25 27 6 ; diameter=27)
+(; 3 ; 7 10 ; 8 11 15 ; diameter=15)
+(; 4 ; 9 13 ; 20 24 29 ; diameter=29)
+(; 12 ; 14 26 ; 16 28 30 ; diameter=30)
+All Components Size 4
+Perfect Forest: 
+(; 1 ; 24 25 ; 29 30 5 ; diameter=30)
+(; 2 ; 9 11 ; 14 16 23 ; diameter=23)
+(; 3 ; 7 10 ; 20 17 27 ; diameter=27)
+(; 4 ; 8 12 ; 18 22 26 ; diameter=26)
+(; 6 ; 13 19 ; 15 21 28 ; diameter=28)
+All Components Size 4
+Perfect Forest: 
+(; 1 ; 15 16 ; 28 29 13 ; diameter=29)
+(; 2 ; 9 11 ; 21 23 30 ; diameter=30)
+(; 3 ; 7 10 ; 24 27 17 ; diameter=27)
+(; 4 ; 8 12 ; 18 22 26 ; diameter=26)
+(; 5 ; 14 19 ; 20 25 6 ; diameter=25)
+All Components Size 4
+Perfect Forest: 
+(; 1 ; 14 15 ; 25 26 11 ; diameter=26)
+(; 2 ; 21 23 ; 27 29 6 ; diameter=29)
+(; 3 ; 7 10 ; 16 19 9 ; diameter=19)
+(; 4 ; 8 12 ; 20 24 28 ; diameter=28)
+(; 5 ; 13 18 ; 17 22 30 ; diameter=30)
+All Components Size 4
+Perfect Forest: 
+(; 1 ; 23 24 ; 29 30 6 ; diameter=30)
+(; 2 ; 14 16 ; 25 27 11 ; diameter=27)
+(; 3 ; 7 10 ; 19 22 26 ; diameter=26)
+(; 4 ; 8 12 ; 17 21 9 ; diameter=21)
+(; 5 ; 13 18 ; 15 20 28 ; diameter=28)
+All Components Size 4
+Perfect Forest: 
+(; 1 ; 17 18 ; 28 29 11 ; diameter=29)
+(; 2 ; 19 21 ; 25 27 6 ; diameter=27)
+(; 3 ; 7 10 ; 16 13 23 ; diameter=23)
+(; 4 ; 8 12 ; 22 26 30 ; diameter=30)
+(; 5 ; 9 14 ; 15 20 24 ; diameter=24)
+All Components Size 4
+Perfect Forest: 
+(; 1 ; 17 18 ; 22 23 5 ; diameter=23)
+(; 2 ; 11 13 ; 14 16 25 ; diameter=25)
+(; 3 ; 7 10 ; 26 29 19 ; diameter=29)
+(; 4 ; 8 12 ; 20 24 28 ; diameter=28)
+(; 6 ; 9 15 ; 21 27 30 ; diameter=30)
+All Components Size 4
+Perfect Forest: 
+(; 1 ; 23 24 ; 28 29 5 ; diameter=29)
+(; 2 ; 11 13 ; 19 21 30 ; diameter=30)
+(; 3 ; 7 10 ; 20 17 27 ; diameter=27)
+(; 4 ; 8 12 ; 18 14 26 ; diameter=26)
+(; 6 ; 9 15 ; 16 22 25 ; diameter=25)
+All Components Size 4
+Perfect Forest: 
+(; 1 ; 21 22 ; 26 27 5 ; diameter=27)
+(; 2 ; 11 13 ; 19 17 30 ; diameter=30)
+(; 3 ; 7 10 ; 25 28 18 ; diameter=28)
+(; 4 ; 8 12 ; 16 20 24 ; diameter=24)
+(; 6 ; 9 15 ; 23 29 14 ; diameter=29)
+All Components Size 4
+Perfect Forest: 
+(; 1 ; 27 28 ; 29 30 2 ; diameter=30)
+(; 3 ; 7 10 ; 19 22 26 ; diameter=26)
+(; 4 ; 8 12 ; 17 21 25 ; diameter=25)
+(; 5 ; 11 16 ; 13 18 24 ; diameter=24)
+(; 6 ; 9 15 ; 14 20 23 ; diameter=23)
+All Components Size 4
+Perfect Forest: 
+(; 1 ; 21 22 ; 26 27 5 ; diameter=27)
+(; 2 ; 11 13 ; 19 17 30 ; diameter=30)
+(; 3 ; 7 10 ; 18 15 25 ; diameter=25)
+(; 4 ; 8 12 ; 24 28 16 ; diameter=28)
+(; 6 ; 14 20 ; 23 29 9 ; diameter=29)
+All Components Size 4
+Perfect Forest: 
+(; 1 ; 17 18 ; 22 23 5 ; diameter=23)
+(; 2 ; 11 13 ; 25 27 14 ; diameter=27)
+(; 3 ; 7 10 ; 26 29 19 ; diameter=29)
+(; 4 ; 8 12 ; 20 16 28 ; diameter=28)
+(; 6 ; 15 21 ; 24 30 9 ; diameter=30)
+All Components Size 4
+Perfect Forest: 
+(; 1 ; 25 26 ; 27 28 2 ; diameter=28)
+(; 3 ; 7 10 ; 15 18 22 ; diameter=22)
+(; 4 ; 8 12 ; 13 17 21 ; diameter=21)
+(; 5 ; 11 16 ; 19 24 30 ; diameter=30)
+(; 6 ; 14 20 ; 23 29 9 ; diameter=29)
+All Components Size 4
+Perfect Forest: 
+(; 1 ; 15 16 ; 27 28 12 ; diameter=28)
+(; 2 ; 9 11 ; 21 23 30 ; diameter=30)
+(; 3 ; 7 10 ; 26 29 19 ; diameter=29)
+(; 4 ; 14 18 ; 20 24 6 ; diameter=24)
+(; 5 ; 8 13 ; 17 22 25 ; diameter=25)
+All Components Size 4
+Perfect Forest: 
+(; 1 ; 15 16 ; 26 27 11 ; diameter=27)
+(; 2 ; 12 14 ; 18 20 30 ; diameter=30)
+(; 3 ; 7 10 ; 21 24 28 ; diameter=28)
+(; 4 ; 19 23 ; 25 29 6 ; diameter=29)
+(; 5 ; 8 13 ; 17 22 9 ; diameter=22)
+All Components Size 4
+Perfect Forest: 
+(; 1 ; 21 22 ; 25 26 4 ; diameter=26)
+(; 2 ; 16 18 ; 28 30 12 ; diameter=30)
+(; 3 ; 7 10 ; 20 17 27 ; diameter=27)
+(; 5 ; 8 13 ; 19 24 11 ; diameter=24)
+(; 6 ; 9 15 ; 23 29 14 ; diameter=29)
+All Components Size 4
+Perfect Forest: 
+(; 1 ; 22 23 ; 28 29 6 ; diameter=29)
+(; 2 ; 16 18 ; 25 27 9 ; diameter=27)
+(; 3 ; 7 10 ; 21 24 14 ; diameter=24)
+(; 4 ; 15 19 ; 26 30 11 ; diameter=30)
+(; 5 ; 8 13 ; 12 17 20 ; diameter=20)
+All Components Size 4
+Perfect Forest: 
+(; 1 ; 19 20 ; 23 24 4 ; diameter=24)
+(; 2 ; 11 13 ; 27 29 16 ; diameter=29)
+(; 3 ; 7 10 ; 18 15 25 ; diameter=25)
+(; 5 ; 12 17 ; 21 26 9 ; diameter=26)
+(; 6 ; 8 14 ; 22 28 30 ; diameter=30)
+All Components Size 4
+Perfect Forest: 
+(; 1 ; 23 24 ; 27 28 4 ; diameter=28)
+(; 2 ; 11 13 ; 15 17 26 ; diameter=26)
+(; 3 ; 7 10 ; 22 19 29 ; diameter=29)
+(; 5 ; 16 21 ; 25 30 9 ; diameter=30)
+(; 6 ; 8 14 ; 12 18 20 ; diameter=20)
+All Components Size 4
+Perfect Forest: 
+(; 1 ; 20 21 ; 29 30 9 ; diameter=30)
+(; 2 ; 22 24 ; 26 28 4 ; diameter=28)
+(; 3 ; 7 10 ; 18 15 25 ; diameter=25)
+(; 5 ; 11 16 ; 12 17 23 ; diameter=23)
+(; 6 ; 8 14 ; 19 13 27 ; diameter=27)
+All Components Size 4
+Perfect Forest: 
+(; 1 ; 12 13 ; 17 18 5 ; diameter=18)
+(; 2 ; 24 26 ; 28 30 4 ; diameter=30)
+(; 3 ; 7 10 ; 22 19 29 ; diameter=29)
+(; 6 ; 8 14 ; 15 21 23 ; diameter=23)
+(; 9 ; 11 20 ; 16 25 27 ; diameter=27)
+All Components Size 4
+Perfect Forest: 
+(; 1 ; 15 16 ; 28 29 13 ; diameter=29)
+(; 2 ; 9 11 ; 21 23 12 ; diameter=23)
+(; 3 ; 7 10 ; 20 17 27 ; diameter=27)
+(; 4 ; 14 18 ; 22 26 8 ; diameter=26)
+(; 5 ; 19 24 ; 25 30 6 ; diameter=30)
+All Components Size 4
+Perfect Forest: 
+(; 1 ; 15 16 ; 28 29 13 ; diameter=29)
+(; 2 ; 9 11 ; 21 23 12 ; diameter=23)
+(; 3 ; 7 10 ; 24 27 17 ; diameter=27)
+(; 4 ; 18 22 ; 26 30 8 ; diameter=30)
+(; 5 ; 14 19 ; 20 25 6 ; diameter=25)
+All Components Size 4
+Perfect Forest: 
+(; 1 ; 14 15 ; 25 26 11 ; diameter=26)
+(; 2 ; 21 23 ; 27 29 6 ; diameter=29)
+(; 3 ; 7 10 ; 12 9 19 ; diameter=19)
+(; 4 ; 16 20 ; 24 28 8 ; diameter=28)
+(; 5 ; 13 18 ; 17 22 30 ; diameter=30)
+All Components Size 4
+Perfect Forest: 
+(; 1 ; 20 21 ; 25 26 5 ; diameter=26)
+(; 2 ; 15 17 ; 27 29 12 ; diameter=29)
+(; 3 ; 7 10 ; 11 14 18 ; diameter=18)
+(; 4 ; 9 13 ; 19 23 28 ; diameter=28)
+(; 6 ; 16 22 ; 24 30 8 ; diameter=30)
+All Components Size 4
+Perfect Forest: 
+(; 1 ; 24 25 ; 26 27 2 ; diameter=27)
+(; 3 ; 7 10 ; 12 15 19 ; diameter=19)
+(; 4 ; 9 13 ; 21 17 30 ; diameter=30)
+(; 5 ; 11 16 ; 18 23 29 ; diameter=29)
+(; 6 ; 14 20 ; 22 28 8 ; diameter=28)
+All Components Size 4
+Perfect Forest: 
+(; 1 ; 16 17 ; 28 29 12 ; diameter=29)
+(; 2 ; 11 13 ; 19 21 8 ; diameter=21)
+(; 3 ; 7 10 ; 22 25 15 ; diameter=25)
+(; 4 ; 20 24 ; 26 30 6 ; diameter=30)
+(; 5 ; 9 14 ; 18 23 27 ; diameter=27)
+All Components Size 4
+Perfect Forest: 
+(; 1 ; 11 12 ; 28 29 17 ; diameter=29)
+(; 2 ; 19 21 ; 25 27 6 ; diameter=27)
+(; 3 ; 7 10 ; 16 13 23 ; diameter=23)
+(; 4 ; 18 22 ; 26 30 8 ; diameter=30)
+(; 5 ; 9 14 ; 15 20 24 ; diameter=24)
+All Components Size 4
+Perfect Forest: 
+(; 1 ; 11 12 ; 17 16 28 ; diameter=28)
+(; 2 ; 19 21 ; 25 27 6 ; diameter=27)
+(; 3 ; 7 10 ; 20 23 13 ; diameter=23)
+(; 4 ; 18 22 ; 26 30 8 ; diameter=30)
+(; 5 ; 9 14 ; 24 29 15 ; diameter=29)
+All Components Size 4
+Perfect Forest: 
+(; 1 ; 11 12 ; 28 29 17 ; diameter=29)
+(; 2 ; 16 18 ; 24 26 8 ; diameter=26)
+(; 3 ; 7 10 ; 23 20 30 ; diameter=30)
+(; 4 ; 15 19 ; 21 25 6 ; diameter=25)
+(; 5 ; 9 14 ; 22 27 13 ; diameter=27)
+All Components Size 4
+Perfect Forest: 
+(; 1 ; 12 13 ; 18 19 30 ; diameter=30)
+(; 2 ; 22 24 ; 26 28 4 ; diameter=28)
+(; 3 ; 7 10 ; 20 17 27 ; diameter=27)
+(; 5 ; 9 14 ; 16 11 25 ; diameter=25)
+(; 6 ; 15 21 ; 23 29 8 ; diameter=29)
+All Components Size 4
+Perfect Forest: 
+(; 1 ; 23 24 ; 28 29 5 ; diameter=29)
+(; 2 ; 11 13 ; 19 21 8 ; diameter=21)
+(; 3 ; 7 10 ; 20 17 27 ; diameter=27)
+(; 4 ; 14 18 ; 26 30 12 ; diameter=30)
+(; 6 ; 9 15 ; 16 22 25 ; diameter=25)
+All Components Size 4
+Perfect Forest: 
+(; 1 ; 11 12 ; 18 17 29 ; diameter=29)
+(; 2 ; 14 16 ; 22 24 8 ; diameter=24)
+(; 3 ; 7 10 ; 20 23 27 ; diameter=27)
+(; 4 ; 21 25 ; 26 30 5 ; diameter=30)
+(; 6 ; 9 15 ; 19 13 28 ; diameter=28)
+All Components Size 4
+Perfect Forest: 
+(; 1 ; 21 22 ; 26 27 5 ; diameter=27)
+(; 2 ; 11 13 ; 19 17 30 ; diameter=30)
+(; 3 ; 7 10 ; 25 28 18 ; diameter=28)
+(; 4 ; 12 16 ; 20 24 8 ; diameter=24)
+(; 6 ; 9 15 ; 23 29 14 ; diameter=29)
+All Components Size 4
+Perfect Forest: 
+(; 1 ; 17 18 ; 22 23 5 ; diameter=23)
+(; 2 ; 11 13 ; 14 12 25 ; diameter=25)
+(; 3 ; 7 10 ; 26 29 19 ; diameter=29)
+(; 4 ; 16 20 ; 24 28 8 ; diameter=28)
+(; 6 ; 9 15 ; 21 27 30 ; diameter=30)
+All Components Size 4
+Perfect Forest: 
+(; 1 ; 24 25 ; 29 30 5 ; diameter=30)
+(; 2 ; 18 20 ; 26 28 8 ; diameter=28)
+(; 3 ; 7 10 ; 14 17 21 ; diameter=21)
+(; 4 ; 12 16 ; 23 27 11 ; diameter=27)
+(; 6 ; 9 15 ; 13 19 22 ; diameter=22)
+All Components Size 4
+Perfect Forest: 
+(; 1 ; 13 14 ; 21 22 8 ; diameter=22)
+(; 2 ; 17 19 ; 28 30 11 ; diameter=30)
+(; 3 ; 7 10 ; 23 26 16 ; diameter=26)
+(; 4 ; 20 24 ; 25 29 5 ; diameter=29)
+(; 6 ; 9 15 ; 18 12 27 ; diameter=27)
+All Components Size 4
+Perfect Forest: 
+(; 1 ; 11 12 ; 16 15 27 ; diameter=27)
+(; 2 ; 23 25 ; 28 30 5 ; diameter=30)
+(; 3 ; 7 10 ; 26 29 19 ; diameter=29)
+(; 4 ; 14 18 ; 20 24 6 ; diameter=24)
+(; 8 ; 9 17 ; 13 21 22 ; diameter=22)
+All Components Size 4
+Perfect Forest: 
+(; 1 ; 12 13 ; 15 14 27 ; diameter=27)
+(; 2 ; 16 18 ; 21 23 5 ; diameter=23)
+(; 3 ; 7 10 ; 22 25 29 ; diameter=29)
+(; 4 ; 20 24 ; 26 30 6 ; diameter=30)
+(; 8 ; 9 17 ; 19 11 28 ; diameter=28)
+All Components Size 4
+Perfect Forest: 
+(; 1 ; 15 16 ; 26 27 11 ; diameter=27)
+(; 2 ; 12 14 ; 18 20 6 ; diameter=20)
+(; 3 ; 7 10 ; 22 25 29 ; diameter=29)
+(; 4 ; 19 23 ; 24 28 5 ; diameter=28)
+(; 8 ; 9 17 ; 21 13 30 ; diameter=30)
+All Components Size 4
+Perfect Forest: 
+(; 1 ; 17 18 ; 23 24 6 ; diameter=24)
+(; 2 ; 14 16 ; 27 29 13 ; diameter=29)
+(; 3 ; 7 10 ; 15 12 22 ; diameter=22)
+(; 4 ; 21 25 ; 26 30 5 ; diameter=30)
+(; 8 ; 11 19 ; 20 28 9 ; diameter=28)
+All Components Size 4
+Perfect Forest: 
+(; 1 ; 14 15 ; 22 23 8 ; diameter=23)
+(; 2 ; 11 13 ; 28 30 17 ; diameter=30)
+(; 3 ; 7 10 ; 19 16 26 ; diameter=26)
+(; 4 ; 20 24 ; 25 29 5 ; diameter=29)
+(; 6 ; 12 18 ; 21 27 9 ; diameter=27)
+All Components Size 4
+Perfect Forest: 
+(; 1 ; 19 20 ; 25 26 6 ; diameter=26)
+(; 2 ; 11 13 ; 28 30 17 ; diameter=30)
+(; 3 ; 7 10 ; 15 12 22 ; diameter=22)
+(; 4 ; 14 18 ; 23 27 9 ; diameter=27)
+(; 5 ; 16 21 ; 24 29 8 ; diameter=29)
+All Components Size 4
+Perfect Forest: 
+(; 1 ; 19 20 ; 27 28 8 ; diameter=28)
+(; 2 ; 11 13 ; 14 16 25 ; diameter=25)
+(; 3 ; 7 10 ; 15 12 22 ; diameter=22)
+(; 4 ; 17 21 ; 26 30 9 ; diameter=30)
+(; 5 ; 18 23 ; 24 29 6 ; diameter=29)
+All Components Size 4
+Perfect Forest: 
+(; 1 ; 13 14 ; 22 23 9 ; diameter=23)
+(; 2 ; 19 21 ; 27 29 8 ; diameter=29)
+(; 3 ; 7 10 ; 18 15 25 ; diameter=25)
+(; 4 ; 20 24 ; 26 30 6 ; diameter=30)
+(; 5 ; 11 16 ; 17 12 28 ; diameter=28)
+All Components Size 4
+Perfect Forest: 
+(; 1 ; 8 9 ; 21 22 29 ; diameter=29)
+(; 2 ; 17 19 ; 23 25 6 ; diameter=25)
+(; 3 ; 10 13 ; 15 18 5 ; diameter=18)
+(; 4 ; 7 11 ; 20 24 27 ; diameter=27)
+(; 12 ; 14 26 ; 16 28 30 ; diameter=30)
+All Components Size 4
+Perfect Forest: 
+(; 1 ; 8 9 ; 22 21 30 ; diameter=30)
+(; 2 ; 18 20 ; 23 25 5 ; diameter=25)
+(; 3 ; 10 13 ; 16 19 6 ; diameter=19)
+(; 4 ; 7 11 ; 24 28 17 ; diameter=28)
+(; 12 ; 14 26 ; 15 27 29 ; diameter=29)
+All Components Size 4
+Perfect Forest: 
+(; 1 ; 8 9 ; 21 20 29 ; diameter=29)
+(; 2 ; 22 24 ; 28 30 6 ; diameter=30)
+(; 3 ; 10 13 ; 15 18 25 ; diameter=25)
+(; 4 ; 7 11 ; 23 27 16 ; diameter=27)
+(; 5 ; 12 17 ; 14 19 26 ; diameter=26)
+All Components Size 4
+Perfect Forest: 
+(; 1 ; 8 9 ; 21 20 29 ; diameter=29)
+(; 2 ; 16 18 ; 22 24 6 ; diameter=24)
+(; 3 ; 10 13 ; 25 28 15 ; diameter=28)
+(; 4 ; 7 11 ; 23 27 30 ; diameter=30)
+(; 5 ; 12 17 ; 14 19 26 ; diameter=26)
+All Components Size 4
+Perfect Forest: 
+(; 1 ; 8 9 ; 29 30 21 ; diameter=30)
+(; 2 ; 17 19 ; 22 24 5 ; diameter=24)
+(; 3 ; 10 13 ; 25 28 15 ; diameter=28)
+(; 4 ; 7 11 ; 23 27 16 ; diameter=27)
+(; 6 ; 12 18 ; 14 20 26 ; diameter=26)
+All Components Size 4
+Perfect Forest: 
+(; 1 ; 8 9 ; 29 30 21 ; diameter=30)
+(; 2 ; 12 14 ; 15 13 27 ; diameter=27)
+(; 3 ; 17 20 ; 22 25 5 ; diameter=25)
+(; 4 ; 7 11 ; 19 23 26 ; diameter=26)
+(; 6 ; 10 16 ; 18 24 28 ; diameter=28)
+All Components Size 4
+Perfect Forest: 
+(; 1 ; 8 9 ; 19 18 27 ; diameter=27)
+(; 2 ; 22 24 ; 28 30 6 ; diameter=30)
+(; 3 ; 12 15 ; 17 20 5 ; diameter=20)
+(; 4 ; 7 11 ; 21 25 14 ; diameter=25)
+(; 10 ; 13 23 ; 16 26 29 ; diameter=29)
+All Components Size 4
+Perfect Forest: 
+(; 1 ; 8 9 ; 20 21 28 ; diameter=28)
+(; 2 ; 12 14 ; 15 17 27 ; diameter=27)
+(; 3 ; 13 16 ; 23 26 10 ; diameter=26)
+(; 4 ; 7 11 ; 22 18 29 ; diameter=29)
+(; 5 ; 19 24 ; 25 30 6 ; diameter=30)
+All Components Size 4
+Perfect Forest: 
+(; 1 ; 12 13 ; 29 30 17 ; diameter=30)
+(; 2 ; 8 10 ; 14 16 22 ; diameter=22)
+(; 3 ; 18 21 ; 23 26 5 ; diameter=26)
+(; 4 ; 7 11 ; 20 24 27 ; diameter=27)
+(; 6 ; 9 15 ; 19 25 28 ; diameter=28)
+All Components Size 4
+Perfect Forest: 
+(; 1 ; 12 13 ; 29 30 17 ; diameter=30)
+(; 2 ; 8 10 ; 22 24 14 ; diameter=24)
+(; 3 ; 18 21 ; 23 26 5 ; diameter=26)
+(; 4 ; 7 11 ; 20 16 27 ; diameter=27)
+(; 6 ; 9 15 ; 19 25 28 ; diameter=28)
+All Components Size 4
+Perfect Forest: 
+(; 1 ; 12 13 ; 29 30 17 ; diameter=30)
+(; 2 ; 8 10 ; 18 16 26 ; diameter=26)
+(; 3 ; 19 22 ; 24 27 5 ; diameter=27)
+(; 4 ; 7 11 ; 21 25 28 ; diameter=28)
+(; 6 ; 9 15 ; 14 20 23 ; diameter=23)
+All Components Size 4
+Perfect Forest: 
+(; 1 ; 16 17 ; 29 30 13 ; diameter=30)
+(; 2 ; 8 10 ; 14 12 22 ; diameter=22)
+(; 3 ; 18 21 ; 23 26 5 ; diameter=26)
+(; 4 ; 7 11 ; 20 24 27 ; diameter=27)
+(; 6 ; 9 15 ; 19 25 28 ; diameter=28)
+All Components Size 4
+Perfect Forest: 
+(; 1 ; 13 14 ; 17 18 30 ; diameter=30)
+(; 2 ; 8 10 ; 20 22 12 ; diameter=22)
+(; 3 ; 21 24 ; 26 29 5 ; diameter=29)
+(; 4 ; 7 11 ; 23 27 16 ; diameter=27)
+(; 6 ; 9 15 ; 19 25 28 ; diameter=28)
+All Components Size 4
+Perfect Forest: 
+(; 1 ; 24 25 ; 29 30 5 ; diameter=30)
+(; 2 ; 8 10 ; 20 22 28 ; diameter=28)
+(; 3 ; 13 16 ; 14 17 27 ; diameter=27)
+(; 4 ; 7 11 ; 19 23 26 ; diameter=26)
+(; 6 ; 9 15 ; 12 18 21 ; diameter=21)
+All Components Size 4
+Perfect Forest: 
+(; 1 ; 13 14 ; 28 29 15 ; diameter=29)
+(; 2 ; 8 10 ; 24 26 16 ; diameter=26)
+(; 3 ; 17 20 ; 22 25 5 ; diameter=25)
+(; 4 ; 7 11 ; 23 19 30 ; diameter=30)
+(; 6 ; 12 18 ; 21 27 9 ; diameter=27)
+All Components Size 4
+Perfect Forest: 
+(; 1 ; 13 14 ; 16 17 29 ; diameter=29)
+(; 2 ; 8 10 ; 22 24 30 ; diameter=30)
+(; 3 ; 20 23 ; 25 28 5 ; diameter=28)
+(; 4 ; 7 11 ; 19 15 26 ; diameter=26)
+(; 6 ; 12 18 ; 21 27 9 ; diameter=27)
+All Components Size 4
+Perfect Forest: 
+(; 1 ; 16 17 ; 29 30 13 ; diameter=30)
+(; 2 ; 8 10 ; 22 24 14 ; diameter=24)
+(; 3 ; 20 23 ; 25 28 5 ; diameter=28)
+(; 4 ; 7 11 ; 19 15 26 ; diameter=26)
+(; 6 ; 12 18 ; 21 27 9 ; diameter=27)
+All Components Size 4
+Perfect Forest: 
+(; 1 ; 12 13 ; 17 18 29 ; diameter=29)
+(; 2 ; 8 10 ; 22 24 14 ; diameter=24)
+(; 3 ; 16 19 ; 25 28 9 ; diameter=28)
+(; 4 ; 7 11 ; 23 27 30 ; diameter=30)
+(; 5 ; 15 20 ; 21 26 6 ; diameter=26)
+All Components Size 4
+Perfect Forest: 
+(; 1 ; 20 21 ; 25 26 5 ; diameter=26)
+(; 2 ; 8 10 ; 16 18 24 ; diameter=24)
+(; 3 ; 12 15 ; 17 14 29 ; diameter=29)
+(; 4 ; 7 11 ; 23 27 30 ; diameter=30)
+(; 6 ; 13 19 ; 22 28 9 ; diameter=28)
+All Components Size 4
+Perfect Forest: 
+(; 1 ; 9 10 ; 21 20 30 ; diameter=30)
+(; 2 ; 12 14 ; 27 29 15 ; diameter=29)
+(; 3 ; 16 19 ; 22 25 6 ; diameter=25)
+(; 4 ; 7 11 ; 24 28 17 ; diameter=28)
+(; 5 ; 8 13 ; 18 23 26 ; diameter=26)
+All Components Size 4
+Perfect Forest: 
+(; 1 ; 9 10 ; 20 19 29 ; diameter=29)
+(; 2 ; 14 16 ; 26 28 12 ; diameter=28)
+(; 3 ; 15 18 ; 21 24 6 ; diameter=24)
+(; 4 ; 7 11 ; 23 27 30 ; diameter=30)
+(; 5 ; 8 13 ; 17 22 25 ; diameter=25)
+All Components Size 4
+Perfect Forest: 
+(; 1 ; 20 21 ; 23 24 3 ; diameter=24)
+(; 2 ; 10 12 ; 16 18 6 ; diameter=18)
+(; 4 ; 7 11 ; 15 19 22 ; diameter=22)
+(; 5 ; 8 13 ; 9 14 17 ; diameter=17)
+All Components Size 4
+Perfect Forest: 
+(; 1 ; 24 25 ; 27 28 3 ; diameter=28)
+(; 2 ; 10 12 ; 16 18 26 ; diameter=26)
+(; 4 ; 7 11 ; 23 19 30 ; diameter=30)
+(; 5 ; 8 13 ; 17 22 9 ; diameter=22)
+(; 6 ; 14 20 ; 15 21 29 ; diameter=29)
+All Components Size 4
+Perfect Forest: 
+(; 1 ; 18 19 ; 21 22 3 ; diameter=22)
+(; 2 ; 10 12 ; 26 28 16 ; diameter=28)
+(; 4 ; 7 11 ; 20 24 27 ; diameter=27)
+(; 5 ; 8 13 ; 25 30 17 ; diameter=30)
+(; 6 ; 9 15 ; 23 29 14 ; diameter=29)
+All Components Size 4
+Perfect Forest: 
+(; 1 ; 22 23 ; 25 26 3 ; diameter=26)
+(; 2 ; 16 18 ; 28 30 12 ; diameter=30)
+(; 4 ; 7 11 ; 17 21 10 ; diameter=21)
+(; 5 ; 8 13 ; 19 24 27 ; diameter=27)
+(; 6 ; 9 15 ; 20 14 29 ; diameter=29)
+All Components Size 4
+Perfect Forest: 
+(; 1 ; 19 20 ; 28 29 9 ; diameter=29)
+(; 2 ; 10 12 ; 16 14 26 ; diameter=26)
+(; 3 ; 15 18 ; 21 24 6 ; diameter=24)
+(; 4 ; 7 11 ; 23 27 30 ; diameter=30)
+(; 5 ; 8 13 ; 17 22 25 ; diameter=25)
+All Components Size 4
+Perfect Forest: 
+(; 1 ; 24 25 ; 27 28 3 ; diameter=28)
+(; 2 ; 14 16 ; 20 22 6 ; diameter=22)
+(; 4 ; 7 11 ; 23 19 30 ; diameter=30)
+(; 5 ; 8 13 ; 10 15 18 ; diameter=18)
+(; 9 ; 12 21 ; 17 26 29 ; diameter=29)
+All Components Size 4
+Perfect Forest: 
+(; 1 ; 19 20 ; 28 29 9 ; diameter=29)
+(; 2 ; 14 16 ; 24 26 10 ; diameter=26)
+(; 3 ; 12 15 ; 18 21 6 ; diameter=21)
+(; 4 ; 7 11 ; 23 27 30 ; diameter=30)
+(; 5 ; 8 13 ; 17 22 25 ; diameter=25)
+All Components Size 4
+Perfect Forest: 
+(; 1 ; 18 19 ; 28 29 10 ; diameter=29)
+(; 2 ; 14 16 ; 23 25 9 ; diameter=25)
+(; 3 ; 21 24 ; 27 30 6 ; diameter=30)
+(; 4 ; 7 11 ; 22 26 15 ; diameter=26)
+(; 5 ; 8 13 ; 12 17 20 ; diameter=20)
+All Components Size 4
+Perfect Forest: 
+(; 1 ; 9 10 ; 21 22 30 ; diameter=30)
+(; 2 ; 24 26 ; 27 29 3 ; diameter=29)
+(; 4 ; 7 11 ; 12 16 19 ; diameter=19)
+(; 5 ; 13 18 ; 15 20 28 ; diameter=28)
+(; 6 ; 8 14 ; 17 23 25 ; diameter=25)
+All Components Size 4
+Perfect Forest: 
+(; 1 ; 9 10 ; 20 19 29 ; diameter=29)
+(; 2 ; 13 15 ; 25 27 12 ; diameter=27)
+(; 3 ; 18 21 ; 23 26 5 ; diameter=26)
+(; 4 ; 7 11 ; 24 28 17 ; diameter=28)
+(; 6 ; 8 14 ; 22 16 30 ; diameter=30)
+All Components Size 4
+Perfect Forest: 
+(; 1 ; 21 22 ; 26 27 5 ; diameter=27)
+(; 2 ; 18 20 ; 28 30 10 ; diameter=30)
+(; 3 ; 9 12 ; 16 19 25 ; diameter=25)
+(; 4 ; 7 11 ; 17 13 24 ; diameter=24)
+(; 6 ; 8 14 ; 23 29 15 ; diameter=29)
+All Components Size 4
+Perfect Forest: 
+(; 1 ; 24 25 ; 27 28 3 ; diameter=28)
+(; 2 ; 10 12 ; 20 22 30 ; diameter=30)
+(; 4 ; 7 11 ; 19 23 26 ; diameter=26)
+(; 5 ; 13 18 ; 16 21 29 ; diameter=29)
+(; 6 ; 8 14 ; 9 15 17 ; diameter=17)
+All Components Size 4
+Perfect Forest: 
+(; 1 ; 12 13 ; 28 29 16 ; diameter=29)
+(; 2 ; 19 21 ; 24 26 5 ; diameter=26)
+(; 3 ; 17 20 ; 27 30 10 ; diameter=30)
+(; 4 ; 7 11 ; 18 22 25 ; diameter=25)
+(; 6 ; 8 14 ; 15 9 23 ; diameter=23)
+All Components Size 4
+Perfect Forest: 
+(; 1 ; 24 25 ; 27 28 3 ; diameter=28)
+(; 2 ; 10 12 ; 20 22 30 ; diameter=30)
+(; 4 ; 7 11 ; 19 15 26 ; diameter=26)
+(; 5 ; 13 18 ; 16 21 29 ; diameter=29)
+(; 6 ; 8 14 ; 17 23 9 ; diameter=23)
+All Components Size 4
+Perfect Forest: 
+(; 1 ; 15 16 ; 28 29 13 ; diameter=29)
+(; 2 ; 10 12 ; 19 21 9 ; diameter=21)
+(; 3 ; 17 20 ; 22 25 5 ; diameter=25)
+(; 4 ; 7 11 ; 23 27 30 ; diameter=30)
+(; 6 ; 8 14 ; 18 24 26 ; diameter=26)
+All Components Size 4
+Perfect Forest: 
+(; 1 ; 22 23 ; 25 26 3 ; diameter=26)
+(; 2 ; 16 18 ; 28 30 12 ; diameter=30)
+(; 4 ; 7 11 ; 13 17 20 ; diameter=20)
+(; 5 ; 10 15 ; 19 24 9 ; diameter=24)
+(; 6 ; 8 14 ; 21 27 29 ; diameter=29)
+All Components Size 4
+Perfect Forest: 
+(; 1 ; 19 20 ; 28 29 9 ; diameter=29)
+(; 2 ; 10 12 ; 25 27 15 ; diameter=27)
+(; 3 ; 18 21 ; 23 26 5 ; diameter=26)
+(; 4 ; 7 11 ; 17 13 24 ; diameter=24)
+(; 6 ; 8 14 ; 22 16 30 ; diameter=30)
+All Components Size 4
+Perfect Forest: 
+(; 1 ; 19 20 ; 28 29 9 ; diameter=29)
+(; 2 ; 10 12 ; 16 18 26 ; diameter=26)
+(; 3 ; 22 25 ; 27 30 5 ; diameter=30)
+(; 4 ; 7 11 ; 17 13 24 ; diameter=24)
+(; 6 ; 8 14 ; 15 21 23 ; diameter=23)
+All Components Size 4
+Perfect Forest: 
+(; 1 ; 21 22 ; 26 27 5 ; diameter=27)
+(; 2 ; 10 12 ; 20 18 30 ; diameter=30)
+(; 3 ; 16 19 ; 25 28 9 ; diameter=28)
+(; 4 ; 7 11 ; 17 13 24 ; diameter=24)
+(; 6 ; 8 14 ; 23 29 15 ; diameter=29)
+All Components Size 4
+Perfect Forest: 
+(; 1 ; 20 21 ; 29 30 9 ; diameter=30)
+(; 2 ; 17 19 ; 22 24 5 ; diameter=24)
+(; 3 ; 10 13 ; 25 28 15 ; diameter=28)
+(; 4 ; 7 11 ; 23 27 16 ; diameter=27)
+(; 6 ; 8 14 ; 18 12 26 ; diameter=26)
+All Components Size 4
+Perfect Forest: 
+(; 1 ; 22 23 ; 25 26 3 ; diameter=26)
+(; 2 ; 16 18 ; 28 30 12 ; diameter=30)
+(; 4 ; 7 11 ; 17 21 10 ; diameter=21)
+(; 5 ; 15 20 ; 24 29 9 ; diameter=29)
+(; 6 ; 8 14 ; 19 13 27 ; diameter=27)
+All Components Size 4
+Perfect Forest: 
+(; 1 ; 9 10 ; 17 18 8 ; diameter=18)
+(; 2 ; 14 16 ; 20 22 6 ; diameter=22)
+(; 3 ; 21 24 ; 26 29 5 ; diameter=29)
+(; 4 ; 7 11 ; 23 19 30 ; diameter=30)
+(; 12 ; 13 25 ; 15 27 28 ; diameter=28)
+All Components Size 4
+Perfect Forest: 
+(; 1 ; 22 23 ; 27 28 5 ; diameter=28)
+(; 2 ; 13 15 ; 19 21 6 ; diameter=21)
+(; 3 ; 9 12 ; 17 20 8 ; diameter=20)
+(; 4 ; 7 11 ; 25 29 18 ; diameter=29)
+(; 10 ; 14 24 ; 16 26 30 ; diameter=30)
+All Components Size 4
+Perfect Forest: 
+(; 1 ; 16 17 ; 28 29 12 ; diameter=29)
+(; 2 ; 22 24 ; 25 27 3 ; diameter=27)
+(; 4 ; 7 11 ; 26 30 19 ; diameter=30)
+(; 5 ; 9 14 ; 15 20 6 ; diameter=20)
+(; 8 ; 10 18 ; 13 21 23 ; diameter=23)
+All Components Size 4
+Perfect Forest: 
+(; 1 ; 9 10 ; 21 22 12 ; diameter=22)
+(; 2 ; 13 15 ; 14 16 27 ; diameter=27)
+(; 3 ; 17 20 ; 25 28 8 ; diameter=28)
+(; 4 ; 7 11 ; 26 30 19 ; diameter=30)
+(; 5 ; 18 23 ; 24 29 6 ; diameter=29)
+All Components Size 4
+Perfect Forest: 
+(; 1 ; 24 25 ; 26 27 2 ; diameter=27)
+(; 3 ; 9 12 ; 21 18 30 ; diameter=30)
+(; 4 ; 7 11 ; 10 14 17 ; diameter=17)
+(; 5 ; 15 20 ; 23 28 8 ; diameter=28)
+(; 6 ; 13 19 ; 16 22 29 ; diameter=29)
+All Components Size 4
+Perfect Forest: 
+(; 1 ; 15 16 ; 21 22 6 ; diameter=22)
+(; 2 ; 23 25 ; 28 30 5 ; diameter=30)
+(; 3 ; 9 12 ; 17 14 26 ; diameter=26)
+(; 4 ; 7 11 ; 20 24 13 ; diameter=24)
+(; 8 ; 10 18 ; 19 27 29 ; diameter=29)
+All Components Size 4
+Perfect Forest: 
+(; 1 ; 14 15 ; 27 28 13 ; diameter=28)
+(; 2 ; 17 19 ; 23 25 6 ; diameter=25)
+(; 3 ; 21 24 ; 26 29 5 ; diameter=29)
+(; 4 ; 7 11 ; 16 20 9 ; diameter=20)
+(; 8 ; 10 18 ; 22 30 12 ; diameter=30)
+All Components Size 4
+Perfect Forest: 
+(; 1 ; 21 22 ; 27 28 6 ; diameter=28)
+(; 2 ; 10 12 ; 19 17 29 ; diameter=29)
+(; 3 ; 15 18 ; 23 26 8 ; diameter=26)
+(; 4 ; 7 11 ; 20 24 13 ; diameter=24)
+(; 5 ; 9 14 ; 25 30 16 ; diameter=30)
+All Components Size 4
+Perfect Forest: 
+(; 1 ; 13 14 ; 29 30 16 ; diameter=30)
+(; 2 ; 10 12 ; 18 20 8 ; diameter=20)
+(; 3 ; 19 22 ; 24 27 5 ; diameter=27)
+(; 4 ; 7 11 ; 21 25 28 ; diameter=28)
+(; 6 ; 9 15 ; 17 23 26 ; diameter=26)
+All Components Size 4
+Perfect Forest: 
+(; 1 ; 20 21 ; 25 26 5 ; diameter=26)
+(; 2 ; 10 12 ; 18 16 28 ; diameter=28)
+(; 3 ; 19 22 ; 27 30 8 ; diameter=30)
+(; 4 ; 7 11 ; 17 13 24 ; diameter=24)
+(; 6 ; 9 15 ; 23 29 14 ; diameter=29)
+All Components Size 4
+Perfect Forest: 
+(; 1 ; 25 26 ; 27 28 2 ; diameter=28)
+(; 3 ; 16 19 ; 21 24 5 ; diameter=24)
+(; 4 ; 7 11 ; 13 17 20 ; diameter=20)
+(; 6 ; 9 15 ; 23 29 14 ; diameter=29)
+(; 8 ; 10 18 ; 22 30 12 ; diameter=30)
+All Components Size 4
+Perfect Forest: 
+(; 1 ; 23 24 ; 26 27 3 ; diameter=27)
+(; 2 ; 10 12 ; 16 18 6 ; diameter=18)
+(; 4 ; 7 11 ; 21 25 28 ; diameter=28)
+(; 5 ; 14 19 ; 15 20 29 ; diameter=29)
+(; 8 ; 9 17 ; 22 30 13 ; diameter=30)
+All Components Size 4
+Perfect Forest: 
+(; 1 ; 24 25 ; 27 28 3 ; diameter=28)
+(; 2 ; 14 16 ; 20 22 6 ; diameter=22)
+(; 4 ; 7 11 ; 26 30 19 ; diameter=30)
+(; 5 ; 10 15 ; 13 18 23 ; diameter=23)
+(; 8 ; 9 17 ; 21 29 12 ; diameter=29)
+All Components Size 4
+Perfect Forest: 
+(; 1 ; 25 26 ; 27 28 2 ; diameter=28)
+(; 3 ; 12 15 ; 18 21 6 ; diameter=21)
+(; 4 ; 7 11 ; 16 20 23 ; diameter=23)
+(; 5 ; 14 19 ; 24 29 10 ; diameter=29)
+(; 8 ; 9 17 ; 22 30 13 ; diameter=30)
+All Components Size 4
+Perfect Forest: 
+(; 1 ; 15 16 ; 21 22 6 ; diameter=22)
+(; 2 ; 23 25 ; 28 30 5 ; diameter=30)
+(; 3 ; 14 17 ; 26 29 12 ; diameter=29)
+(; 4 ; 7 11 ; 20 24 13 ; diameter=24)
+(; 8 ; 10 18 ; 19 27 9 ; diameter=27)
+All Components Size 4
+Perfect Forest: 
+(; 1 ; 19 20 ; 28 29 9 ; diameter=29)
+(; 2 ; 13 15 ; 25 27 12 ; diameter=27)
+(; 3 ; 18 21 ; 23 26 5 ; diameter=26)
+(; 4 ; 7 11 ; 10 14 17 ; diameter=17)
+(; 6 ; 16 22 ; 24 30 8 ; diameter=30)
+All Components Size 4
+Perfect Forest: 
+(; 1 ; 22 23 ; 25 26 3 ; diameter=26)
+(; 2 ; 16 18 ; 28 30 12 ; diameter=30)
+(; 4 ; 7 11 ; 10 14 17 ; diameter=17)
+(; 5 ; 15 20 ; 24 29 9 ; diameter=29)
+(; 6 ; 13 19 ; 21 27 8 ; diameter=27)
+All Components Size 4
+Perfect Forest: 
+(; 1 ; 12 13 ; 15 16 3 ; diameter=16)
+(; 2 ; 20 22 ; 28 30 8 ; diameter=30)
+(; 4 ; 7 11 ; 21 25 14 ; diameter=25)
+(; 5 ; 18 23 ; 24 29 6 ; diameter=29)
+(; 9 ; 10 19 ; 17 26 27 ; diameter=27)
+All Components Size 4
+Perfect Forest: 
+(; 1 ; 8 9 ; 18 19 26 ; diameter=26)
+(; 2 ; 22 24 ; 28 30 6 ; diameter=30)
+(; 3 ; 10 13 ; 17 20 27 ; diameter=27)
+(; 4 ; 11 15 ; 25 29 14 ; diameter=29)
+(; 5 ; 7 12 ; 16 21 23 ; diameter=23)
+All Components Size 4
+Perfect Forest: 
+(; 1 ; 8 9 ; 26 27 18 ; diameter=27)
+(; 2 ; 20 22 ; 23 25 3 ; diameter=25)
+(; 4 ; 10 14 ; 19 15 29 ; diameter=29)
+(; 5 ; 7 12 ; 21 16 28 ; diameter=28)
+(; 6 ; 11 17 ; 24 30 13 ; diameter=30)
+All Components Size 4
+Perfect Forest: 
+(; 1 ; 8 9 ; 28 29 20 ; diameter=29)
+(; 2 ; 13 15 ; 24 26 11 ; diameter=26)
+(; 3 ; 16 19 ; 22 25 6 ; diameter=25)
+(; 4 ; 10 14 ; 17 21 27 ; diameter=27)
+(; 5 ; 7 12 ; 23 18 30 ; diameter=30)
+All Components Size 4
+Perfect Forest: 
+(; 1 ; 8 9 ; 17 16 25 ; diameter=25)
+(; 2 ; 11 13 ; 19 21 30 ; diameter=30)
+(; 3 ; 20 23 ; 26 29 6 ; diameter=29)
+(; 4 ; 14 18 ; 24 28 10 ; diameter=28)
+(; 5 ; 7 12 ; 22 27 15 ; diameter=27)
+All Components Size 4
+Perfect Forest: 
+(; 1 ; 8 9 ; 19 18 27 ; diameter=27)
+(; 2 ; 11 13 ; 17 15 28 ; diameter=28)
+(; 3 ; 22 25 ; 26 29 4 ; diameter=29)
+(; 5 ; 7 12 ; 16 21 23 ; diameter=23)
+(; 6 ; 14 20 ; 24 30 10 ; diameter=30)
+All Components Size 4
+Perfect Forest: 
+(; 1 ; 17 18 ; 20 21 3 ; diameter=21)
+(; 2 ; 8 10 ; 22 24 14 ; diameter=24)
+(; 4 ; 9 13 ; 15 19 6 ; diameter=19)
+(; 5 ; 7 12 ; 16 11 23 ; diameter=23)
+All Components Size 4
+Perfect Forest: 
+(; 1 ; 20 21 ; 23 24 3 ; diameter=24)
+(; 2 ; 8 10 ; 26 28 18 ; diameter=28)
+(; 4 ; 9 13 ; 15 19 6 ; diameter=19)
+(; 5 ; 7 12 ; 22 17 29 ; diameter=29)
+(; 11 ; 14 25 ; 16 27 30 ; diameter=30)
+All Components Size 4
+Perfect Forest: 
+(; 1 ; 23 24 ; 26 27 3 ; diameter=27)
+(; 2 ; 8 10 ; 13 11 21 ; diameter=21)
+(; 4 ; 14 18 ; 16 20 30 ; diameter=30)
+(; 5 ; 7 12 ; 22 17 29 ; diameter=29)
+(; 6 ; 9 15 ; 19 25 28 ; diameter=28)
+All Components Size 4
+Perfect Forest: 
+(; 1 ; 13 14 ; 24 25 11 ; diameter=25)
+(; 2 ; 8 10 ; 26 28 18 ; diameter=28)
+(; 3 ; 16 19 ; 20 23 4 ; diameter=23)
+(; 5 ; 7 12 ; 22 17 29 ; diameter=29)
+(; 6 ; 9 15 ; 21 27 30 ; diameter=30)
+All Components Size 4
+Perfect Forest: 
+(; 1 ; 17 18 ; 28 29 11 ; diameter=29)
+(; 2 ; 8 10 ; 16 14 24 ; diameter=24)
+(; 3 ; 19 22 ; 23 26 4 ; diameter=26)
+(; 5 ; 7 12 ; 20 25 13 ; diameter=25)
+(; 6 ; 9 15 ; 21 27 30 ; diameter=30)
+All Components Size 4
+Perfect Forest: 
+(; 1 ; 21 22 ; 27 28 6 ; diameter=28)
+(; 2 ; 8 10 ; 16 14 24 ; diameter=24)
+(; 3 ; 17 20 ; 26 29 9 ; diameter=29)
+(; 4 ; 11 15 ; 19 23 30 ; diameter=30)
+(; 5 ; 7 12 ; 18 13 25 ; diameter=25)
+All Components Size 4
+Perfect Forest: 
+(; 1 ; 25 26 ; 29 30 4 ; diameter=30)
+(; 2 ; 8 10 ; 19 21 27 ; diameter=27)
+(; 3 ; 14 17 ; 20 23 6 ; diameter=23)
+(; 5 ; 7 12 ; 11 16 18 ; diameter=18)
+(; 9 ; 13 22 ; 15 24 28 ; diameter=28)
+All Components Size 4
+Perfect Forest: 
+(; 1 ; 24 25 ; 26 27 2 ; diameter=27)
+(; 3 ; 8 11 ; 21 18 29 ; diameter=29)
+(; 4 ; 9 13 ; 19 23 28 ; diameter=28)
+(; 5 ; 7 12 ; 10 15 17 ; diameter=17)
+(; 6 ; 14 20 ; 16 22 30 ; diameter=30)
+All Components Size 4
+Perfect Forest: 
+(; 1 ; 18 19 ; 24 25 6 ; diameter=25)
+(; 2 ; 14 16 ; 27 29 13 ; diameter=29)
+(; 3 ; 8 11 ; 20 23 28 ; diameter=28)
+(; 4 ; 17 21 ; 26 30 9 ; diameter=30)
+(; 5 ; 7 12 ; 15 10 22 ; diameter=22)
+All Components Size 4
+Perfect Forest: 
+(; 1 ; 17 18 ; 26 27 9 ; diameter=27)
+(; 2 ; 14 16 ; 20 22 6 ; diameter=22)
+(; 3 ; 8 11 ; 21 24 13 ; diameter=24)
+(; 4 ; 15 19 ; 25 29 10 ; diameter=29)
+(; 5 ; 7 12 ; 23 28 30 ; diameter=30)
+All Components Size 4
+Perfect Forest: 
+(; 1 ; 18 19 ; 21 22 3 ; diameter=22)
+(; 2 ; 23 25 ; 27 29 4 ; diameter=29)
+(; 5 ; 7 12 ; 8 13 15 ; diameter=15)
+(; 6 ; 10 16 ; 24 30 14 ; diameter=30)
+(; 9 ; 11 20 ; 17 26 28 ; diameter=28)
+All Components Size 4
+Perfect Forest: 
+(; 1 ; 10 11 ; 16 17 6 ; diameter=17)
+(; 2 ; 19 21 ; 22 24 3 ; diameter=24)
+(; 4 ; 9 13 ; 14 18 23 ; diameter=23)
+(; 5 ; 7 12 ; 15 20 8 ; diameter=20)
+All Components Size 4
+Perfect Forest: 
+(; 1 ; 13 14 ; 23 24 10 ; diameter=24)
+(; 2 ; 16 18 ; 27 29 11 ; diameter=29)
+(; 3 ; 19 22 ; 25 28 6 ; diameter=28)
+(; 4 ; 17 21 ; 26 30 9 ; diameter=30)
+(; 5 ; 7 12 ; 15 20 8 ; diameter=20)
+All Components Size 4
+Perfect Forest: 
+(; 1 ; 9 10 ; 20 21 11 ; diameter=21)
+(; 2 ; 24 26 ; 27 29 3 ; diameter=29)
+(; 4 ; 13 17 ; 15 19 28 ; diameter=28)
+(; 5 ; 7 12 ; 18 23 25 ; diameter=25)
+(; 6 ; 8 14 ; 22 16 30 ; diameter=30)
+All Components Size 4
+Perfect Forest: 
+(; 1 ; 9 10 ; 25 26 16 ; diameter=26)
+(; 2 ; 17 19 ; 20 22 3 ; diameter=22)
+(; 4 ; 11 15 ; 24 28 13 ; diameter=28)
+(; 5 ; 7 12 ; 23 18 30 ; diameter=30)
+(; 6 ; 8 14 ; 21 27 29 ; diameter=29)
+All Components Size 4
+Perfect Forest: 
+(; 1 ; 10 11 ; 19 18 29 ; diameter=29)
+(; 2 ; 23 25 ; 26 28 3 ; diameter=28)
+(; 4 ; 9 13 ; 21 17 30 ; diameter=30)
+(; 5 ; 7 12 ; 20 15 27 ; diameter=27)
+(; 6 ; 8 14 ; 16 22 24 ; diameter=24)
+All Components Size 4
+Perfect Forest: 
+(; 1 ; 19 20 ; 22 23 3 ; diameter=23)
+(; 2 ; 11 13 ; 15 17 4 ; diameter=17)
+(; 5 ; 7 12 ; 16 21 9 ; diameter=21)
+(; 6 ; 8 14 ; 18 24 10 ; diameter=24)
+All Components Size 4
+Perfect Forest: 
+(; 1 ; 26 27 ; 29 30 3 ; diameter=30)
+(; 2 ; 18 20 ; 22 24 4 ; diameter=24)
+(; 5 ; 7 12 ; 16 21 9 ; diameter=21)
+(; 6 ; 8 14 ; 11 17 19 ; diameter=19)
+(; 10 ; 13 23 ; 15 25 28 ; diameter=28)
+All Components Size 4
+Perfect Forest: 
+(; 1 ; 18 19 ; 29 30 11 ; diameter=30)
+(; 2 ; 23 25 ; 26 28 3 ; diameter=28)
+(; 4 ; 9 13 ; 17 21 8 ; diameter=21)
+(; 5 ; 7 12 ; 22 27 15 ; diameter=27)
+(; 6 ; 10 16 ; 14 20 24 ; diameter=24)
+All Components Size 4
+Perfect Forest: 
+(; 1 ; 9 10 ; 16 17 25 ; diameter=25)
+(; 2 ; 20 22 ; 24 26 4 ; diameter=26)
+(; 3 ; 11 14 ; 18 15 29 ; diameter=29)
+(; 5 ; 7 12 ; 23 28 30 ; diameter=30)
+(; 6 ; 13 19 ; 21 27 8 ; diameter=27)
+All Components Size 4
+Perfect Forest: 
+(; 1 ; 9 10 ; 16 17 25 ; diameter=25)
+(; 2 ; 18 20 ; 22 24 4 ; diameter=24)
+(; 3 ; 11 14 ; 26 29 15 ; diameter=29)
+(; 5 ; 7 12 ; 23 28 30 ; diameter=30)
+(; 6 ; 13 19 ; 21 27 8 ; diameter=27)
+All Components Size 4
+Perfect Forest: 
+(; 1 ; 9 10 ; 22 23 13 ; diameter=23)
+(; 2 ; 18 20 ; 26 28 8 ; diameter=28)
+(; 3 ; 11 14 ; 27 30 16 ; diameter=30)
+(; 4 ; 15 19 ; 21 25 6 ; diameter=25)
+(; 5 ; 7 12 ; 24 29 17 ; diameter=29)
+All Components Size 4
+Perfect Forest: 
+(; 1 ; 9 10 ; 22 23 13 ; diameter=23)
+(; 2 ; 17 19 ; 25 27 8 ; diameter=27)
+(; 3 ; 11 14 ; 18 15 29 ; diameter=29)
+(; 4 ; 20 24 ; 26 30 6 ; diameter=30)
+(; 5 ; 7 12 ; 21 16 28 ; diameter=28)
+All Components Size 4
+Perfect Forest: 
+(; 1 ; 9 10 ; 28 29 19 ; diameter=29)
+(; 2 ; 15 17 ; 21 23 6 ; diameter=23)
+(; 3 ; 11 14 ; 13 16 24 ; diameter=24)
+(; 4 ; 18 22 ; 26 30 8 ; diameter=30)
+(; 5 ; 7 12 ; 20 25 27 ; diameter=27)
+All Components Size 4
+Perfect Forest: 
+(; 1 ; 9 10 ; 17 16 26 ; diameter=26)
+(; 2 ; 22 24 ; 28 30 6 ; diameter=30)
+(; 3 ; 11 14 ; 18 21 29 ; diameter=29)
+(; 4 ; 15 19 ; 23 27 8 ; diameter=27)
+(; 5 ; 7 12 ; 20 25 13 ; diameter=25)
+All Components Size 4
+Perfect Forest: 
+(; 1 ; 9 10 ; 18 17 27 ; diameter=27)
+(; 2 ; 22 24 ; 26 28 4 ; diameter=28)
+(; 3 ; 11 14 ; 19 16 30 ; diameter=30)
+(; 5 ; 7 12 ; 20 25 13 ; diameter=25)
+(; 6 ; 15 21 ; 23 29 8 ; diameter=29)
+All Components Size 4
+Perfect Forest: 
+(; 1 ; 9 10 ; 27 28 18 ; diameter=28)
+(; 2 ; 17 19 ; 21 23 4 ; diameter=23)
+(; 3 ; 11 14 ; 26 29 15 ; diameter=29)
+(; 5 ; 7 12 ; 20 25 13 ; diameter=25)
+(; 6 ; 16 22 ; 24 30 8 ; diameter=30)
+All Components Size 4
+Perfect Forest: 
+(; 1 ; 20 21 ; 28 29 8 ; diameter=29)
+(; 2 ; 9 11 ; 24 26 15 ; diameter=26)
+(; 3 ; 16 19 ; 22 25 6 ; diameter=25)
+(; 4 ; 10 14 ; 17 13 27 ; diameter=27)
+(; 5 ; 7 12 ; 23 18 30 ; diameter=30)
+All Components Size 4
+Perfect Forest: 
+(; 1 ; 13 14 ; 16 17 3 ; diameter=17)
+(; 2 ; 9 11 ; 19 21 28 ; diameter=28)
+(; 4 ; 20 24 ; 26 30 6 ; diameter=30)
+(; 5 ; 7 12 ; 22 27 29 ; diameter=29)
+(; 8 ; 10 18 ; 15 23 25 ; diameter=25)
+All Components Size 4
+Perfect Forest: 
+(; 1 ; 10 11 ; 18 19 8 ; diameter=19)
+(; 2 ; 22 24 ; 25 27 3 ; diameter=27)
+(; 4 ; 9 13 ; 26 30 17 ; diameter=30)
+(; 5 ; 7 12 ; 23 28 16 ; diameter=28)
+(; 6 ; 14 20 ; 15 21 29 ; diameter=29)
+All Components Size 4
+Perfect Forest: 
+(; 1 ; 26 27 ; 29 30 3 ; diameter=30)
+(; 2 ; 17 19 ; 23 25 6 ; diameter=25)
+(; 4 ; 9 13 ; 11 15 20 ; diameter=20)
+(; 5 ; 7 12 ; 21 16 28 ; diameter=28)
+(; 8 ; 10 18 ; 14 22 24 ; diameter=24)
+All Components Size 4
+Perfect Forest: 
+(; 1 ; 14 15 ; 20 21 6 ; diameter=21)
+(; 2 ; 22 24 ; 25 27 3 ; diameter=27)
+(; 4 ; 9 13 ; 26 30 17 ; diameter=30)
+(; 5 ; 7 12 ; 23 28 16 ; diameter=28)
+(; 8 ; 10 18 ; 19 11 29 ; diameter=29)
+All Components Size 4
+Perfect Forest: 
+(; 1 ; 19 20 ; 22 23 3 ; diameter=23)
+(; 2 ; 11 13 ; 15 17 4 ; diameter=17)
+(; 5 ; 7 12 ; 14 9 21 ; diameter=21)
+(; 6 ; 10 16 ; 18 24 8 ; diameter=24)
+All Components Size 4
+Perfect Forest: 
+(; 1 ; 18 19 ; 24 25 6 ; diameter=25)
+(; 2 ; 20 22 ; 28 30 8 ; diameter=30)
+(; 3 ; 11 14 ; 26 29 15 ; diameter=29)
+(; 4 ; 13 17 ; 23 27 10 ; diameter=27)
+(; 5 ; 7 12 ; 16 21 9 ; diameter=21)
+All Components Size 4
+Perfect Forest: 
+(; 1 ; 24 25 ; 27 28 3 ; diameter=28)
+(; 2 ; 11 13 ; 19 17 30 ; diameter=30)
+(; 4 ; 10 14 ; 18 22 8 ; diameter=22)
+(; 5 ; 7 12 ; 16 21 23 ; diameter=23)
+(; 6 ; 9 15 ; 20 26 29 ; diameter=29)
+All Components Size 4
+Perfect Forest: 
+(; 1 ; 24 25 ; 26 27 2 ; diameter=27)
+(; 3 ; 13 16 ; 19 22 6 ; diameter=22)
+(; 4 ; 10 14 ; 11 15 21 ; diameter=21)
+(; 5 ; 7 12 ; 23 18 30 ; diameter=30)
+(; 8 ; 9 17 ; 20 28 29 ; diameter=29)
+All Components Size 4
+Perfect Forest: 
+(; 1 ; 10 11 ; 19 20 9 ; diameter=20)
+(; 2 ; 22 24 ; 26 28 4 ; diameter=28)
+(; 3 ; 13 16 ; 14 17 27 ; diameter=27)
+(; 5 ; 7 12 ; 25 30 18 ; diameter=30)
+(; 6 ; 15 21 ; 23 29 8 ; diameter=29)
+All Components Size 4
+Perfect Forest: 
+(; 1 ; 17 18 ; 25 26 8 ; diameter=26)
+(; 2 ; 11 13 ; 20 22 9 ; diameter=22)
+(; 3 ; 21 24 ; 27 30 6 ; diameter=30)
+(; 4 ; 10 14 ; 19 15 29 ; diameter=29)
+(; 5 ; 7 12 ; 23 28 16 ; diameter=28)
+All Components Size 4
+Perfect Forest: 
+(; 1 ; 15 16 ; 21 22 6 ; diameter=22)
+(; 2 ; 24 26 ; 27 29 3 ; diameter=29)
+(; 4 ; 10 14 ; 13 17 23 ; diameter=23)
+(; 5 ; 7 12 ; 25 30 18 ; diameter=30)
+(; 8 ; 11 19 ; 20 28 9 ; diameter=28)
+All Components Size 4
+Perfect Forest: 
+(; 1 ; 8 9 ; 26 27 18 ; diameter=27)
+(; 2 ; 10 12 ; 21 23 11 ; diameter=23)
+(; 3 ; 14 17 ; 16 19 30 ; diameter=30)
+(; 4 ; 20 24 ; 25 29 5 ; diameter=29)
+(; 6 ; 7 13 ; 22 28 15 ; diameter=28)
+All Components Size 4
+Perfect Forest: 
+(; 1 ; 8 9 ; 21 20 29 ; diameter=29)
+(; 2 ; 10 12 ; 26 28 16 ; diameter=28)
+(; 3 ; 19 22 ; 24 27 5 ; diameter=27)
+(; 4 ; 11 15 ; 14 18 25 ; diameter=25)
+(; 6 ; 7 13 ; 23 17 30 ; diameter=30)
+All Components Size 4
+Perfect Forest: 
+(; 1 ; 8 9 ; 20 21 28 ; diameter=28)
+(; 2 ; 10 12 ; 16 18 26 ; diameter=26)
+(; 3 ; 19 22 ; 24 27 5 ; diameter=27)
+(; 4 ; 11 15 ; 25 29 14 ; diameter=29)
+(; 6 ; 7 13 ; 23 17 30 ; diameter=30)
+All Components Size 4
+Perfect Forest: 
+(; 1 ; 8 9 ; 18 17 26 ; diameter=26)
+(; 2 ; 10 12 ; 19 21 29 ; diameter=29)
+(; 3 ; 20 23 ; 24 27 4 ; diameter=27)
+(; 5 ; 11 16 ; 25 30 14 ; diameter=30)
+(; 6 ; 7 13 ; 22 28 15 ; diameter=28)
+All Components Size 4
+Perfect Forest: 
+(; 1 ; 8 9 ; 17 16 25 ; diameter=25)
+(; 2 ; 10 12 ; 20 22 30 ; diameter=30)
+(; 3 ; 15 18 ; 26 29 11 ; diameter=29)
+(; 4 ; 19 23 ; 24 28 5 ; diameter=28)
+(; 6 ; 7 13 ; 21 27 14 ; diameter=27)
+All Components Size 4
+Perfect Forest: 
+(; 1 ; 8 9 ; 27 28 19 ; diameter=28)
+(; 2 ; 12 14 ; 18 20 30 ; diameter=30)
+(; 3 ; 22 25 ; 26 29 4 ; diameter=29)
+(; 5 ; 10 15 ; 11 16 21 ; diameter=21)
+(; 6 ; 7 13 ; 17 23 24 ; diameter=24)
+All Components Size 4
+Perfect Forest: 
+(; 1 ; 8 9 ; 20 21 12 ; diameter=21)
+(; 2 ; 17 19 ; 22 24 5 ; diameter=24)
+(; 3 ; 11 14 ; 15 18 4 ; diameter=18)
+(; 6 ; 7 13 ; 16 10 23 ; diameter=23)
+All Components Size 4
+Perfect Forest: 
+(; 1 ; 8 9 ; 21 20 29 ; diameter=29)
+(; 2 ; 22 24 ; 26 28 4 ; diameter=28)
+(; 3 ; 15 18 ; 27 30 12 ; diameter=30)
+(; 5 ; 11 16 ; 14 19 25 ; diameter=25)
+(; 6 ; 7 13 ; 17 23 10 ; diameter=23)
+All Components Size 4
+Perfect Forest: 
+(; 1 ; 8 9 ; 20 21 12 ; diameter=21)
+(; 2 ; 16 18 ; 26 28 10 ; diameter=28)
+(; 3 ; 19 22 ; 24 27 5 ; diameter=27)
+(; 4 ; 11 15 ; 25 29 14 ; diameter=29)
+(; 6 ; 7 13 ; 23 17 30 ; diameter=30)
+All Components Size 4
+Perfect Forest: 
+(; 1 ; 8 9 ; 28 29 20 ; diameter=29)
+(; 2 ; 12 14 ; 16 18 4 ; diameter=18)
+(; 3 ; 19 22 ; 24 27 5 ; diameter=27)
+(; 6 ; 7 13 ; 23 17 30 ; diameter=30)
+(; 10 ; 11 21 ; 15 25 26 ; diameter=26)
+All Components Size 4
+Perfect Forest: 
+(; 1 ; 8 9 ; 27 28 19 ; diameter=28)
+(; 2 ; 12 14 ; 22 24 10 ; diameter=24)
+(; 3 ; 15 18 ; 26 29 11 ; diameter=29)
+(; 4 ; 16 20 ; 21 25 5 ; diameter=25)
+(; 6 ; 7 13 ; 23 17 30 ; diameter=30)
+All Components Size 4
+Perfect Forest: 
+(; 1 ; 21 22 ; 26 27 5 ; diameter=27)
+(; 2 ; 8 10 ; 28 30 20 ; diameter=30)
+(; 3 ; 9 12 ; 16 19 25 ; diameter=25)
+(; 4 ; 11 15 ; 18 14 29 ; diameter=29)
+(; 6 ; 7 13 ; 17 23 24 ; diameter=24)
+All Components Size 4
+Perfect Forest: 
+(; 1 ; 23 24 ; 27 28 4 ; diameter=28)
+(; 2 ; 8 10 ; 18 16 26 ; diameter=26)
+(; 3 ; 9 12 ; 20 17 29 ; diameter=29)
+(; 5 ; 14 19 ; 25 30 11 ; diameter=30)
+(; 6 ; 7 13 ; 15 21 22 ; diameter=22)
+All Components Size 4
+Perfect Forest: 
+(; 1 ; 22 23 ; 26 27 4 ; diameter=27)
+(; 2 ; 8 10 ; 16 18 24 ; diameter=24)
+(; 3 ; 9 12 ; 20 17 29 ; diameter=29)
+(; 5 ; 14 19 ; 25 30 11 ; diameter=30)
+(; 6 ; 7 13 ; 21 15 28 ; diameter=28)
+All Components Size 4
+Perfect Forest: 
+(; 1 ; 24 25 ; 27 28 3 ; diameter=28)
+(; 2 ; 8 10 ; 18 20 26 ; diameter=26)
+(; 4 ; 11 15 ; 19 23 30 ; diameter=30)
+(; 5 ; 9 14 ; 12 17 21 ; diameter=21)
+(; 6 ; 7 13 ; 22 16 29 ; diameter=29)
+All Components Size 4
+Perfect Forest: 
+(; 1 ; 23 24 ; 26 27 3 ; diameter=27)
+(; 2 ; 8 10 ; 20 18 28 ; diameter=28)
+(; 4 ; 12 16 ; 17 21 29 ; diameter=29)
+(; 5 ; 14 19 ; 25 30 11 ; diameter=30)
+(; 6 ; 7 13 ; 15 9 22 ; diameter=22)
+All Components Size 4
+Perfect Forest: 
+(; 1 ; 11 12 ; 14 15 25 ; diameter=25)
+(; 2 ; 8 10 ; 20 18 28 ; diameter=28)
+(; 3 ; 19 22 ; 24 27 5 ; diameter=27)
+(; 4 ; 17 21 ; 26 30 9 ; diameter=30)
+(; 6 ; 7 13 ; 23 29 16 ; diameter=29)
+All Components Size 4
+Perfect Forest: 
+(; 1 ; 9 10 ; 29 30 20 ; diameter=30)
+(; 2 ; 21 23 ; 26 28 5 ; diameter=28)
+(; 3 ; 8 11 ; 14 17 22 ; diameter=22)
+(; 4 ; 12 16 ; 15 19 27 ; diameter=27)
+(; 6 ; 7 13 ; 18 24 25 ; diameter=25)
+All Components Size 4
+Perfect Forest: 
+(; 1 ; 18 19 ; 23 24 5 ; diameter=24)
+(; 2 ; 10 12 ; 14 16 4 ; diameter=16)
+(; 3 ; 8 11 ; 17 20 9 ; diameter=20)
+(; 6 ; 7 13 ; 15 21 22 ; diameter=22)
+All Components Size 4
+Perfect Forest: 
+(; 1 ; 23 24 ; 25 26 2 ; diameter=26)
+(; 3 ; 8 11 ; 17 20 9 ; diameter=20)
+(; 4 ; 12 16 ; 18 22 30 ; diameter=30)
+(; 5 ; 10 15 ; 19 14 29 ; diameter=29)
+(; 6 ; 7 13 ; 21 27 28 ; diameter=28)
+All Components Size 4
+Perfect Forest: 
+(; 1 ; 19 20 ; 23 24 4 ; diameter=24)
+(; 2 ; 10 12 ; 17 15 27 ; diameter=27)
+(; 3 ; 8 11 ; 18 21 26 ; diameter=26)
+(; 5 ; 9 14 ; 25 30 16 ; diameter=30)
+(; 6 ; 7 13 ; 22 28 29 ; diameter=29)
+All Components Size 4
+Perfect Forest: 
+(; 1 ; 21 22 ; 25 26 4 ; diameter=26)
+(; 2 ; 10 12 ; 18 16 28 ; diameter=28)
+(; 3 ; 8 11 ; 27 30 19 ; diameter=30)
+(; 5 ; 9 14 ; 20 15 29 ; diameter=29)
+(; 6 ; 7 13 ; 17 23 24 ; diameter=24)
+All Components Size 4
+Perfect Forest: 
+(; 1 ; 21 22 ; 25 26 4 ; diameter=26)
+(; 2 ; 10 12 ; 28 30 18 ; diameter=30)
+(; 3 ; 8 11 ; 19 16 27 ; diameter=27)
+(; 5 ; 9 14 ; 20 15 29 ; diameter=29)
+(; 6 ; 7 13 ; 17 23 24 ; diameter=24)
+All Components Size 4
+Perfect Forest: 
+(; 1 ; 21 22 ; 25 26 4 ; diameter=26)
+(; 2 ; 10 12 ; 18 20 28 ; diameter=28)
+(; 3 ; 8 11 ; 19 16 27 ; diameter=27)
+(; 5 ; 9 14 ; 24 29 15 ; diameter=29)
+(; 6 ; 7 13 ; 23 17 30 ; diameter=30)
+All Components Size 4
+Perfect Forest: 
+(; 1 ; 19 20 ; 23 24 4 ; diameter=24)
+(; 2 ; 10 12 ; 27 29 17 ; diameter=29)
+(; 3 ; 8 11 ; 18 21 26 ; diameter=26)
+(; 5 ; 9 14 ; 25 30 16 ; diameter=30)
+(; 6 ; 7 13 ; 22 28 15 ; diameter=28)
+All Components Size 4
+Perfect Forest: 
+(; 1 ; 23 24 ; 27 28 4 ; diameter=28)
+(; 2 ; 12 14 ; 17 19 29 ; diameter=29)
+(; 3 ; 8 11 ; 18 21 26 ; diameter=26)
+(; 5 ; 10 15 ; 20 25 30 ; diameter=30)
+(; 6 ; 7 13 ; 16 22 9 ; diameter=22)
+All Components Size 4
+Perfect Forest: 
+(; 1 ; 23 24 ; 27 28 4 ; diameter=28)
+(; 2 ; 12 14 ; 17 19 29 ; diameter=29)
+(; 3 ; 8 11 ; 18 21 26 ; diameter=26)
+(; 5 ; 15 20 ; 25 30 10 ; diameter=30)
+(; 6 ; 7 13 ; 16 22 9 ; diameter=22)
+All Components Size 4
+Perfect Forest: 
+(; 1 ; 23 24 ; 25 26 2 ; diameter=26)
+(; 3 ; 8 11 ; 20 17 28 ; diameter=28)
+(; 4 ; 10 14 ; 15 19 5 ; diameter=19)
+(; 6 ; 7 13 ; 22 16 29 ; diameter=29)
+(; 9 ; 12 21 ; 18 27 30 ; diameter=30)
+All Components Size 4
+Perfect Forest: 
+(; 1 ; 17 18 ; 22 23 5 ; diameter=23)
+(; 2 ; 10 12 ; 24 26 14 ; diameter=26)
+(; 3 ; 8 11 ; 27 30 19 ; diameter=30)
+(; 4 ; 16 20 ; 25 29 9 ; diameter=29)
+(; 6 ; 7 13 ; 21 15 28 ; diameter=28)
+All Components Size 4
+Perfect Forest: 
+(; 1 ; 21 22 ; 26 27 5 ; diameter=27)
+(; 2 ; 10 12 ; 20 18 30 ; diameter=30)
+(; 3 ; 8 11 ; 17 14 25 ; diameter=25)
+(; 4 ; 15 19 ; 24 28 9 ; diameter=28)
+(; 6 ; 7 13 ; 23 29 16 ; diameter=29)
+All Components Size 4
+Perfect Forest: 
+(; 1 ; 22 23 ; 27 28 5 ; diameter=28)
+(; 2 ; 15 17 ; 24 26 9 ; diameter=26)
+(; 3 ; 8 11 ; 21 18 29 ; diameter=29)
+(; 4 ; 10 14 ; 20 16 30 ; diameter=30)
+(; 6 ; 7 13 ; 19 25 12 ; diameter=25)
+All Components Size 4
+Perfect Forest: 
+(; 1 ; 21 22 ; 25 26 4 ; diameter=26)
+(; 2 ; 12 14 ; 16 18 28 ; diameter=28)
+(; 3 ; 8 11 ; 27 30 19 ; diameter=30)
+(; 5 ; 15 20 ; 24 29 9 ; diameter=29)
+(; 6 ; 7 13 ; 17 23 10 ; diameter=23)
+All Components Size 4
+Perfect Forest: 
+(; 1 ; 24 25 ; 29 30 5 ; diameter=30)
+(; 2 ; 12 14 ; 16 18 4 ; diameter=18)
+(; 3 ; 8 11 ; 20 23 28 ; diameter=28)
+(; 6 ; 7 13 ; 15 21 22 ; diameter=22)
+(; 9 ; 10 19 ; 17 26 27 ; diameter=27)
+All Components Size 4
+Perfect Forest: 
+(; 1 ; 21 22 ; 26 27 5 ; diameter=27)
+(; 2 ; 12 14 ; 16 18 4 ; diameter=18)
+(; 3 ; 8 11 ; 20 17 28 ; diameter=28)
+(; 6 ; 7 13 ; 23 29 30 ; diameter=30)
+(; 9 ; 10 19 ; 15 24 25 ; diameter=25)
+All Components Size 4
+Perfect Forest: 
+(; 1 ; 24 25 ; 27 28 3 ; diameter=28)
+(; 2 ; 9 11 ; 21 23 30 ; diameter=30)
+(; 4 ; 8 12 ; 18 22 26 ; diameter=26)
+(; 5 ; 14 19 ; 15 20 29 ; diameter=29)
+(; 6 ; 7 13 ; 10 16 17 ; diameter=17)
+All Components Size 4
+Perfect Forest: 
+(; 1 ; 14 15 ; 25 26 11 ; diameter=26)
+(; 2 ; 18 20 ; 28 30 10 ; diameter=30)
+(; 3 ; 19 22 ; 24 27 5 ; diameter=27)
+(; 4 ; 8 12 ; 17 21 9 ; diameter=21)
+(; 6 ; 7 13 ; 23 29 16 ; diameter=29)
+All Components Size 4
+Perfect Forest: 
+(; 1 ; 20 21 ; 23 24 3 ; diameter=24)
+(; 2 ; 17 19 ; 27 29 10 ; diameter=29)
+(; 4 ; 8 12 ; 26 30 18 ; diameter=30)
+(; 5 ; 9 14 ; 16 11 25 ; diameter=25)
+(; 6 ; 7 13 ; 22 28 15 ; diameter=28)
+All Components Size 4
+Perfect Forest: 
+(; 1 ; 23 24 ; 26 27 3 ; diameter=27)
+(; 2 ; 18 20 ; 28 30 10 ; diameter=30)
+(; 4 ; 8 12 ; 21 17 29 ; diameter=29)
+(; 5 ; 11 16 ; 14 19 25 ; diameter=25)
+(; 6 ; 7 13 ; 15 9 22 ; diameter=22)
+All Components Size 4
+Perfect Forest: 
+(; 1 ; 19 20 ; 24 25 5 ; diameter=25)
+(; 2 ; 15 17 ; 26 28 11 ; diameter=28)
+(; 3 ; 18 21 ; 27 30 9 ; diameter=30)
+(; 4 ; 8 12 ; 14 10 22 ; diameter=22)
+(; 6 ; 7 13 ; 23 29 16 ; diameter=29)
+All Components Size 4
+Perfect Forest: 
+(; 1 ; 20 21 ; 25 26 5 ; diameter=26)
+(; 2 ; 17 19 ; 28 30 11 ; diameter=30)
+(; 3 ; 15 18 ; 24 27 9 ; diameter=27)
+(; 4 ; 8 12 ; 14 10 22 ; diameter=22)
+(; 6 ; 7 13 ; 23 29 16 ; diameter=29)
+All Components Size 4
+Perfect Forest: 
+(; 1 ; 19 20 ; 28 29 9 ; diameter=29)
+(; 2 ; 22 24 ; 25 27 3 ; diameter=27)
+(; 4 ; 8 12 ; 18 14 26 ; diameter=26)
+(; 5 ; 10 15 ; 11 16 21 ; diameter=21)
+(; 6 ; 7 13 ; 23 17 30 ; diameter=30)
+All Components Size 4
+Perfect Forest: 
+(; 1 ; 24 25 ; 27 28 3 ; diameter=28)
+(; 2 ; 15 17 ; 20 22 5 ; diameter=22)
+(; 4 ; 8 12 ; 18 14 26 ; diameter=26)
+(; 6 ; 7 13 ; 23 29 16 ; diameter=29)
+(; 9 ; 10 19 ; 21 30 11 ; diameter=30)
+All Components Size 4
+Perfect Forest: 
+(; 1 ; 26 27 ; 29 30 3 ; diameter=30)
+(; 2 ; 16 18 ; 20 22 4 ; diameter=22)
+(; 5 ; 12 17 ; 23 28 11 ; diameter=28)
+(; 6 ; 7 13 ; 14 8 21 ; diameter=21)
+(; 9 ; 10 19 ; 15 24 25 ; diameter=25)
+All Components Size 4
+Perfect Forest: 
+(; 1 ; 11 12 ; 18 17 29 ; diameter=29)
+(; 2 ; 22 24 ; 25 27 3 ; diameter=27)
+(; 4 ; 16 20 ; 26 30 10 ; diameter=30)
+(; 5 ; 14 19 ; 23 28 9 ; diameter=28)
+(; 6 ; 7 13 ; 15 21 8 ; diameter=21)
+All Components Size 4
+Perfect Forest: 
+(; 1 ; 9 10 ; 19 18 28 ; diameter=28)
+(; 2 ; 24 26 ; 27 29 3 ; diameter=29)
+(; 4 ; 11 15 ; 12 16 23 ; diameter=23)
+(; 5 ; 17 22 ; 25 30 8 ; diameter=30)
+(; 6 ; 7 13 ; 14 20 21 ; diameter=21)
+All Components Size 4
+Perfect Forest: 
+(; 1 ; 9 10 ; 29 30 20 ; diameter=30)
+(; 2 ; 21 23 ; 26 28 5 ; diameter=28)
+(; 3 ; 14 17 ; 22 25 8 ; diameter=25)
+(; 4 ; 12 16 ; 15 19 27 ; diameter=27)
+(; 6 ; 7 13 ; 18 24 11 ; diameter=24)
+All Components Size 4
+Perfect Forest: 
+(; 1 ; 22 23 ; 27 28 5 ; diameter=28)
+(; 2 ; 9 11 ; 15 17 24 ; diameter=24)
+(; 3 ; 18 21 ; 26 29 8 ; diameter=29)
+(; 4 ; 10 14 ; 20 16 30 ; diameter=30)
+(; 6 ; 7 13 ; 19 25 12 ; diameter=25)
+All Components Size 4
+Perfect Forest: 
+(; 1 ; 24 25 ; 27 28 3 ; diameter=28)
+(; 2 ; 9 11 ; 21 23 12 ; diameter=23)
+(; 4 ; 18 22 ; 26 30 8 ; diameter=30)
+(; 5 ; 14 19 ; 15 20 29 ; diameter=29)
+(; 6 ; 7 13 ; 10 16 17 ; diameter=17)
+All Components Size 4
+Perfect Forest: 
+(; 1 ; 20 21 ; 25 26 5 ; diameter=26)
+(; 2 ; 17 19 ; 28 30 11 ; diameter=30)
+(; 3 ; 9 12 ; 24 27 15 ; diameter=27)
+(; 4 ; 10 14 ; 18 22 8 ; diameter=22)
+(; 6 ; 7 13 ; 23 29 16 ; diameter=29)
+All Components Size 4
+Perfect Forest: 
+(; 1 ; 20 21 ; 28 29 8 ; diameter=29)
+(; 2 ; 10 12 ; 17 15 27 ; diameter=27)
+(; 3 ; 19 22 ; 23 26 4 ; diameter=26)
+(; 5 ; 9 14 ; 25 30 16 ; diameter=30)
+(; 6 ; 7 13 ; 18 24 11 ; diameter=24)
+All Components Size 4
+Perfect Forest: 
+(; 1 ; 23 24 ; 26 27 3 ; diameter=27)
+(; 2 ; 15 17 ; 19 21 4 ; diameter=21)
+(; 5 ; 9 14 ; 16 11 25 ; diameter=25)
+(; 6 ; 7 13 ; 22 28 29 ; diameter=29)
+(; 8 ; 10 18 ; 20 12 30 ; diameter=30)
+All Components Size 4
+Perfect Forest: 
+(; 1 ; 23 24 ; 26 27 3 ; diameter=27)
+(; 2 ; 10 12 ; 18 20 28 ; diameter=28)
+(; 4 ; 17 21 ; 25 29 8 ; diameter=29)
+(; 5 ; 11 16 ; 19 14 30 ; diameter=30)
+(; 6 ; 7 13 ; 15 9 22 ; diameter=22)
+All Components Size 4
+Perfect Forest: 
+(; 1 ; 10 11 ; 18 19 8 ; diameter=19)
+(; 2 ; 23 25 ; 28 30 5 ; diameter=30)
+(; 3 ; 17 20 ; 21 24 4 ; diameter=24)
+(; 6 ; 7 13 ; 16 22 9 ; diameter=22)
+(; 12 ; 14 26 ; 15 27 29 ; diameter=29)
+All Components Size 4
+Perfect Forest: 
+(; 1 ; 11 12 ; 15 14 26 ; diameter=26)
+(; 2 ; 23 25 ; 28 30 5 ; diameter=30)
+(; 3 ; 17 20 ; 21 24 4 ; diameter=24)
+(; 6 ; 7 13 ; 16 22 9 ; diameter=22)
+(; 8 ; 10 18 ; 19 27 29 ; diameter=29)
+All Components Size 4
+Perfect Forest: 
+(; 1 ; 14 15 ; 26 27 12 ; diameter=27)
+(; 2 ; 23 25 ; 28 30 5 ; diameter=30)
+(; 3 ; 17 20 ; 21 24 4 ; diameter=24)
+(; 6 ; 7 13 ; 16 22 9 ; diameter=22)
+(; 8 ; 10 18 ; 19 11 29 ; diameter=29)
+All Components Size 4
+Perfect Forest: 
+(; 1 ; 24 25 ; 29 30 5 ; diameter=30)
+(; 2 ; 16 18 ; 20 22 4 ; diameter=22)
+(; 3 ; 11 14 ; 23 26 12 ; diameter=26)
+(; 6 ; 7 13 ; 21 15 28 ; diameter=28)
+(; 8 ; 9 17 ; 19 27 10 ; diameter=27)
+All Components Size 4
+Perfect Forest: 
+(; 1 ; 11 12 ; 15 14 26 ; diameter=26)
+(; 2 ; 23 25 ; 28 30 5 ; diameter=30)
+(; 3 ; 17 20 ; 21 24 4 ; diameter=24)
+(; 6 ; 7 13 ; 22 16 29 ; diameter=29)
+(; 8 ; 10 18 ; 19 27 9 ; diameter=27)
+All Components Size 4
+Perfect Forest: 
+(; 1 ; 23 24 ; 26 27 3 ; diameter=27)
+(; 2 ; 20 22 ; 28 30 8 ; diameter=30)
+(; 4 ; 12 16 ; 21 25 9 ; diameter=25)
+(; 5 ; 10 15 ; 19 14 29 ; diameter=29)
+(; 6 ; 7 13 ; 11 17 18 ; diameter=18)
+All Components Size 4
+Perfect Forest: 
+(; 1 ; 8 9 ; 14 15 6 ; diameter=15)
+(; 2 ; 20 22 ; 25 27 5 ; diameter=27)
+(; 3 ; 10 13 ; 16 19 26 ; diameter=26)
+(; 4 ; 17 21 ; 24 28 7 ; diameter=28)
+(; 11 ; 12 23 ; 18 29 30 ; diameter=30)
+All Components Size 4
+Perfect Forest: 
+(; 1 ; 8 9 ; 14 15 6 ; diameter=15)
+(; 2 ; 19 21 ; 24 26 5 ; diameter=26)
+(; 3 ; 10 13 ; 20 17 30 ; diameter=30)
+(; 4 ; 18 22 ; 25 29 7 ; diameter=29)
+(; 11 ; 12 23 ; 16 27 28 ; diameter=28)
+All Components Size 4
+Perfect Forest: 
+(; 1 ; 10 11 ; 18 19 28 ; diameter=28)
+(; 2 ; 22 24 ; 25 27 3 ; diameter=27)
+(; 4 ; 8 12 ; 13 17 5 ; diameter=17)
+(; 6 ; 9 15 ; 20 26 29 ; diameter=29)
+(; 7 ; 14 21 ; 16 23 30 ; diameter=30)
+All Components Size 4
+Perfect Forest: 
+(; 1 ; 18 19 ; 28 29 10 ; diameter=29)
+(; 2 ; 22 24 ; 25 27 3 ; diameter=27)
+(; 4 ; 8 12 ; 13 17 5 ; diameter=17)
+(; 6 ; 9 15 ; 20 26 11 ; diameter=26)
+(; 7 ; 14 21 ; 16 23 30 ; diameter=30)
+All Components Size 4
+Perfect Forest: 
+(; 1 ; 23 24 ; 25 26 2 ; diameter=26)
+(; 3 ; 17 20 ; 27 30 10 ; diameter=30)
+(; 4 ; 11 15 ; 18 22 29 ; diameter=29)
+(; 5 ; 8 13 ; 14 19 6 ; diameter=19)
+(; 7 ; 9 16 ; 21 28 12 ; diameter=28)
+All Components Size 4
+Perfect Forest: 
+(; 1 ; 8 9 ; 26 27 18 ; diameter=27)
+(; 2 ; 10 12 ; 13 11 23 ; diameter=23)
+(; 3 ; 14 17 ; 16 19 30 ; diameter=30)
+(; 4 ; 20 24 ; 25 29 5 ; diameter=29)
+(; 6 ; 15 21 ; 22 28 7 ; diameter=28)
+All Components Size 4
+Perfect Forest: 
+(; 1 ; 8 9 ; 18 17 26 ; diameter=26)
+(; 2 ; 12 14 ; 28 30 16 ; diameter=30)
+(; 3 ; 10 13 ; 21 24 11 ; diameter=24)
+(; 4 ; 19 23 ; 25 29 6 ; diameter=29)
+(; 5 ; 15 20 ; 22 27 7 ; diameter=27)
+All Components Size 4
+Perfect Forest: 
+(; 1 ; 8 9 ; 27 28 19 ; diameter=28)
+(; 2 ; 12 14 ; 17 15 29 ; diameter=29)
+(; 3 ; 10 13 ; 21 24 11 ; diameter=24)
+(; 4 ; 16 20 ; 22 26 6 ; diameter=26)
+(; 5 ; 18 23 ; 25 30 7 ; diameter=30)
+All Components Size 4
+Perfect Forest: 
+(; 1 ; 8 9 ; 21 22 29 ; diameter=29)
+(; 2 ; 12 14 ; 17 19 5 ; diameter=19)
+(; 3 ; 10 13 ; 25 28 15 ; diameter=28)
+(; 4 ; 20 24 ; 26 30 6 ; diameter=30)
+(; 7 ; 11 18 ; 16 23 27 ; diameter=27)
+All Components Size 4
+Perfect Forest: 
+(; 1 ; 8 9 ; 28 29 20 ; diameter=29)
+(; 2 ; 11 13 ; 14 16 25 ; diameter=25)
+(; 3 ; 18 21 ; 24 27 6 ; diameter=27)
+(; 4 ; 19 23 ; 26 30 7 ; diameter=30)
+(; 5 ; 10 15 ; 12 17 22 ; diameter=22)
+All Components Size 4
+Perfect Forest: 
+(; 1 ; 8 9 ; 14 13 22 ; diameter=22)
+(; 2 ; 16 18 ; 28 30 12 ; diameter=30)
+(; 3 ; 17 20 ; 24 27 7 ; diameter=27)
+(; 4 ; 19 23 ; 25 29 6 ; diameter=29)
+(; 5 ; 10 15 ; 21 26 11 ; diameter=26)
+All Components Size 4
+Perfect Forest: 
+(; 1 ; 8 9 ; 22 21 30 ; diameter=30)
+(; 2 ; 24 26 ; 27 29 3 ; diameter=29)
+(; 4 ; 12 16 ; 19 23 7 ; diameter=23)
+(; 5 ; 10 15 ; 18 13 28 ; diameter=28)
+(; 6 ; 11 17 ; 14 20 25 ; diameter=25)
+All Components Size 4
+Perfect Forest: 
+(; 1 ; 8 9 ; 21 22 29 ; diameter=29)
+(; 2 ; 11 13 ; 25 27 14 ; diameter=27)
+(; 3 ; 12 15 ; 17 20 5 ; diameter=20)
+(; 4 ; 19 23 ; 26 30 7 ; diameter=30)
+(; 6 ; 10 16 ; 18 24 28 ; diameter=28)
+All Components Size 4
+Perfect Forest: 
+(; 1 ; 8 9 ; 18 19 26 ; diameter=26)
+(; 2 ; 12 14 ; 27 29 15 ; diameter=29)
+(; 3 ; 21 24 ; 25 28 4 ; diameter=28)
+(; 5 ; 11 16 ; 17 22 6 ; diameter=22)
+(; 7 ; 13 20 ; 23 30 10 ; diameter=30)
+All Components Size 4
+Perfect Forest: 
+(; 1 ; 8 9 ; 28 29 20 ; diameter=29)
+(; 2 ; 12 14 ; 25 27 13 ; diameter=27)
+(; 3 ; 15 18 ; 19 22 4 ; diameter=22)
+(; 5 ; 11 16 ; 21 26 10 ; diameter=26)
+(; 6 ; 17 23 ; 24 30 7 ; diameter=30)
+All Components Size 4
+Perfect Forest: 
+(; 1 ; 8 9 ; 28 29 20 ; diameter=29)
+(; 2 ; 11 13 ; 14 16 25 ; diameter=25)
+(; 3 ; 15 18 ; 21 24 6 ; diameter=24)
+(; 4 ; 19 23 ; 26 30 7 ; diameter=30)
+(; 5 ; 12 17 ; 22 27 10 ; diameter=27)
+All Components Size 4
+Perfect Forest: 
+(; 1 ; 8 9 ; 13 14 21 ; diameter=21)
+(; 2 ; 17 19 ; 27 29 10 ; diameter=29)
+(; 3 ; 15 18 ; 22 25 7 ; diameter=25)
+(; 4 ; 20 24 ; 26 30 6 ; diameter=30)
+(; 5 ; 11 16 ; 23 28 12 ; diameter=28)
+All Components Size 4
+Perfect Forest: 
+(; 1 ; 21 22 ; 27 28 6 ; diameter=28)
+(; 2 ; 8 10 ; 16 14 24 ; diameter=24)
+(; 3 ; 9 12 ; 26 29 17 ; diameter=29)
+(; 4 ; 11 15 ; 19 23 30 ; diameter=30)
+(; 5 ; 13 18 ; 20 25 7 ; diameter=25)
+All Components Size 4
+Perfect Forest: 
+(; 1 ; 22 23 ; 29 30 7 ; diameter=30)
+(; 2 ; 8 10 ; 24 26 16 ; diameter=26)
+(; 3 ; 9 12 ; 18 21 27 ; diameter=27)
+(; 4 ; 11 15 ; 17 13 28 ; diameter=28)
+(; 5 ; 14 19 ; 20 25 6 ; diameter=25)
+All Components Size 4
+Perfect Forest: 
+(; 1 ; 21 22 ; 28 29 7 ; diameter=29)
+(; 2 ; 8 10 ; 18 20 26 ; diameter=26)
+(; 3 ; 9 12 ; 24 27 15 ; diameter=27)
+(; 4 ; 13 17 ; 19 23 6 ; diameter=23)
+(; 5 ; 11 16 ; 25 30 14 ; diameter=30)
+All Components Size 4
+Perfect Forest: 
+(; 1 ; 25 26 ; 29 30 4 ; diameter=30)
+(; 2 ; 8 10 ; 15 17 23 ; diameter=23)
+(; 3 ; 9 12 ; 19 22 28 ; diameter=28)
+(; 5 ; 11 16 ; 13 18 24 ; diameter=24)
+(; 6 ; 14 20 ; 21 27 7 ; diameter=27)
+All Components Size 4
+Perfect Forest: 
+(; 1 ; 23 24 ; 28 29 5 ; diameter=29)
+(; 2 ; 8 10 ; 18 16 26 ; diameter=26)
+(; 3 ; 11 14 ; 17 20 6 ; diameter=20)
+(; 4 ; 9 13 ; 21 25 30 ; diameter=30)
+(; 7 ; 12 19 ; 15 22 27 ; diameter=27)
+All Components Size 4
+Perfect Forest: 
+(; 1 ; 11 12 ; 28 29 17 ; diameter=29)
+(; 2 ; 8 10 ; 24 26 16 ; diameter=26)
+(; 3 ; 20 23 ; 27 30 7 ; diameter=30)
+(; 4 ; 15 19 ; 21 25 6 ; diameter=25)
+(; 5 ; 9 14 ; 13 18 22 ; diameter=22)
+All Components Size 4
+Perfect Forest: 
+(; 1 ; 21 22 ; 28 29 7 ; diameter=29)
+(; 2 ; 8 10 ; 24 26 16 ; diameter=26)
+(; 3 ; 15 18 ; 27 30 12 ; diameter=30)
+(; 4 ; 13 17 ; 19 23 6 ; diameter=23)
+(; 5 ; 9 14 ; 20 25 11 ; diameter=25)
+All Components Size 4
+Perfect Forest: 
+(; 1 ; 22 23 ; 28 29 6 ; diameter=29)
+(; 2 ; 8 10 ; 25 27 17 ; diameter=27)
+(; 3 ; 12 15 ; 16 19 4 ; diameter=19)
+(; 5 ; 9 14 ; 21 26 30 ; diameter=30)
+(; 7 ; 11 18 ; 13 20 24 ; diameter=24)
+All Components Size 4
+Perfect Forest: 
+(; 1 ; 22 23 ; 29 30 7 ; diameter=30)
+(; 2 ; 8 10 ; 20 18 28 ; diameter=28)
+(; 3 ; 13 16 ; 24 27 11 ; diameter=27)
+(; 4 ; 15 19 ; 21 25 6 ; diameter=25)
+(; 5 ; 9 14 ; 17 12 26 ; diameter=26)
+All Components Size 4
+Perfect Forest: 
+(; 1 ; 11 12 ; 28 29 17 ; diameter=29)
+(; 2 ; 8 10 ; 16 14 24 ; diameter=24)
+(; 3 ; 19 22 ; 23 26 4 ; diameter=26)
+(; 5 ; 13 18 ; 20 25 7 ; diameter=25)
+(; 6 ; 9 15 ; 21 27 30 ; diameter=30)
+All Components Size 4
+Perfect Forest: 
+(; 1 ; 11 12 ; 14 13 25 ; diameter=25)
+(; 2 ; 8 10 ; 26 28 18 ; diameter=28)
+(; 3 ; 16 19 ; 20 23 4 ; diameter=23)
+(; 5 ; 17 22 ; 24 29 7 ; diameter=29)
+(; 6 ; 9 15 ; 21 27 30 ; diameter=30)
+All Components Size 4
+Perfect Forest: 
+(; 1 ; 22 23 ; 29 30 7 ; diameter=30)
+(; 2 ; 8 10 ; 18 20 26 ; diameter=26)
+(; 3 ; 11 14 ; 24 27 13 ; diameter=27)
+(; 4 ; 12 16 ; 17 21 5 ; diameter=21)
+(; 6 ; 9 15 ; 19 25 28 ; diameter=28)
+All Components Size 4
+Perfect Forest: 
+(; 1 ; 24 25 ; 27 28 3 ; diameter=28)
+(; 2 ; 8 10 ; 14 12 22 ; diameter=22)
+(; 4 ; 19 23 ; 26 30 7 ; diameter=30)
+(; 5 ; 13 18 ; 16 21 29 ; diameter=29)
+(; 6 ; 9 15 ; 11 17 20 ; diameter=20)
+All Components Size 4
+Perfect Forest: 
+(; 1 ; 11 12 ; 15 16 26 ; diameter=26)
+(; 2 ; 8 10 ; 28 30 20 ; diameter=30)
+(; 3 ; 14 17 ; 21 24 7 ; diameter=24)
+(; 4 ; 19 23 ; 25 29 6 ; diameter=29)
+(; 5 ; 13 18 ; 22 27 9 ; diameter=27)
+All Components Size 4
+Perfect Forest: 
+(; 1 ; 12 13 ; 19 20 7 ; diameter=20)
+(; 2 ; 8 10 ; 24 26 16 ; diameter=26)
+(; 3 ; 18 21 ; 27 30 9 ; diameter=30)
+(; 4 ; 11 15 ; 25 29 14 ; diameter=29)
+(; 5 ; 17 22 ; 23 28 6 ; diameter=28)
+All Components Size 4
+Perfect Forest: 
+(; 1 ; 13 14 ; 20 21 7 ; diameter=21)
+(; 2 ; 8 10 ; 18 16 26 ; diameter=26)
+(; 3 ; 22 25 ; 27 30 5 ; diameter=30)
+(; 4 ; 15 19 ; 24 28 9 ; diameter=28)
+(; 6 ; 11 17 ; 23 29 12 ; diameter=29)
+All Components Size 4
+Perfect Forest: 
+(; 1 ; 9 10 ; 17 18 26 ; diameter=26)
+(; 2 ; 12 14 ; 28 30 16 ; diameter=30)
+(; 3 ; 8 11 ; 21 24 13 ; diameter=24)
+(; 4 ; 19 23 ; 25 29 6 ; diameter=29)
+(; 5 ; 15 20 ; 22 27 7 ; diameter=27)
+All Components Size 4
+Perfect Forest: 
+(; 1 ; 9 10 ; 28 29 19 ; diameter=29)
+(; 2 ; 12 14 ; 15 17 27 ; diameter=27)
+(; 3 ; 8 11 ; 21 24 13 ; diameter=24)
+(; 4 ; 16 20 ; 22 26 6 ; diameter=26)
+(; 5 ; 18 23 ; 25 30 7 ; diameter=30)
+All Components Size 4
+Perfect Forest: 
+(; 1 ; 19 20 ; 25 26 6 ; diameter=26)
+(; 2 ; 16 18 ; 28 30 12 ; diameter=30)
+(; 3 ; 8 11 ; 21 24 29 ; diameter=29)
+(; 4 ; 9 13 ; 23 27 14 ; diameter=27)
+(; 5 ; 10 15 ; 17 22 7 ; diameter=22)
+All Components Size 4
+Perfect Forest: 
+(; 1 ; 21 22 ; 27 28 6 ; diameter=28)
+(; 2 ; 16 18 ; 23 25 7 ; diameter=25)
+(; 3 ; 8 11 ; 12 15 20 ; diameter=20)
+(; 4 ; 9 13 ; 26 30 17 ; diameter=30)
+(; 5 ; 14 19 ; 24 29 10 ; diameter=29)
+All Components Size 4
+Perfect Forest: 
+(; 1 ; 20 21 ; 27 28 7 ; diameter=28)
+(; 2 ; 10 12 ; 16 18 26 ; diameter=26)
+(; 3 ; 8 11 ; 22 25 30 ; diameter=30)
+(; 4 ; 13 17 ; 19 23 6 ; diameter=23)
+(; 5 ; 9 14 ; 24 29 15 ; diameter=29)
+All Components Size 4
+Perfect Forest: 
+(; 1 ; 15 16 ; 22 23 7 ; diameter=23)
+(; 2 ; 10 12 ; 19 21 29 ; diameter=29)
+(; 3 ; 8 11 ; 25 28 17 ; diameter=28)
+(; 4 ; 20 24 ; 26 30 6 ; diameter=30)
+(; 5 ; 9 14 ; 18 13 27 ; diameter=27)
+All Components Size 4
+Perfect Forest: 
+(; 1 ; 12 13 ; 19 20 7 ; diameter=20)
+(; 2 ; 16 18 ; 26 28 10 ; diameter=28)
+(; 3 ; 8 11 ; 22 25 30 ; diameter=30)
+(; 4 ; 17 21 ; 23 27 6 ; diameter=27)
+(; 5 ; 9 14 ; 24 29 15 ; diameter=29)
+All Components Size 4
+Perfect Forest: 
+(; 1 ; 24 25 ; 29 30 5 ; diameter=30)
+(; 2 ; 20 22 ; 26 28 6 ; diameter=28)
+(; 3 ; 8 11 ; 15 18 23 ; diameter=23)
+(; 4 ; 10 14 ; 17 13 27 ; diameter=27)
+(; 7 ; 9 16 ; 12 19 21 ; diameter=21)
+All Components Size 4
+Perfect Forest: 
+(; 1 ; 22 23 ; 27 28 5 ; diameter=28)
+(; 2 ; 12 14 ; 13 15 25 ; diameter=25)
+(; 3 ; 8 11 ; 21 18 29 ; diameter=29)
+(; 4 ; 20 24 ; 26 30 6 ; diameter=30)
+(; 7 ; 9 16 ; 10 17 19 ; diameter=19)
+All Components Size 4
+Perfect Forest: 
+(; 1 ; 12 13 ; 17 18 5 ; diameter=18)
+(; 2 ; 20 22 ; 26 28 6 ; diameter=28)
+(; 3 ; 8 11 ; 24 27 16 ; diameter=27)
+(; 4 ; 15 19 ; 25 29 10 ; diameter=29)
+(; 7 ; 14 21 ; 23 30 9 ; diameter=30)
+All Components Size 4
+Perfect Forest: 
+(; 1 ; 24 25 ; 29 30 5 ; diameter=30)
+(; 2 ; 14 16 ; 20 22 6 ; diameter=22)
+(; 3 ; 8 11 ; 18 15 26 ; diameter=26)
+(; 4 ; 13 17 ; 23 27 10 ; diameter=27)
+(; 7 ; 12 19 ; 21 28 9 ; diameter=28)
+All Components Size 4
+Perfect Forest: 
+(; 1 ; 9 10 ; 27 28 18 ; diameter=28)
+(; 2 ; 15 17 ; 22 24 7 ; diameter=24)
+(; 3 ; 20 23 ; 26 29 6 ; diameter=29)
+(; 4 ; 8 12 ; 21 25 13 ; diameter=25)
+(; 5 ; 11 16 ; 19 14 30 ; diameter=30)
+All Components Size 4
+Perfect Forest: 
+(; 1 ; 24 25 ; 27 28 3 ; diameter=28)
+(; 2 ; 11 13 ; 19 21 30 ; diameter=30)
+(; 4 ; 8 12 ; 18 22 26 ; diameter=26)
+(; 5 ; 9 14 ; 20 15 29 ; diameter=29)
+(; 6 ; 10 16 ; 17 23 7 ; diameter=23)
+All Components Size 4
+Perfect Forest: 
+(; 1 ; 10 11 ; 18 17 28 ; diameter=28)
+(; 2 ; 19 21 ; 25 27 6 ; diameter=27)
+(; 3 ; 13 16 ; 20 23 7 ; diameter=23)
+(; 4 ; 8 12 ; 22 26 30 ; diameter=30)
+(; 5 ; 9 14 ; 24 29 15 ; diameter=29)
+All Components Size 4
+Perfect Forest: 
+(; 1 ; 10 11 ; 17 18 27 ; diameter=27)
+(; 2 ; 22 24 ; 28 30 6 ; diameter=30)
+(; 3 ; 16 19 ; 23 26 7 ; diameter=26)
+(; 4 ; 8 12 ; 21 25 13 ; diameter=25)
+(; 5 ; 9 14 ; 20 15 29 ; diameter=29)
+All Components Size 4
+Perfect Forest: 
+(; 1 ; 21 22 ; 28 29 7 ; diameter=29)
+(; 2 ; 18 20 ; 24 26 6 ; diameter=26)
+(; 3 ; 10 13 ; 27 30 17 ; diameter=30)
+(; 4 ; 8 12 ; 15 19 23 ; diameter=23)
+(; 5 ; 9 14 ; 16 11 25 ; diameter=25)
+All Components Size 4
+Perfect Forest: 
+(; 1 ; 17 18 ; 28 29 11 ; diameter=29)
+(; 2 ; 19 21 ; 25 27 6 ; diameter=27)
+(; 3 ; 13 16 ; 20 23 7 ; diameter=23)
+(; 4 ; 8 12 ; 22 26 30 ; diameter=30)
+(; 5 ; 9 14 ; 15 10 24 ; diameter=24)
+All Components Size 4
+Perfect Forest: 
+(; 1 ; 18 19 ; 23 24 5 ; diameter=24)
+(; 2 ; 25 27 ; 28 30 3 ; diameter=30)
+(; 4 ; 8 12 ; 14 10 22 ; diameter=22)
+(; 6 ; 11 17 ; 15 21 26 ; diameter=26)
+(; 7 ; 9 16 ; 20 13 29 ; diameter=29)
+All Components Size 4
+Perfect Forest: 
+(; 1 ; 9 10 ; 20 21 11 ; diameter=21)
+(; 2 ; 12 14 ; 27 29 15 ; diameter=29)
+(; 3 ; 16 19 ; 23 26 7 ; diameter=26)
+(; 4 ; 18 22 ; 24 28 6 ; diameter=28)
+(; 5 ; 8 13 ; 25 30 17 ; diameter=30)
+All Components Size 4
+Perfect Forest: 
+(; 1 ; 9 10 ; 29 30 20 ; diameter=30)
+(; 2 ; 14 16 ; 26 28 12 ; diameter=28)
+(; 3 ; 15 18 ; 22 25 7 ; diameter=25)
+(; 4 ; 17 21 ; 23 27 6 ; diameter=27)
+(; 5 ; 8 13 ; 19 24 11 ; diameter=24)
+All Components Size 4
+Perfect Forest: 
+(; 1 ; 25 26 ; 29 30 4 ; diameter=30)
+(; 2 ; 9 11 ; 14 16 23 ; diameter=23)
+(; 3 ; 18 21 ; 24 27 6 ; diameter=27)
+(; 5 ; 8 13 ; 20 15 28 ; diameter=28)
+(; 7 ; 10 17 ; 12 19 22 ; diameter=22)
+All Components Size 4
+Perfect Forest: 
+(; 1 ; 17 18 ; 27 28 10 ; diameter=28)
+(; 2 ; 9 11 ; 23 25 14 ; diameter=25)
+(; 3 ; 12 15 ; 19 22 7 ; diameter=22)
+(; 4 ; 20 24 ; 26 30 6 ; diameter=30)
+(; 5 ; 8 13 ; 21 16 29 ; diameter=29)
+All Components Size 4
+Perfect Forest: 
+(; 1 ; 14 15 ; 24 25 10 ; diameter=25)
+(; 2 ; 9 11 ; 19 17 28 ; diameter=28)
+(; 3 ; 20 23 ; 27 30 7 ; diameter=30)
+(; 4 ; 12 16 ; 18 22 6 ; diameter=22)
+(; 5 ; 8 13 ; 21 26 29 ; diameter=29)
+All Components Size 4
+Perfect Forest: 
+(; 1 ; 11 12 ; 18 19 29 ; diameter=29)
+(; 2 ; 22 24 ; 26 28 4 ; diameter=28)
+(; 3 ; 20 23 ; 27 30 7 ; diameter=30)
+(; 5 ; 8 13 ; 9 14 17 ; diameter=17)
+(; 6 ; 10 16 ; 15 21 25 ; diameter=25)
+All Components Size 4
+Perfect Forest: 
+(; 1 ; 21 22 ; 25 26 4 ; diameter=26)
+(; 2 ; 10 12 ; 28 30 18 ; diameter=30)
+(; 3 ; 17 20 ; 24 27 7 ; diameter=27)
+(; 5 ; 8 13 ; 11 16 19 ; diameter=19)
+(; 6 ; 9 15 ; 23 29 14 ; diameter=29)
+All Components Size 4
+Perfect Forest: 
+(; 1 ; 22 23 ; 29 30 7 ; diameter=30)
+(; 2 ; 10 12 ; 16 18 26 ; diameter=26)
+(; 3 ; 21 24 ; 25 28 4 ; diameter=28)
+(; 5 ; 8 13 ; 19 14 27 ; diameter=27)
+(; 6 ; 9 15 ; 11 17 20 ; diameter=20)
+All Components Size 4
+Perfect Forest: 
+(; 1 ; 26 27 ; 28 29 2 ; diameter=29)
+(; 3 ; 17 20 ; 21 24 4 ; diameter=24)
+(; 5 ; 8 13 ; 14 19 22 ; diameter=22)
+(; 6 ; 9 15 ; 16 10 25 ; diameter=25)
+(; 7 ; 11 18 ; 23 30 12 ; diameter=30)
+All Components Size 4
+Perfect Forest: 
+(; 1 ; 10 11 ; 15 14 25 ; diameter=25)
+(; 2 ; 21 23 ; 28 30 7 ; diameter=30)
+(; 3 ; 17 20 ; 26 29 9 ; diameter=29)
+(; 4 ; 12 16 ; 18 22 6 ; diameter=22)
+(; 5 ; 8 13 ; 19 24 27 ; diameter=27)
+All Components Size 4
+Perfect Forest: 
+(; 1 ; 10 11 ; 28 29 18 ; diameter=29)
+(; 2 ; 14 16 ; 23 25 9 ; diameter=25)
+(; 3 ; 21 24 ; 27 30 6 ; diameter=30)
+(; 4 ; 15 19 ; 22 26 7 ; diameter=26)
+(; 5 ; 8 13 ; 12 17 20 ; diameter=20)
+All Components Size 4
+Perfect Forest: 
+(; 1 ; 24 25 ; 26 27 2 ; diameter=27)
+(; 3 ; 12 15 ; 16 19 4 ; diameter=19)
+(; 5 ; 8 13 ; 22 17 30 ; diameter=30)
+(; 6 ; 14 20 ; 23 29 9 ; diameter=29)
+(; 7 ; 11 18 ; 21 28 10 ; diameter=28)
+All Components Size 4
+Perfect Forest: 
+(; 1 ; 9 10 ; 20 21 29 ; diameter=29)
+(; 2 ; 11 13 ; 15 17 4 ; diameter=17)
+(; 3 ; 22 25 ; 27 30 5 ; diameter=30)
+(; 6 ; 8 14 ; 18 24 26 ; diameter=26)
+(; 7 ; 12 19 ; 16 23 28 ; diameter=28)
+All Components Size 4
+Perfect Forest: 
+(; 1 ; 9 10 ; 20 21 29 ; diameter=29)
+(; 2 ; 11 13 ; 17 15 28 ; diameter=28)
+(; 3 ; 22 25 ; 27 30 5 ; diameter=30)
+(; 4 ; 12 16 ; 19 23 7 ; diameter=23)
+(; 6 ; 8 14 ; 18 24 26 ; diameter=26)
+All Components Size 4
+Perfect Forest: 
+(; 1 ; 9 10 ; 20 21 29 ; diameter=29)
+(; 2 ; 24 26 ; 28 30 4 ; diameter=30)
+(; 3 ; 15 18 ; 22 25 7 ; diameter=25)
+(; 5 ; 11 16 ; 12 17 23 ; diameter=23)
+(; 6 ; 8 14 ; 19 13 27 ; diameter=27)
+All Components Size 4
+Perfect Forest: 
+(; 1 ; 9 10 ; 20 19 29 ; diameter=29)
+(; 2 ; 24 26 ; 28 30 4 ; diameter=30)
+(; 3 ; 15 18 ; 22 25 7 ; diameter=25)
+(; 5 ; 11 16 ; 12 17 23 ; diameter=23)
+(; 6 ; 8 14 ; 21 27 13 ; diameter=27)
+All Components Size 4
+Perfect Forest: 
+(; 1 ; 9 10 ; 21 22 30 ; diameter=30)
+(; 2 ; 24 26 ; 27 29 3 ; diameter=29)
+(; 4 ; 12 16 ; 19 23 7 ; diameter=23)
+(; 5 ; 13 18 ; 15 20 28 ; diameter=28)
+(; 6 ; 8 14 ; 17 11 25 ; diameter=25)
+All Components Size 4
+Perfect Forest: 
+(; 1 ; 15 16 ; 22 23 7 ; diameter=23)
+(; 2 ; 9 11 ; 19 21 28 ; diameter=28)
+(; 3 ; 10 13 ; 27 30 17 ; diameter=30)
+(; 4 ; 20 24 ; 25 29 5 ; diameter=29)
+(; 6 ; 8 14 ; 18 12 26 ; diameter=26)
+All Components Size 4
+Perfect Forest: 
+(; 1 ; 24 25 ; 28 29 4 ; diameter=29)
+(; 2 ; 9 11 ; 21 19 30 ; diameter=30)
+(; 3 ; 13 16 ; 20 23 7 ; diameter=23)
+(; 5 ; 10 15 ; 17 22 27 ; diameter=27)
+(; 6 ; 8 14 ; 18 12 26 ; diameter=26)
+All Components Size 4
+Perfect Forest: 
+(; 1 ; 16 17 ; 27 28 11 ; diameter=28)
+(; 2 ; 20 22 ; 24 26 4 ; diameter=26)
+(; 3 ; 9 12 ; 10 13 19 ; diameter=19)
+(; 5 ; 18 23 ; 25 30 7 ; diameter=30)
+(; 6 ; 8 14 ; 21 15 29 ; diameter=29)
+All Components Size 4
+Perfect Forest: 
+(; 1 ; 24 25 ; 29 30 5 ; diameter=30)
+(; 2 ; 15 17 ; 19 21 4 ; diameter=21)
+(; 3 ; 9 12 ; 13 10 22 ; diameter=22)
+(; 6 ; 8 14 ; 20 26 28 ; diameter=28)
+(; 7 ; 11 18 ; 16 23 27 ; diameter=27)
+All Components Size 4
+Perfect Forest: 
+(; 1 ; 11 12 ; 18 19 29 ; diameter=29)
+(; 2 ; 23 25 ; 26 28 3 ; diameter=28)
+(; 4 ; 9 13 ; 21 17 30 ; diameter=30)
+(; 5 ; 15 20 ; 22 27 7 ; diameter=27)
+(; 6 ; 8 14 ; 16 10 24 ; diameter=24)
+All Components Size 4
+Perfect Forest: 
+(; 1 ; 11 12 ; 27 28 16 ; diameter=28)
+(; 2 ; 19 21 ; 24 26 5 ; diameter=26)
+(; 3 ; 10 13 ; 20 23 30 ; diameter=30)
+(; 4 ; 18 22 ; 25 29 7 ; diameter=29)
+(; 6 ; 8 14 ; 9 15 17 ; diameter=17)
+All Components Size 4
+Perfect Forest: 
+(; 1 ; 11 12 ; 27 28 16 ; diameter=28)
+(; 2 ; 19 21 ; 24 26 5 ; diameter=26)
+(; 3 ; 10 13 ; 20 17 30 ; diameter=30)
+(; 4 ; 18 22 ; 25 29 7 ; diameter=29)
+(; 6 ; 8 14 ; 15 9 23 ; diameter=23)
+All Components Size 4
+Perfect Forest: 
+(; 1 ; 11 12 ; 29 30 18 ; diameter=30)
+(; 2 ; 20 22 ; 25 27 5 ; diameter=27)
+(; 3 ; 10 13 ; 16 19 26 ; diameter=26)
+(; 4 ; 17 21 ; 24 28 7 ; diameter=28)
+(; 6 ; 8 14 ; 15 9 23 ; diameter=23)
+All Components Size 4
+Perfect Forest: 
+(; 1 ; 11 12 ; 19 18 30 ; diameter=30)
+(; 2 ; 20 22 ; 25 27 5 ; diameter=27)
+(; 3 ; 10 13 ; 26 29 16 ; diameter=29)
+(; 4 ; 17 21 ; 24 28 7 ; diameter=28)
+(; 6 ; 8 14 ; 15 9 23 ; diameter=23)
+All Components Size 4
+Perfect Forest: 
+(; 1 ; 12 13 ; 18 19 30 ; diameter=30)
+(; 2 ; 20 22 ; 27 29 7 ; diameter=29)
+(; 3 ; 21 24 ; 25 28 4 ; diameter=28)
+(; 5 ; 10 15 ; 16 11 26 ; diameter=26)
+(; 6 ; 8 14 ; 17 23 9 ; diameter=23)
+All Components Size 4
+Perfect Forest: 
+(; 1 ; 24 25 ; 29 30 5 ; diameter=30)
+(; 2 ; 17 19 ; 21 23 4 ; diameter=23)
+(; 3 ; 10 13 ; 12 15 22 ; diameter=22)
+(; 6 ; 8 14 ; 20 26 28 ; diameter=28)
+(; 7 ; 9 16 ; 18 11 27 ; diameter=27)
+All Components Size 4
+Perfect Forest: 
+(; 1 ; 26 27 ; 29 30 3 ; diameter=30)
+(; 2 ; 18 20 ; 22 24 4 ; diameter=24)
+(; 5 ; 10 15 ; 23 28 13 ; diameter=28)
+(; 6 ; 8 14 ; 17 11 25 ; diameter=25)
+(; 7 ; 9 16 ; 12 19 21 ; diameter=21)
+All Components Size 4
+Perfect Forest: 
+(; 1 ; 12 13 ; 17 18 5 ; diameter=18)
+(; 2 ; 21 23 ; 24 26 3 ; diameter=26)
+(; 4 ; 15 19 ; 25 29 10 ; diameter=29)
+(; 6 ; 8 14 ; 22 28 30 ; diameter=30)
+(; 7 ; 9 16 ; 20 27 11 ; diameter=27)
+All Components Size 4
+Perfect Forest: 
+(; 1 ; 11 12 ; 18 19 7 ; diameter=19)
+(; 2 ; 22 24 ; 26 28 4 ; diameter=28)
+(; 3 ; 10 13 ; 17 20 27 ; diameter=27)
+(; 5 ; 16 21 ; 25 30 9 ; diameter=30)
+(; 6 ; 8 14 ; 23 29 15 ; diameter=29)
+All Components Size 4
+Perfect Forest: 
+(; 1 ; 17 18 ; 21 22 4 ; diameter=22)
+(; 2 ; 9 11 ; 12 14 3 ; diameter=14)
+(; 5 ; 19 24 ; 25 30 6 ; diameter=30)
+(; 7 ; 8 15 ; 20 27 28 ; diameter=28)
+(; 10 ; 13 23 ; 16 26 29 ; diameter=29)
+All Components Size 4
+Perfect Forest: 
+(; 1 ; 9 10 ; 22 23 13 ; diameter=23)
+(; 2 ; 12 14 ; 16 18 4 ; diameter=18)
+(; 3 ; 21 24 ; 26 29 5 ; diameter=29)
+(; 6 ; 11 17 ; 19 25 30 ; diameter=30)
+(; 7 ; 8 15 ; 20 27 28 ; diameter=28)
+All Components Size 4
+Perfect Forest: 
+(; 1 ; 23 24 ; 26 27 3 ; diameter=27)
+(; 2 ; 9 11 ; 19 21 28 ; diameter=28)
+(; 4 ; 10 14 ; 16 20 6 ; diameter=20)
+(; 5 ; 12 17 ; 13 18 25 ; diameter=25)
+(; 7 ; 8 15 ; 22 29 30 ; diameter=30)
+All Components Size 4
+Perfect Forest: 
+(; 1 ; 21 22 ; 25 26 4 ; diameter=26)
+(; 2 ; 9 11 ; 10 12 19 ; diameter=19)
+(; 3 ; 13 16 ; 17 14 30 ; diameter=30)
+(; 5 ; 18 23 ; 24 29 6 ; diameter=29)
+(; 7 ; 8 15 ; 20 27 28 ; diameter=28)
+All Components Size 4
+Perfect Forest: 
+(; 1 ; 17 18 ; 21 22 4 ; diameter=22)
+(; 2 ; 9 11 ; 14 12 23 ; diameter=23)
+(; 3 ; 10 13 ; 26 29 16 ; diameter=29)
+(; 5 ; 19 24 ; 25 30 6 ; diameter=30)
+(; 7 ; 8 15 ; 20 27 28 ; diameter=28)
+All Components Size 4
+Perfect Forest: 
+(; 1 ; 22 23 ; 28 29 6 ; diameter=29)
+(; 2 ; 9 11 ; 18 16 27 ; diameter=27)
+(; 3 ; 10 13 ; 14 17 24 ; diameter=24)
+(; 4 ; 21 25 ; 26 30 5 ; diameter=30)
+(; 7 ; 8 15 ; 12 19 20 ; diameter=20)
+All Components Size 4
+Perfect Forest: 
+(; 1 ; 25 26 ; 28 29 3 ; diameter=29)
+(; 2 ; 9 11 ; 21 23 30 ; diameter=30)
+(; 4 ; 13 17 ; 18 22 5 ; diameter=22)
+(; 6 ; 10 16 ; 14 20 24 ; diameter=24)
+(; 7 ; 8 15 ; 19 12 27 ; diameter=27)
+All Components Size 4
+Perfect Forest: 
+(; 1 ; 12 13 ; 17 18 5 ; diameter=18)
+(; 2 ; 9 11 ; 25 27 16 ; diameter=27)
+(; 3 ; 19 22 ; 23 26 4 ; diameter=26)
+(; 6 ; 14 20 ; 24 30 10 ; diameter=30)
+(; 7 ; 8 15 ; 21 28 29 ; diameter=29)
+All Components Size 4
+Perfect Forest: 
+(; 1 ; 13 14 ; 16 17 3 ; diameter=17)
+(; 2 ; 9 11 ; 21 23 30 ; diameter=30)
+(; 4 ; 20 24 ; 25 29 5 ; diameter=29)
+(; 6 ; 12 18 ; 22 28 10 ; diameter=28)
+(; 7 ; 8 15 ; 19 26 27 ; diameter=27)
+All Components Size 4
+Perfect Forest: 
+(; 1 ; 17 18 ; 22 23 5 ; diameter=23)
+(; 2 ; 14 16 ; 25 27 11 ; diameter=27)
+(; 3 ; 9 12 ; 10 13 19 ; diameter=19)
+(; 4 ; 20 24 ; 26 30 6 ; diameter=30)
+(; 7 ; 8 15 ; 21 28 29 ; diameter=29)
+All Components Size 4
+Perfect Forest: 
+(; 1 ; 24 25 ; 26 27 2 ; diameter=27)
+(; 3 ; 9 12 ; 21 18 30 ; diameter=30)
+(; 4 ; 10 14 ; 19 23 29 ; diameter=29)
+(; 5 ; 11 16 ; 17 22 6 ; diameter=22)
+(; 7 ; 8 15 ; 20 13 28 ; diameter=28)
+All Components Size 4
+Perfect Forest: 
+(; 1 ; 11 12 ; 17 16 28 ; diameter=28)
+(; 2 ; 18 20 ; 24 26 6 ; diameter=26)
+(; 3 ; 22 25 ; 27 30 5 ; diameter=30)
+(; 4 ; 9 13 ; 19 23 10 ; diameter=23)
+(; 7 ; 8 15 ; 21 14 29 ; diameter=29)
+All Components Size 4
+Perfect Forest: 
+(; 1 ; 11 12 ; 29 30 18 ; diameter=30)
+(; 2 ; 20 22 ; 26 28 6 ; diameter=28)
+(; 3 ; 16 19 ; 21 24 5 ; diameter=24)
+(; 4 ; 9 13 ; 23 27 14 ; diameter=27)
+(; 7 ; 8 15 ; 17 10 25 ; diameter=25)
+All Components Size 4
+Perfect Forest: 
+(; 1 ; 10 11 ; 13 12 23 ; diameter=23)
+(; 2 ; 16 18 ; 25 27 9 ; diameter=27)
+(; 3 ; 14 17 ; 19 22 5 ; diameter=22)
+(; 4 ; 20 24 ; 26 30 6 ; diameter=30)
+(; 7 ; 8 15 ; 21 28 29 ; diameter=29)
+All Components Size 4
+Perfect Forest: 
+(; 1 ; 22 23 ; 27 28 5 ; diameter=28)
+(; 2 ; 9 11 ; 13 15 4 ; diameter=15)
+(; 3 ; 14 17 ; 21 24 7 ; diameter=24)
+(; 6 ; 10 16 ; 19 25 29 ; diameter=29)
+(; 8 ; 12 20 ; 18 26 30 ; diameter=30)
+All Components Size 4
+Perfect Forest: 
+(; 1 ; 23 24 ; 28 29 5 ; diameter=29)
+(; 2 ; 9 11 ; 16 18 7 ; diameter=18)
+(; 3 ; 10 13 ; 27 30 17 ; diameter=30)
+(; 4 ; 15 19 ; 21 25 6 ; diameter=25)
+(; 8 ; 12 20 ; 14 22 26 ; diameter=26)
+All Components Size 4
+Perfect Forest: 
+(; 1 ; 18 19 ; 26 27 8 ; diameter=27)
+(; 2 ; 22 24 ; 28 30 6 ; diameter=30)
+(; 3 ; 9 12 ; 14 17 5 ; diameter=17)
+(; 4 ; 11 15 ; 21 25 10 ; diameter=25)
+(; 7 ; 13 20 ; 16 23 29 ; diameter=29)
+All Components Size 4
+Perfect Forest: 
+(; 1 ; 21 22 ; 27 28 6 ; diameter=28)
+(; 2 ; 11 13 ; 16 18 5 ; diameter=18)
+(; 3 ; 9 12 ; 17 20 8 ; diameter=20)
+(; 4 ; 19 23 ; 26 30 7 ; diameter=30)
+(; 10 ; 14 24 ; 15 25 29 ; diameter=29)
+All Components Size 4
+Perfect Forest: 
+(; 1 ; 22 23 ; 26 27 4 ; diameter=27)
+(; 2 ; 13 15 ; 16 14 29 ; diameter=29)
+(; 3 ; 9 12 ; 17 20 8 ; diameter=20)
+(; 5 ; 19 24 ; 25 30 6 ; diameter=30)
+(; 7 ; 11 18 ; 21 28 10 ; diameter=28)
+All Components Size 4
+Perfect Forest: 
+(; 1 ; 25 26 ; 27 28 2 ; diameter=28)
+(; 3 ; 14 17 ; 21 24 7 ; diameter=24)
+(; 4 ; 9 13 ; 15 19 6 ; diameter=19)
+(; 5 ; 11 16 ; 18 23 29 ; diameter=29)
+(; 8 ; 12 20 ; 22 30 10 ; diameter=30)
+All Components Size 4
+Perfect Forest: 
+(; 1 ; 11 12 ; 17 18 6 ; diameter=18)
+(; 2 ; 21 23 ; 26 28 5 ; diameter=28)
+(; 3 ; 19 22 ; 27 30 8 ; diameter=30)
+(; 4 ; 9 13 ; 16 20 7 ; diameter=20)
+(; 10 ; 14 24 ; 15 25 29 ; diameter=29)
+All Components Size 4
+Perfect Forest: 
+(; 1 ; 14 15 ; 24 25 10 ; diameter=25)
+(; 2 ; 21 23 ; 26 28 5 ; diameter=28)
+(; 3 ; 19 22 ; 27 30 8 ; diameter=30)
+(; 4 ; 9 13 ; 16 20 7 ; diameter=20)
+(; 6 ; 11 17 ; 18 12 29 ; diameter=29)
+All Components Size 4
+Perfect Forest: 
+(; 1 ; 11 12 ; 18 19 29 ; diameter=29)
+(; 2 ; 23 25 ; 26 28 3 ; diameter=28)
+(; 4 ; 9 13 ; 17 21 8 ; diameter=21)
+(; 5 ; 15 20 ; 22 27 7 ; diameter=27)
+(; 6 ; 10 16 ; 24 30 14 ; diameter=30)
+All Components Size 4
+Perfect Forest: 
+(; 1 ; 25 26 ; 27 28 2 ; diameter=28)
+(; 3 ; 12 15 ; 19 22 7 ; diameter=22)
+(; 4 ; 9 13 ; 17 21 8 ; diameter=21)
+(; 5 ; 11 16 ; 18 23 29 ; diameter=29)
+(; 6 ; 14 20 ; 24 30 10 ; diameter=30)
+All Components Size 4
+Perfect Forest: 
+(; 1 ; 12 13 ; 16 17 28 ; diameter=28)
+(; 2 ; 22 24 ; 25 27 3 ; diameter=27)
+(; 4 ; 19 23 ; 26 30 7 ; diameter=30)
+(; 5 ; 9 14 ; 15 20 6 ; diameter=20)
+(; 8 ; 10 18 ; 21 29 11 ; diameter=29)
+All Components Size 4
+Perfect Forest: 
+(; 1 ; 23 24 ; 25 26 2 ; diameter=26)
+(; 3 ; 19 22 ; 27 30 8 ; diameter=30)
+(; 4 ; 12 16 ; 17 13 29 ; diameter=29)
+(; 5 ; 9 14 ; 15 20 6 ; diameter=20)
+(; 7 ; 11 18 ; 21 28 10 ; diameter=28)
+All Components Size 4
+Perfect Forest: 
+(; 1 ; 26 27 ; 29 30 3 ; diameter=30)
+(; 2 ; 17 19 ; 23 25 6 ; diameter=25)
+(; 4 ; 11 15 ; 24 28 13 ; diameter=28)
+(; 5 ; 9 14 ; 16 21 7 ; diameter=21)
+(; 8 ; 10 18 ; 12 20 22 ; diameter=22)
+All Components Size 4
+Perfect Forest: 
+(; 1 ; 11 12 ; 29 30 18 ; diameter=30)
+(; 2 ; 19 21 ; 24 26 5 ; diameter=26)
+(; 3 ; 17 20 ; 25 28 8 ; diameter=28)
+(; 4 ; 10 14 ; 23 27 13 ; diameter=27)
+(; 6 ; 9 15 ; 16 22 7 ; diameter=22)
+All Components Size 4
+Perfect Forest: 
+(; 1 ; 12 13 ; 26 27 14 ; diameter=27)
+(; 2 ; 23 25 ; 28 30 5 ; diameter=30)
+(; 3 ; 17 20 ; 21 24 4 ; diameter=24)
+(; 6 ; 9 15 ; 16 22 7 ; diameter=22)
+(; 8 ; 10 18 ; 19 11 29 ; diameter=29)
+All Components Size 4
+Perfect Forest: 
+(; 1 ; 9 10 ; 27 28 18 ; diameter=28)
+(; 2 ; 19 21 ; 24 26 5 ; diameter=26)
+(; 3 ; 11 14 ; 17 20 6 ; diameter=20)
+(; 4 ; 12 16 ; 25 29 13 ; diameter=29)
+(; 7 ; 15 22 ; 23 30 8 ; diameter=30)
+All Components Size 4
+Perfect Forest: 
+(; 1 ; 9 10 ; 13 12 22 ; diameter=22)
+(; 2 ; 17 19 ; 25 27 8 ; diameter=27)
+(; 3 ; 11 14 ; 18 15 29 ; diameter=29)
+(; 4 ; 20 24 ; 26 30 6 ; diameter=30)
+(; 5 ; 16 21 ; 23 28 7 ; diameter=28)
+All Components Size 4
+Perfect Forest: 
+(; 1 ; 9 10 ; 28 29 19 ; diameter=29)
+(; 2 ; 14 16 ; 21 23 7 ; diameter=23)
+(; 3 ; 22 25 ; 27 30 5 ; diameter=30)
+(; 4 ; 11 15 ; 13 17 24 ; diameter=24)
+(; 6 ; 12 18 ; 20 26 8 ; diameter=26)
+All Components Size 4
+Perfect Forest: 
+(; 1 ; 9 10 ; 14 13 23 ; diameter=23)
+(; 2 ; 19 21 ; 27 29 8 ; diameter=29)
+(; 3 ; 15 18 ; 22 25 7 ; diameter=25)
+(; 4 ; 20 24 ; 26 30 6 ; diameter=30)
+(; 5 ; 11 16 ; 17 12 28 ; diameter=28)
+All Components Size 4
+Perfect Forest: 
+(; 1 ; 18 19 ; 26 27 8 ; diameter=27)
+(; 2 ; 9 11 ; 21 23 30 ; diameter=30)
+(; 3 ; 12 15 ; 25 28 13 ; diameter=28)
+(; 4 ; 10 14 ; 16 20 6 ; diameter=20)
+(; 5 ; 17 22 ; 24 29 7 ; diameter=29)
+All Components Size 4
+Perfect Forest: 
+(; 1 ; 23 24 ; 29 30 6 ; diameter=30)
+(; 2 ; 9 11 ; 16 14 25 ; diameter=25)
+(; 3 ; 10 13 ; 18 15 28 ; diameter=28)
+(; 4 ; 17 21 ; 22 26 5 ; diameter=26)
+(; 7 ; 12 19 ; 20 27 8 ; diameter=27)
+All Components Size 4
+Perfect Forest: 
+(; 1 ; 13 14 ; 18 19 5 ; diameter=19)
+(; 2 ; 9 11 ; 24 26 15 ; diameter=26)
+(; 3 ; 20 23 ; 27 30 7 ; diameter=30)
+(; 4 ; 17 21 ; 25 29 8 ; diameter=29)
+(; 6 ; 10 16 ; 22 28 12 ; diameter=28)
+All Components Size 4
+Perfect Forest: 
+(; 1 ; 23 24 ; 25 26 2 ; diameter=26)
+(; 3 ; 9 12 ; 27 30 18 ; diameter=30)
+(; 4 ; 10 14 ; 19 15 29 ; diameter=29)
+(; 5 ; 11 16 ; 17 22 6 ; diameter=22)
+(; 7 ; 13 20 ; 21 28 8 ; diameter=28)
+All Components Size 4
+Perfect Forest: 
+(; 1 ; 23 24 ; 28 29 5 ; diameter=29)
+(; 2 ; 13 15 ; 20 22 7 ; diameter=22)
+(; 3 ; 9 12 ; 18 21 27 ; diameter=27)
+(; 4 ; 10 14 ; 26 30 16 ; diameter=30)
+(; 6 ; 11 17 ; 19 25 8 ; diameter=25)
+All Components Size 4
+Perfect Forest: 
+(; 1 ; 25 26 ; 29 30 4 ; diameter=30)
+(; 2 ; 11 13 ; 19 21 8 ; diameter=21)
+(; 3 ; 9 12 ; 14 17 23 ; diameter=23)
+(; 5 ; 15 20 ; 22 27 7 ; diameter=27)
+(; 6 ; 10 16 ; 18 24 28 ; diameter=28)
+All Components Size 4
+Perfect Forest: 
+(; 1 ; 21 22 ; 27 28 6 ; diameter=28)
+(; 2 ; 10 12 ; 17 19 7 ; diameter=19)
+(; 3 ; 15 18 ; 23 26 8 ; diameter=26)
+(; 4 ; 9 13 ; 20 24 29 ; diameter=29)
+(; 5 ; 11 16 ; 25 30 14 ; diameter=30)
+All Components Size 4
+Perfect Forest: 
+(; 1 ; 23 24 ; 29 30 6 ; diameter=30)
+(; 2 ; 18 20 ; 26 28 8 ; diameter=28)
+(; 3 ; 11 14 ; 16 19 27 ; diameter=27)
+(; 4 ; 9 13 ; 21 25 12 ; diameter=25)
+(; 5 ; 10 15 ; 17 22 7 ; diameter=22)
+All Components Size 4
+Perfect Forest: 
+(; 1 ; 10 11 ; 17 18 27 ; diameter=27)
+(; 2 ; 22 24 ; 28 30 6 ; diameter=30)
+(; 3 ; 12 15 ; 20 23 8 ; diameter=23)
+(; 4 ; 9 13 ; 25 29 16 ; diameter=29)
+(; 5 ; 14 19 ; 21 26 7 ; diameter=26)
+All Components Size 4
+Perfect Forest: 
+(; 1 ; 10 11 ; 18 17 28 ; diameter=28)
+(; 2 ; 24 26 ; 27 29 3 ; diameter=29)
+(; 4 ; 9 13 ; 12 16 21 ; diameter=21)
+(; 5 ; 14 19 ; 20 25 6 ; diameter=25)
+(; 7 ; 15 22 ; 23 30 8 ; diameter=30)
+All Components Size 4
+Perfect Forest: 
+(; 1 ; 26 27 ; 28 29 2 ; diameter=29)
+(; 3 ; 12 15 ; 17 20 5 ; diameter=20)
+(; 4 ; 9 13 ; 19 23 10 ; diameter=23)
+(; 6 ; 16 22 ; 24 30 8 ; diameter=30)
+(; 7 ; 11 18 ; 14 21 25 ; diameter=25)
+All Components Size 4
+Perfect Forest: 
+(; 1 ; 23 24 ; 29 30 6 ; diameter=30)
+(; 2 ; 12 14 ; 19 21 7 ; diameter=21)
+(; 3 ; 17 20 ; 25 28 8 ; diameter=28)
+(; 4 ; 9 13 ; 18 22 27 ; diameter=27)
+(; 5 ; 10 15 ; 16 11 26 ; diameter=26)
+All Components Size 4
+Perfect Forest: 
+(; 1 ; 24 25 ; 29 30 5 ; diameter=30)
+(; 2 ; 18 20 ; 26 28 8 ; diameter=28)
+(; 3 ; 12 15 ; 19 22 7 ; diameter=22)
+(; 4 ; 9 13 ; 23 27 14 ; diameter=27)
+(; 6 ; 10 16 ; 11 17 21 ; diameter=21)
+All Components Size 4
+Perfect Forest: 
+(; 1 ; 19 20 ; 27 28 8 ; diameter=28)
+(; 2 ; 10 12 ; 13 15 23 ; diameter=23)
+(; 3 ; 22 25 ; 26 29 4 ; diameter=29)
+(; 5 ; 9 14 ; 21 16 30 ; diameter=30)
+(; 6 ; 11 17 ; 18 24 7 ; diameter=24)
+All Components Size 4
+Perfect Forest: 
+(; 1 ; 11 12 ; 18 19 7 ; diameter=19)
+(; 2 ; 22 24 ; 26 28 4 ; diameter=28)
+(; 3 ; 10 13 ; 17 20 27 ; diameter=27)
+(; 5 ; 9 14 ; 25 30 16 ; diameter=30)
+(; 6 ; 15 21 ; 23 29 8 ; diameter=29)
+All Components Size 4
+Perfect Forest: 
+(; 1 ; 11 12 ; 28 29 17 ; diameter=29)
+(; 2 ; 19 21 ; 25 27 6 ; diameter=27)
+(; 3 ; 13 16 ; 20 23 7 ; diameter=23)
+(; 4 ; 18 22 ; 26 30 8 ; diameter=30)
+(; 5 ; 9 14 ; 15 10 24 ; diameter=24)
+All Components Size 4
+Perfect Forest: 
+(; 1 ; 17 18 ; 24 25 7 ; diameter=25)
+(; 2 ; 11 13 ; 19 21 8 ; diameter=21)
+(; 3 ; 23 26 ; 27 30 4 ; diameter=30)
+(; 5 ; 9 14 ; 20 15 29 ; diameter=29)
+(; 6 ; 10 16 ; 22 28 12 ; diameter=28)
+All Components Size 4
+Perfect Forest: 
+(; 1 ; 22 23 ; 29 30 7 ; diameter=30)
+(; 2 ; 18 20 ; 26 28 8 ; diameter=28)
+(; 3 ; 11 14 ; 24 27 13 ; diameter=27)
+(; 4 ; 12 16 ; 17 21 5 ; diameter=21)
+(; 6 ; 9 15 ; 19 25 10 ; diameter=25)
+All Components Size 4
+Perfect Forest: 
+(; 1 ; 11 12 ; 13 14 2 ; diameter=14)
+(; 3 ; 18 21 ; 26 29 8 ; diameter=29)
+(; 4 ; 19 23 ; 24 28 5 ; diameter=28)
+(; 6 ; 9 15 ; 16 22 25 ; diameter=25)
+(; 7 ; 10 17 ; 20 27 30 ; diameter=30)
+All Components Size 4
+Perfect Forest: 
+(; 1 ; 13 14 ; 21 22 8 ; diameter=22)
+(; 2 ; 25 27 ; 28 30 3 ; diameter=30)
+(; 4 ; 15 19 ; 20 24 5 ; diameter=24)
+(; 6 ; 12 18 ; 23 29 11 ; diameter=29)
+(; 7 ; 9 16 ; 17 10 26 ; diameter=26)
+All Components Size 4
+Perfect Forest: 
+(; 1 ; 11 12 ; 28 29 17 ; diameter=29)
+(; 2 ; 13 15 ; 21 23 8 ; diameter=23)
+(; 3 ; 22 25 ; 27 30 5 ; diameter=30)
+(; 4 ; 14 18 ; 20 24 6 ; diameter=24)
+(; 7 ; 9 16 ; 19 26 10 ; diameter=26)
+All Components Size 4
+Perfect Forest: 
+(; 1 ; 24 25 ; 29 30 5 ; diameter=30)
+(; 2 ; 10 12 ; 13 15 23 ; diameter=23)
+(; 3 ; 11 14 ; 18 21 7 ; diameter=21)
+(; 4 ; 16 20 ; 22 26 6 ; diameter=26)
+(; 8 ; 9 17 ; 19 27 28 ; diameter=28)
+All Components Size 4
+Perfect Forest: 
+(; 1 ; 11 12 ; 15 14 26 ; diameter=26)
+(; 2 ; 21 23 ; 28 30 7 ; diameter=30)
+(; 3 ; 13 16 ; 19 22 6 ; diameter=22)
+(; 4 ; 20 24 ; 25 29 5 ; diameter=29)
+(; 8 ; 9 17 ; 18 10 27 ; diameter=27)
+All Components Size 4
+Perfect Forest: 
+(; 1 ; 10 11 ; 15 16 5 ; diameter=16)
+(; 2 ; 23 25 ; 27 29 4 ; diameter=29)
+(; 3 ; 14 17 ; 21 24 7 ; diameter=24)
+(; 6 ; 13 19 ; 22 28 9 ; diameter=28)
+(; 8 ; 12 20 ; 18 26 30 ; diameter=30)
+All Components Size 4
+Perfect Forest: 
+(; 1 ; 10 11 ; 16 17 6 ; diameter=17)
+(; 2 ; 18 20 ; 25 27 7 ; diameter=27)
+(; 3 ; 12 15 ; 26 29 14 ; diameter=29)
+(; 4 ; 19 23 ; 24 28 5 ; diameter=28)
+(; 8 ; 13 21 ; 22 30 9 ; diameter=30)
+All Components Size 4
+Perfect Forest: 
+(; 1 ; 25 26 ; 27 28 2 ; diameter=28)
+(; 3 ; 10 13 ; 16 19 6 ; diameter=19)
+(; 4 ; 11 15 ; 20 24 9 ; diameter=24)
+(; 5 ; 12 17 ; 18 23 30 ; diameter=30)
+(; 7 ; 14 21 ; 22 29 8 ; diameter=29)
+All Components Size 4
+Perfect Forest: 
+(; 1 ; 19 20 ; 28 29 9 ; diameter=29)
+(; 2 ; 13 15 ; 21 23 8 ; diameter=23)
+(; 3 ; 22 25 ; 27 30 5 ; diameter=30)
+(; 4 ; 10 14 ; 16 12 26 ; diameter=26)
+(; 6 ; 11 17 ; 18 24 7 ; diameter=24)
+All Components Size 4
+Perfect Forest: 
+(; 1 ; 23 24 ; 28 29 5 ; diameter=29)
+(; 2 ; 13 15 ; 20 22 7 ; diameter=22)
+(; 3 ; 18 21 ; 27 30 9 ; diameter=30)
+(; 4 ; 10 14 ; 16 12 26 ; diameter=26)
+(; 6 ; 11 17 ; 19 25 8 ; diameter=25)
+All done!
